@@ -1,0 +1,86 @@
+{
+  "Headers": [],
+  "Blocks": [
+    {
+      "PublicName": "Medicine supplies",
+      "Category": 0,
+      "Weight": 1,
+      "LootCollection": [
+        {
+          "m_amountAbs": 0,
+          "m_type": 0,
+          "m_amountRel": 0.3
+        },
+        {
+          "m_amountAbs": 0,
+          "m_type": 2,
+          "m_amountRel": 0.1
+        }
+      ],
+      "name": "MedicSmall_1",
+      "internalEnabled": true,
+      "persistentID": 3
+    },
+    {
+      "PublicName": "Armory supplies",
+      "Category": 2,
+      "Weight": 1,
+      "LootCollection": [
+        {
+          "m_amountAbs": 0,
+          "m_type": 1,
+          "m_amountRel": 0.3
+        },
+        {
+          "m_amountAbs": 0,
+          "m_type": 2,
+          "m_amountRel": 0.1
+        }
+      ],
+      "name": "ArmorySmall_1",
+      "internalEnabled": true,
+      "persistentID": 1
+    },
+    {
+      "PublicName": "Data Encryption Key",
+      "Category": 8,
+      "Weight": 1,
+      "LootCollection": [
+        {
+          "m_amountAbs": 0,
+          "m_type": 8,
+          "m_amountRel": 0.0
+        }
+      ],
+      "name": "EncryptionKey",
+      "internalEnabled": true,
+      "persistentID": 5
+    },
+    {
+      "PublicName": "",
+      "Category": 9,
+      "Weight": 1,
+      "LootCollection": [
+        {
+          "m_amountAbs": 0,
+          "m_type": 2,
+          "m_amountRel": 0.1
+        },
+        {
+          "m_amountAbs": 0,
+          "m_type": 0,
+          "m_amountRel": 0.1
+        },
+        {
+          "m_amountAbs": 0,
+          "m_type": 1,
+          "m_amountRel": 0.1
+        }
+      ],
+      "name": "LootSmall_1",
+      "internalEnabled": true,
+      "persistentID": 6
+    }
+  ],
+  "LastPersistentID": 6
+}

@@ -1,0 +1,235 @@
+{
+  "Headers": [],
+  "Blocks": [
+    {
+      "ModelDataPerType": {
+        "DirectPlacement": {
+          "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Delivery/Delivery_Mine_Deployer_Direct_1.prefab",
+          "Children": [
+            "Assets/Source/Graphics/Gear/ToolParts/delivery/Delivery_Mine_Deployer_Direct_1_GripAlign.FBX"
+          ],
+          "GearCategoryFilter": 0,
+          "LeftHandGripAnim": "Delivery_Mine_Deployer_Direct_1",
+          "AssetBundle": 100,
+          "BundleShard": 3
+        }
+      },
+      "GeneralDatas": [
+        {
+          "Type": 0,
+          "Data": {
+            "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Delivery/Delivery_Mine_Deployer_Direct_1.prefab",
+            "Children": [
+              "Assets/Source/Graphics/Gear/ToolParts/delivery/Delivery_Mine_Deployer_Direct_1_GripAlign.FBX"
+            ],
+            "GearCategoryFilter": 0,
+            "LeftHandGripAnim": "Delivery_Mine_Deployer_Direct_1",
+            "AssetBundle": 100,
+            "BundleShard": 3
+          }
+        }
+      ],
+      "Aligns": [
+        {
+          "AlignType": 15,
+          "AlignName": "Delivery_Targeting"
+        },
+        {
+          "AlignType": 16,
+          "AlignName": "Delivery_Screen"
+        },
+        {
+          "AlignType": 14,
+          "AlignName": "Delivery_Payload"
+        },
+        {
+          "AlignType": 7,
+          "AlignName": "LeftHand"
+        }
+      ],
+      "name": "Delivery_Mine_Deployer",
+      "internalEnabled": true,
+      "persistentID": 2
+    },
+    {
+      "ModelDataPerType": {
+        "DirectPlacement": {
+          "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Delivery/Delivery_Nano_Swarm_1.prefab",
+          "Children": [
+            "Assets/Source/Graphics/Gear/ToolParts/delivery/Delivery_Mine_Deployer_Direct_1_GripAlign.FBX"
+          ],
+          "GearCategoryFilter": 0,
+          "LeftHandGripAnim": "Delivery_Mine_Deployer_Direct_1",
+          "AssetBundle": 100,
+          "BundleShard": 3
+        }
+      },
+      "GeneralDatas": [
+        {
+          "Type": 0,
+          "Data": {
+            "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Delivery/Delivery_Nano_Swarm_1.prefab",
+            "Children": [
+              "Assets/Source/Graphics/Gear/ToolParts/delivery/Delivery_Mine_Deployer_Direct_1_GripAlign.FBX"
+            ],
+            "GearCategoryFilter": 0,
+            "LeftHandGripAnim": "Delivery_Mine_Deployer_Direct_1",
+            "AssetBundle": 100,
+            "BundleShard": 3
+          }
+        }
+      ],
+      "Aligns": [
+        {
+          "AlignType": 15,
+          "AlignName": "Delivery_Targeting"
+        },
+        {
+          "AlignType": 16,
+          "AlignName": "Delivery_Screen"
+        },
+        {
+          "AlignType": 14,
+          "AlignName": "Delivery_Payload"
+        },
+        {
+          "AlignType": 7,
+          "AlignName": "LeftHand"
+        }
+      ],
+      "name": "Delivery_Nano_Swarm",
+      "internalEnabled": true,
+      "persistentID": 6
+    },
+    {
+      "ModelDataPerType": {
+        "DirectPlacement": {
+          "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Delivery/Delivery_Bio_Tracker_1.prefab",
+          "Children": [
+            "Assets/Source/Graphics/Gear/ToolParts/delivery/Delivery_Bio_Tracker_1_GripAlign.FBX"
+          ],
+          "GearCategoryFilter": 0,
+          "LeftHandGripAnim": "Delivery_Bio_Tracker_1",
+          "AssetBundle": 100,
+          "BundleShard": 6
+        }
+      },
+      "GeneralDatas": [
+        {
+          "Type": 0,
+          "Data": {
+            "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Delivery/Delivery_Bio_Tracker_1.prefab",
+            "Children": [
+              "Assets/Source/Graphics/Gear/ToolParts/delivery/Delivery_Bio_Tracker_1_GripAlign.FBX"
+            ],
+            "GearCategoryFilter": 0,
+            "LeftHandGripAnim": "Delivery_Bio_Tracker_1",
+            "AssetBundle": 100,
+            "BundleShard": 6
+          }
+        }
+      ],
+      "Aligns": [
+        {
+          "AlignType": 15,
+          "AlignName": "Bio_Tracker_1_Targeting"
+        },
+        {
+          "AlignType": 16,
+          "AlignName": "Bio_Tracker_1_Screen"
+        },
+        {
+          "AlignType": 7,
+          "AlignName": "LeftHand"
+        }
+      ],
+      "name": "Delivery_Bio_Tracker",
+      "internalEnabled": true,
+      "persistentID": 3
+    },
+    {
+      "ModelDataPerType": {
+        "LongRangeBurst": {
+          "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Delivery/Delivery_Glue_Distance_1.prefab",
+          "Children": [
+            "Assets/Source/Graphics/Gear/ToolParts/delivery/Delivery_Glue_Distance_1_GripAlign.FBX"
+          ],
+          "GearCategoryFilter": 0,
+          "LeftHandGripAnim": "Delivery_Glue_Distance_1",
+          "AssetBundle": 100,
+          "BundleShard": 2
+        }
+      },
+      "GeneralDatas": [
+        {
+          "Type": 4,
+          "Data": {
+            "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Delivery/Delivery_Glue_Distance_1.prefab",
+            "Children": [
+              "Assets/Source/Graphics/Gear/ToolParts/delivery/Delivery_Glue_Distance_1_GripAlign.FBX"
+            ],
+            "GearCategoryFilter": 0,
+            "LeftHandGripAnim": "Delivery_Glue_Distance_1",
+            "AssetBundle": 100,
+            "BundleShard": 2
+          }
+        }
+      ],
+      "Aligns": [
+        {
+          "AlignType": 14,
+          "AlignName": "a_payload"
+        },
+        {
+          "AlignType": 6,
+          "AlignName": "a_sight"
+        },
+        {
+          "AlignType": 7,
+          "AlignName": "LeftHand"
+        },
+        {
+          "AlignType": 16,
+          "AlignName": "a_Screen"
+        },
+        {
+          "AlignType": 15,
+          "AlignName": "a_sight"
+        },
+        {
+          "AlignType": 15,
+          "AlignName": "a_targeting"
+        }
+      ],
+      "name": "Delivery_Glue",
+      "internalEnabled": true,
+      "persistentID": 4
+    },
+    {
+      "ModelDataPerType": {
+        "LongRangeSemi": {
+          "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Delivery/Delivery_Geo_Tracker_1.prefab",
+          "GearCategoryFilter": 0,
+          "AssetBundle": 100,
+          "BundleShard": 1
+        }
+      },
+      "GeneralDatas": [
+        {
+          "Type": 3,
+          "Data": {
+            "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Tools/Delivery/Delivery_Geo_Tracker_1.prefab",
+            "GearCategoryFilter": 0,
+            "AssetBundle": 100,
+            "BundleShard": 1
+          }
+        }
+      ],
+      "Aligns": [],
+      "name": "Delivery_Geo_Tracker",
+      "internalEnabled": true,
+      "persistentID": 5
+    }
+  ],
+  "LastPersistentID": 6
+}

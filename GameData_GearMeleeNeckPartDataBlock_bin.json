@@ -1,0 +1,176 @@
+{
+  "Headers": [],
+  "Blocks": [
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Necks/Neck_Hammer_3.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 150,
+        "BundleShard": 19
+      },
+      "Aligns": [
+        {
+          "AlignType": 20,
+          "AlignName": "Head_align"
+        }
+      ],
+      "name": "Neck_Hammer_3",
+      "internalEnabled": true,
+      "persistentID": 2
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Necks/Neck_Hammer_5.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 150,
+        "BundleShard": 0
+      },
+      "Aligns": [
+        {
+          "AlignType": 20,
+          "AlignName": "Head_align"
+        }
+      ],
+      "name": "Neck_Hammer_5",
+      "internalEnabled": true,
+      "persistentID": 3
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Necks/Neck_Hammer_10.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 150,
+        "BundleShard": 1
+      },
+      "Aligns": [
+        {
+          "AlignType": 20,
+          "AlignName": "Head_align"
+        }
+      ],
+      "name": "Neck_Hammer_10",
+      "internalEnabled": true,
+      "persistentID": 4
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Necks/Neck_Hammer_8.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 150,
+        "BundleShard": 2
+      },
+      "Aligns": [
+        {
+          "AlignType": 20,
+          "AlignName": "Head_align"
+        }
+      ],
+      "name": "Neck_Hammer_8",
+      "internalEnabled": true,
+      "persistentID": 5
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Necks/Neck_Hammer_6.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 150,
+        "BundleShard": 3
+      },
+      "Aligns": [
+        {
+          "AlignType": 20,
+          "AlignName": "Head_align"
+        }
+      ],
+      "name": "Neck_Hammer_6",
+      "internalEnabled": true,
+      "persistentID": 6
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Necks/Neck_Hammer_2.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 150,
+        "BundleShard": 4
+      },
+      "Aligns": [
+        {
+          "AlignType": 20,
+          "AlignName": "Head_align"
+        }
+      ],
+      "name": "Neck_Hammer_2",
+      "internalEnabled": true,
+      "persistentID": 7
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Necks/Neck_Hammer_7.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 150,
+        "BundleShard": 5
+      },
+      "Aligns": [
+        {
+          "AlignType": 20,
+          "AlignName": "Head_align"
+        }
+      ],
+      "name": "Neck_Hammer_7",
+      "internalEnabled": true,
+      "persistentID": 9
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Necks/Neck_Hammer_1.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 150,
+        "BundleShard": 6
+      },
+      "Aligns": [
+        {
+          "AlignType": 20,
+          "AlignName": "Head_align"
+        }
+      ],
+      "name": "Neck_Hammer_1",
+      "internalEnabled": true,
+      "persistentID": 11
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Necks/Neck_Hammer_9.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 150,
+        "BundleShard": 7
+      },
+      "Aligns": [
+        {
+          "AlignType": 20,
+          "AlignName": "Head_align"
+        }
+      ],
+      "name": "Neck_Hammer_9",
+      "internalEnabled": true,
+      "persistentID": 13
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Necks/Neck_Hammer_4.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 150,
+        "BundleShard": 8
+      },
+      "Aligns": [
+        {
+          "AlignType": 20,
+          "AlignName": "Head_align"
+        }
+      ],
+      "name": "Neck_Hammer_4",
+      "internalEnabled": true,
+      "persistentID": 12
+    }
+  ],
+  "LastPersistentID": 13
+}

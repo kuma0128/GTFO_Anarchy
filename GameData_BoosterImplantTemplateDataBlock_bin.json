@@ -1,0 +1,1591 @@
+{
+  "Headers": [
+    {
+      "AboveBlockID": 1,
+      "LabelText": "MUTED"
+    },
+    {
+      "AboveBlockID": 2,
+      "LabelText": "BOLD"
+    },
+    {
+      "AboveBlockID": 12,
+      "LabelText": "AGGRESSIVE"
+    },
+    {
+      "AboveBlockID": 26,
+      "LabelText": "BOLD"
+    },
+    {
+      "AboveBlockID": 38,
+      "LabelText": "AGGRESSIVE"
+    }
+  ],
+  "Blocks": [
+    {
+      "Deprecated": false,
+      "PublicName": 706,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 1.0,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.41421354,
+        "sqrMagnitude": 2.0
+      },
+      "DropWeight": 2.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [
+        {
+          "BoosterImplantEffect": 8,
+          "MinValue": 1.1,
+          "MaxValue": 1.13
+        }
+      ],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 7,
+            "MinValue": 1.1,
+            "MaxValue": 1.15
+          },
+          {
+            "BoosterImplantEffect": 50,
+            "MinValue": 1.1,
+            "MaxValue": 1.15
+          }
+        ]
+      ],
+      "ImplantCategory": 0,
+      "MainEffectType": 2,
+      "name": "Muted_HealthSupport_Revive",
+      "internalEnabled": true,
+      "persistentID": 1
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 707,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 1.0,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.41421354,
+        "sqrMagnitude": 2.0
+      },
+      "DropWeight": 1.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [
+        {
+          "BoosterImplantEffect": 12,
+          "MinValue": 1.15,
+          "MaxValue": 1.25
+        }
+      ],
+      "RandomEffects": [],
+      "ImplantCategory": 0,
+      "MainEffectType": 2,
+      "name": "Muted_HealthSupport_InfectionRes",
+      "internalEnabled": true,
+      "persistentID": 22
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 708,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 1.0,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.41421354,
+        "sqrMagnitude": 2.0
+      },
+      "DropWeight": 3.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [
+        {
+          "BoosterImplantEffect": 6,
+          "MinValue": 1.15,
+          "MaxValue": 1.25
+        }
+      ],
+      "RandomEffects": [],
+      "ImplantCategory": 0,
+      "MainEffectType": 2,
+      "name": "Muted_Health_RegenSpeed",
+      "internalEnabled": true,
+      "persistentID": 18
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 709,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 1.0,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.41421354,
+        "sqrMagnitude": 2.0
+      },
+      "DropWeight": 4.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 10,
+            "MinValue": 1.05,
+            "MaxValue": 1.15
+          },
+          {
+            "BoosterImplantEffect": 11,
+            "MinValue": 1.05,
+            "MaxValue": 1.15
+          }
+        ]
+      ],
+      "ImplantCategory": 0,
+      "MainEffectType": 2,
+      "name": "Muted_Health_Single_Resistance",
+      "internalEnabled": true,
+      "persistentID": 23
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 710,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 1.0,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.41421354,
+        "sqrMagnitude": 2.0
+      },
+      "DropWeight": 4.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [
+        {
+          "BoosterImplantEffect": 10,
+          "MinValue": 1.05,
+          "MaxValue": 1.1
+        },
+        {
+          "BoosterImplantEffect": 11,
+          "MinValue": 1.05,
+          "MaxValue": 1.1
+        }
+      ],
+      "RandomEffects": [],
+      "ImplantCategory": 0,
+      "MainEffectType": 2,
+      "name": "Muted_Health_Double_Resistance",
+      "internalEnabled": true,
+      "persistentID": 24
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 711,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 1.0,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.41421354,
+        "sqrMagnitude": 2.0
+      },
+      "DropWeight": 2.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 54,
+            "MinValue": 1.05,
+            "MaxValue": 1.15
+          }
+        ]
+      ],
+      "ImplantCategory": 0,
+      "MainEffectType": 1,
+      "name": "Muted_MeleeDamage",
+      "internalEnabled": true,
+      "persistentID": 4
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 712,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 1.0,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.41421354,
+        "sqrMagnitude": 2.0
+      },
+      "DropWeight": 7.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 52,
+            "MinValue": 1.05,
+            "MaxValue": 1.15
+          },
+          {
+            "BoosterImplantEffect": 53,
+            "MinValue": 1.05,
+            "MaxValue": 1.15
+          }
+        ]
+      ],
+      "ImplantCategory": 0,
+      "MainEffectType": 1,
+      "name": "Muted_WeaponDamage",
+      "internalEnabled": true,
+      "persistentID": 25
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 713,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 1.0,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.41421354,
+        "sqrMagnitude": 2.0
+      },
+      "DropWeight": 4.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 27,
+            "MinValue": 1.15,
+            "MaxValue": 1.25
+          },
+          {
+            "BoosterImplantEffect": 28,
+            "MinValue": 1.1,
+            "MaxValue": 1.15
+          },
+          {
+            "BoosterImplantEffect": 29,
+            "MinValue": 1.05,
+            "MaxValue": 1.1
+          },
+          {
+            "BoosterImplantEffect": 31,
+            "MinValue": 1.1,
+            "MaxValue": 1.15
+          },
+          {
+            "BoosterImplantEffect": 32,
+            "MinValue": 1.2,
+            "MaxValue": 1.3
+          }
+        ]
+      ],
+      "ImplantCategory": 0,
+      "MainEffectType": 4,
+      "name": "Muted_ToolStrength",
+      "internalEnabled": true,
+      "persistentID": 7
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 714,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 1.0,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.41421354,
+        "sqrMagnitude": 2.0
+      },
+      "DropWeight": 2.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 40,
+            "MinValue": 1.2,
+            "MaxValue": 1.3
+          },
+          {
+            "BoosterImplantEffect": 39,
+            "MinValue": 1.2,
+            "MaxValue": 1.3
+          },
+          {
+            "BoosterImplantEffect": 33,
+            "MinValue": 1.05,
+            "MaxValue": 1.1
+          }
+        ]
+      ],
+      "ImplantCategory": 0,
+      "MainEffectType": 4,
+      "name": "Muted_ToolWeakEffects",
+      "internalEnabled": true,
+      "persistentID": 20
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 715,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 1.0,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.41421354,
+        "sqrMagnitude": 2.0
+      },
+      "DropWeight": 1.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [
+        {
+          "BoosterImplantEffect": 34,
+          "MinValue": 1.2,
+          "MaxValue": 1.4
+        }
+      ],
+      "RandomEffects": [],
+      "ImplantCategory": 0,
+      "MainEffectType": 3,
+      "name": "Muted_ProcessingSpeed",
+      "internalEnabled": true,
+      "persistentID": 10
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 716,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 1.0,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.41421354,
+        "sqrMagnitude": 2.0
+      },
+      "DropWeight": 2.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 41,
+            "MinValue": 1.13,
+            "MaxValue": 1.18
+          }
+        ]
+      ],
+      "ImplantCategory": 0,
+      "MainEffectType": 3,
+      "name": "Muted_BioscanSpeed",
+      "internalEnabled": true,
+      "persistentID": 21
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 717,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 1.0,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.41421354,
+        "sqrMagnitude": 2.0
+      },
+      "DropWeight": 4.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 36,
+            "MinValue": 1.1,
+            "MaxValue": 1.2
+          },
+          {
+            "BoosterImplantEffect": 37,
+            "MinValue": 1.1,
+            "MaxValue": 1.2
+          },
+          {
+            "BoosterImplantEffect": 38,
+            "MinValue": 1.1,
+            "MaxValue": 1.2
+          },
+          {
+            "BoosterImplantEffect": 5,
+            "MinValue": 1.15,
+            "MaxValue": 1.25
+          }
+        ]
+      ],
+      "ImplantCategory": 0,
+      "MainEffectType": 0,
+      "name": "Muted_InitialState",
+      "internalEnabled": true,
+      "persistentID": 13
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 706,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 2.0,
+        "normalized": {
+          "x": 0.4472136,
+          "y": 0.8944272,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 2.236068,
+        "sqrMagnitude": 5.0
+      },
+      "DropWeight": 1.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [
+        {
+          "BoosterImplantEffect": 8,
+          "MinValue": 1.2,
+          "MaxValue": 1.3
+        }
+      ],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 7,
+            "MinValue": 1.2,
+            "MaxValue": 1.3
+          },
+          {
+            "BoosterImplantEffect": 50,
+            "MinValue": 1.2,
+            "MaxValue": 1.3
+          }
+        ]
+      ],
+      "ImplantCategory": 1,
+      "MainEffectType": 2,
+      "name": "Bold_HealthSupport_Revive",
+      "internalEnabled": true,
+      "persistentID": 26
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 707,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 2.0,
+        "normalized": {
+          "x": 0.4472136,
+          "y": 0.8944272,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 2.236068,
+        "sqrMagnitude": 5.0
+      },
+      "DropWeight": 1.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [
+        {
+          "BoosterImplantEffect": 12,
+          "MinValue": 1.4,
+          "MaxValue": 1.6
+        }
+      ],
+      "RandomEffects": [],
+      "ImplantCategory": 1,
+      "MainEffectType": 2,
+      "name": "Bold_HealthSupport_InfectionRes",
+      "internalEnabled": true,
+      "persistentID": 27
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 708,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 2.0,
+        "normalized": {
+          "x": 0.4472136,
+          "y": 0.8944272,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 2.236068,
+        "sqrMagnitude": 5.0
+      },
+      "DropWeight": 2.0,
+      "Conditions": [],
+      "RandomConditions": [
+        5
+      ],
+      "Effects": [
+        {
+          "BoosterImplantEffect": 6,
+          "MinValue": 1.6,
+          "MaxValue": 2.0
+        }
+      ],
+      "RandomEffects": [],
+      "ImplantCategory": 1,
+      "MainEffectType": 2,
+      "name": "Bold_Health_RegenSpeed",
+      "internalEnabled": true,
+      "persistentID": 28
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 709,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 2.0,
+        "normalized": {
+          "x": 0.4472136,
+          "y": 0.8944272,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 2.236068,
+        "sqrMagnitude": 5.0
+      },
+      "DropWeight": 4.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 10,
+            "MinValue": 1.15,
+            "MaxValue": 1.2
+          },
+          {
+            "BoosterImplantEffect": 11,
+            "MinValue": 1.15,
+            "MaxValue": 1.2
+          }
+        ]
+      ],
+      "ImplantCategory": 1,
+      "MainEffectType": 2,
+      "name": "Bold_Health_Single_Resistance",
+      "internalEnabled": true,
+      "persistentID": 29
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 710,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 2.0,
+        "normalized": {
+          "x": 0.4472136,
+          "y": 0.8944272,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 2.236068,
+        "sqrMagnitude": 5.0
+      },
+      "DropWeight": 2.0,
+      "Conditions": [],
+      "RandomConditions": [
+        5,
+        30
+      ],
+      "Effects": [
+        {
+          "BoosterImplantEffect": 10,
+          "MinValue": 1.1,
+          "MaxValue": 1.15
+        },
+        {
+          "BoosterImplantEffect": 11,
+          "MinValue": 1.1,
+          "MaxValue": 1.15
+        }
+      ],
+      "RandomEffects": [],
+      "ImplantCategory": 1,
+      "MainEffectType": 2,
+      "name": "Bold_Health_Double_Resistance",
+      "internalEnabled": true,
+      "persistentID": 30
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 711,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 2.0,
+        "normalized": {
+          "x": 0.4472136,
+          "y": 0.8944272,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 2.236068,
+        "sqrMagnitude": 5.0
+      },
+      "DropWeight": 2.0,
+      "Conditions": [],
+      "RandomConditions": [
+        5,
+        30
+      ],
+      "Effects": [],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 54,
+            "MinValue": 1.2,
+            "MaxValue": 1.3
+          }
+        ]
+      ],
+      "ImplantCategory": 1,
+      "MainEffectType": 1,
+      "name": "Bold_MeleeDamage",
+      "internalEnabled": true,
+      "persistentID": 31
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 712,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 2.0,
+        "normalized": {
+          "x": 0.4472136,
+          "y": 0.8944272,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 2.236068,
+        "sqrMagnitude": 5.0
+      },
+      "DropWeight": 7.0,
+      "Conditions": [],
+      "RandomConditions": [
+        5,
+        10,
+        11
+      ],
+      "Effects": [],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 52,
+            "MinValue": 1.15,
+            "MaxValue": 1.2
+          },
+          {
+            "BoosterImplantEffect": 53,
+            "MinValue": 1.15,
+            "MaxValue": 1.2
+          }
+        ]
+      ],
+      "ImplantCategory": 1,
+      "MainEffectType": 1,
+      "name": "Bold_WeaponDamage",
+      "internalEnabled": true,
+      "persistentID": 32
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 713,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 2.0,
+        "normalized": {
+          "x": 0.4472136,
+          "y": 0.8944272,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 2.236068,
+        "sqrMagnitude": 5.0
+      },
+      "DropWeight": 5.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 27,
+            "MinValue": 1.4,
+            "MaxValue": 1.6
+          },
+          {
+            "BoosterImplantEffect": 28,
+            "MinValue": 1.2,
+            "MaxValue": 1.25
+          },
+          {
+            "BoosterImplantEffect": 29,
+            "MinValue": 1.15,
+            "MaxValue": 1.2
+          },
+          {
+            "BoosterImplantEffect": 31,
+            "MinValue": 1.2,
+            "MaxValue": 1.3
+          },
+          {
+            "BoosterImplantEffect": 32,
+            "MinValue": 1.45,
+            "MaxValue": 1.55
+          }
+        ],
+        [
+          {
+            "BoosterImplantEffect": 39,
+            "MinValue": 1.2,
+            "MaxValue": 1.3
+          },
+          {
+            "BoosterImplantEffect": 33,
+            "MinValue": 1.12,
+            "MaxValue": 1.18
+          },
+          {
+            "BoosterImplantEffect": 40,
+            "MinValue": 1.3,
+            "MaxValue": 1.4
+          }
+        ]
+      ],
+      "ImplantCategory": 1,
+      "MainEffectType": 4,
+      "name": "Bold_ToolStrength",
+      "internalEnabled": true,
+      "persistentID": 33
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 715,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 2.0,
+        "normalized": {
+          "x": 0.4472136,
+          "y": 0.8944272,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 2.236068,
+        "sqrMagnitude": 5.0
+      },
+      "DropWeight": 1.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [
+        {
+          "BoosterImplantEffect": 34,
+          "MinValue": 1.6,
+          "MaxValue": 2.0
+        }
+      ],
+      "RandomEffects": [],
+      "ImplantCategory": 1,
+      "MainEffectType": 3,
+      "name": "Bold_ProcessingSpeed",
+      "internalEnabled": true,
+      "persistentID": 35
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 716,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 2.0,
+        "normalized": {
+          "x": 0.4472136,
+          "y": 0.8944272,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 2.236068,
+        "sqrMagnitude": 5.0
+      },
+      "DropWeight": 2.0,
+      "Conditions": [],
+      "RandomConditions": [
+        5
+      ],
+      "Effects": [],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 41,
+            "MinValue": 1.13,
+            "MaxValue": 1.18
+          }
+        ]
+      ],
+      "ImplantCategory": 1,
+      "MainEffectType": 3,
+      "name": "Bold_BioscanSpeed",
+      "internalEnabled": true,
+      "persistentID": 36
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 717,
+      "Description": 0,
+      "DurationRange": {
+        "x": 1.0,
+        "y": 2.0,
+        "normalized": {
+          "x": 0.4472136,
+          "y": 0.8944272,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 2.236068,
+        "sqrMagnitude": 5.0
+      },
+      "DropWeight": 7.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 36,
+            "MinValue": 1.25,
+            "MaxValue": 1.35
+          },
+          {
+            "BoosterImplantEffect": 37,
+            "MinValue": 1.25,
+            "MaxValue": 1.35
+          },
+          {
+            "BoosterImplantEffect": 38,
+            "MinValue": 1.25,
+            "MaxValue": 1.35
+          },
+          {
+            "BoosterImplantEffect": 5,
+            "MinValue": 1.4,
+            "MaxValue": 1.6
+          }
+        ],
+        [
+          {
+            "BoosterImplantEffect": 6,
+            "MinValue": 0.8,
+            "MaxValue": 0.87
+          },
+          {
+            "BoosterImplantEffect": 34,
+            "MinValue": 0.71,
+            "MaxValue": 0.83
+          }
+        ]
+      ],
+      "ImplantCategory": 1,
+      "MainEffectType": 0,
+      "name": "Bold_InitialState",
+      "internalEnabled": true,
+      "persistentID": 37
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 706,
+      "Description": 0,
+      "DurationRange": {
+        "x": 2.0,
+        "y": 3.0,
+        "normalized": {
+          "x": 0.5547002,
+          "y": 0.8320503,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 3.60555124,
+        "sqrMagnitude": 13.0
+      },
+      "DropWeight": 4.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [
+        {
+          "BoosterImplantEffect": 8,
+          "MinValue": 1.8,
+          "MaxValue": 2.0
+        }
+      ],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 54,
+            "MinValue": 0.91,
+            "MaxValue": 0.95
+          },
+          {
+            "BoosterImplantEffect": 12,
+            "MinValue": 0.8,
+            "MaxValue": 0.87
+          },
+          {
+            "BoosterImplantEffect": 11,
+            "MinValue": 0.8,
+            "MaxValue": 0.87
+          }
+        ],
+        [
+          {
+            "BoosterImplantEffect": 7,
+            "MinValue": 1.4,
+            "MaxValue": 1.5
+          },
+          {
+            "BoosterImplantEffect": 50,
+            "MinValue": 1.4,
+            "MaxValue": 1.5
+          }
+        ]
+      ],
+      "ImplantCategory": 2,
+      "MainEffectType": 2,
+      "name": "Aggressive_HealthSupport_Revive",
+      "internalEnabled": true,
+      "persistentID": 38
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 707,
+      "Description": 0,
+      "DurationRange": {
+        "x": 2.0,
+        "y": 3.0,
+        "normalized": {
+          "x": 0.5547002,
+          "y": 0.8320503,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 3.60555124,
+        "sqrMagnitude": 13.0
+      },
+      "DropWeight": 1.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [
+        {
+          "BoosterImplantEffect": 12,
+          "MinValue": 1.8,
+          "MaxValue": 2.0
+        }
+      ],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 54,
+            "MinValue": 0.91,
+            "MaxValue": 0.95
+          }
+        ]
+      ],
+      "ImplantCategory": 2,
+      "MainEffectType": 2,
+      "name": "Aggressive_HealthSupport_InfectionRes",
+      "internalEnabled": true,
+      "persistentID": 39
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 708,
+      "Description": 0,
+      "DurationRange": {
+        "x": 2.0,
+        "y": 3.0,
+        "normalized": {
+          "x": 0.5547002,
+          "y": 0.8320503,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 3.60555124,
+        "sqrMagnitude": 13.0
+      },
+      "DropWeight": 2.0,
+      "Conditions": [],
+      "RandomConditions": [
+        5
+      ],
+      "Effects": [
+        {
+          "BoosterImplantEffect": 6,
+          "MinValue": 2.2,
+          "MaxValue": 2.5
+        }
+      ],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 41,
+            "MinValue": 0.9,
+            "MaxValue": 0.95
+          },
+          {
+            "BoosterImplantEffect": 34,
+            "MinValue": 0.85,
+            "MaxValue": 0.95
+          }
+        ]
+      ],
+      "ImplantCategory": 2,
+      "MainEffectType": 2,
+      "name": "Aggressive_Health_RegenSpeed",
+      "internalEnabled": true,
+      "persistentID": 40
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 711,
+      "Description": 0,
+      "DurationRange": {
+        "x": 2.0,
+        "y": 3.0,
+        "normalized": {
+          "x": 0.5547002,
+          "y": 0.8320503,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 3.60555124,
+        "sqrMagnitude": 13.0
+      },
+      "DropWeight": 1.0,
+      "Conditions": [],
+      "RandomConditions": [
+        30
+      ],
+      "Effects": [
+        {
+          "BoosterImplantEffect": 49,
+          "MinValue": 1.5,
+          "MaxValue": 1.6
+        }
+      ],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 11,
+            "MinValue": 0.83,
+            "MaxValue": 0.9
+          }
+        ]
+      ],
+      "ImplantCategory": 2,
+      "MainEffectType": 1,
+      "name": "Aggressive_MeleeDamage",
+      "internalEnabled": true,
+      "persistentID": 43
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 709,
+      "Description": 0,
+      "DurationRange": {
+        "x": 2.0,
+        "y": 3.0,
+        "normalized": {
+          "x": 0.5547002,
+          "y": 0.8320503,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 3.60555124,
+        "sqrMagnitude": 13.0
+      },
+      "DropWeight": 4.0,
+      "Conditions": [],
+      "RandomConditions": [
+        5
+      ],
+      "Effects": [],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 10,
+            "MinValue": 1.3,
+            "MaxValue": 1.4
+          },
+          {
+            "BoosterImplantEffect": 11,
+            "MinValue": 1.3,
+            "MaxValue": 1.4
+          }
+        ],
+        [
+          {
+            "BoosterImplantEffect": 54,
+            "MinValue": 0.91,
+            "MaxValue": 0.95
+          }
+        ]
+      ],
+      "ImplantCategory": 2,
+      "MainEffectType": 2,
+      "name": "Aggressive_Health_Single_Resistance",
+      "internalEnabled": true,
+      "persistentID": 41
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 710,
+      "Description": 0,
+      "DurationRange": {
+        "x": 2.0,
+        "y": 3.0,
+        "normalized": {
+          "x": 0.5547002,
+          "y": 0.8320503,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 3.60555124,
+        "sqrMagnitude": 13.0
+      },
+      "DropWeight": 4.0,
+      "Conditions": [],
+      "RandomConditions": [
+        5,
+        30
+      ],
+      "Effects": [
+        {
+          "BoosterImplantEffect": 10,
+          "MinValue": 1.2,
+          "MaxValue": 1.3
+        },
+        {
+          "BoosterImplantEffect": 11,
+          "MinValue": 1.2,
+          "MaxValue": 1.3
+        }
+      ],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 34,
+            "MinValue": 0.91,
+            "MaxValue": 0.95
+          },
+          {
+            "BoosterImplantEffect": 41,
+            "MinValue": 0.91,
+            "MaxValue": 0.95
+          }
+        ]
+      ],
+      "ImplantCategory": 2,
+      "MainEffectType": 2,
+      "name": "Aggressive_Health_Double_Resistance",
+      "internalEnabled": true,
+      "persistentID": 42
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 718,
+      "Description": 0,
+      "DurationRange": {
+        "x": 2.0,
+        "y": 3.0,
+        "normalized": {
+          "x": 0.5547002,
+          "y": 0.8320503,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 3.60555124,
+        "sqrMagnitude": 13.0
+      },
+      "DropWeight": 7.0,
+      "Conditions": [],
+      "RandomConditions": [
+        30,
+        5,
+        10,
+        11
+      ],
+      "Effects": [],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 52,
+            "MinValue": 1.25,
+            "MaxValue": 1.3
+          },
+          {
+            "BoosterImplantEffect": 53,
+            "MinValue": 1.25,
+            "MaxValue": 1.3
+          }
+        ]
+      ],
+      "ImplantCategory": 2,
+      "MainEffectType": 1,
+      "name": "Aggressive_WeaponDamage",
+      "internalEnabled": true,
+      "persistentID": 44
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 713,
+      "Description": 0,
+      "DurationRange": {
+        "x": 2.0,
+        "y": 3.0,
+        "normalized": {
+          "x": 0.5547002,
+          "y": 0.8320503,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 3.60555124,
+        "sqrMagnitude": 13.0
+      },
+      "DropWeight": 6.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 27,
+            "MinValue": 1.8,
+            "MaxValue": 2.0
+          },
+          {
+            "BoosterImplantEffect": 28,
+            "MinValue": 1.3,
+            "MaxValue": 1.4
+          },
+          {
+            "BoosterImplantEffect": 29,
+            "MinValue": 1.25,
+            "MaxValue": 1.3
+          },
+          {
+            "BoosterImplantEffect": 31,
+            "MinValue": 1.35,
+            "MaxValue": 1.4
+          },
+          {
+            "BoosterImplantEffect": 32,
+            "MinValue": 1.7,
+            "MaxValue": 2.0
+          }
+        ],
+        [
+          {
+            "BoosterImplantEffect": 40,
+            "MinValue": 1.35,
+            "MaxValue": 1.4
+          },
+          {
+            "BoosterImplantEffect": 39,
+            "MinValue": 1.35,
+            "MaxValue": 1.4
+          },
+          {
+            "BoosterImplantEffect": 33,
+            "MinValue": 1.2,
+            "MaxValue": 1.3
+          }
+        ],
+        [
+          {
+            "BoosterImplantEffect": 49,
+            "MinValue": 0.77,
+            "MaxValue": 0.83
+          },
+          {
+            "BoosterImplantEffect": 11,
+            "MinValue": 0.83,
+            "MaxValue": 0.87
+          },
+          {
+            "BoosterImplantEffect": 12,
+            "MinValue": 0.62,
+            "MaxValue": 0.71
+          }
+        ]
+      ],
+      "ImplantCategory": 2,
+      "MainEffectType": 4,
+      "name": "Aggressive_ToolStrength",
+      "internalEnabled": true,
+      "persistentID": 45
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 715,
+      "Description": 0,
+      "DurationRange": {
+        "x": 2.0,
+        "y": 3.0,
+        "normalized": {
+          "x": 0.5547002,
+          "y": 0.8320503,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 3.60555124,
+        "sqrMagnitude": 13.0
+      },
+      "DropWeight": 6.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 34,
+            "MinValue": 2.0,
+            "MaxValue": 2.2
+          }
+        ],
+        [
+          {
+            "BoosterImplantEffect": 28,
+            "MinValue": 1.3,
+            "MaxValue": 1.4
+          },
+          {
+            "BoosterImplantEffect": 33,
+            "MinValue": 1.2,
+            "MaxValue": 1.3
+          },
+          {
+            "BoosterImplantEffect": 50,
+            "MinValue": 1.4,
+            "MaxValue": 1.5
+          }
+        ],
+        [
+          {
+            "BoosterImplantEffect": 49,
+            "MinValue": 0.77,
+            "MaxValue": 0.83
+          },
+          {
+            "BoosterImplantEffect": 11,
+            "MinValue": 0.83,
+            "MaxValue": 0.87
+          }
+        ]
+      ],
+      "ImplantCategory": 2,
+      "MainEffectType": 3,
+      "name": "Aggressive_ProcessingSpeed",
+      "internalEnabled": true,
+      "persistentID": 47
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 716,
+      "Description": 0,
+      "DurationRange": {
+        "x": 2.0,
+        "y": 3.0,
+        "normalized": {
+          "x": 0.5547002,
+          "y": 0.8320503,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 3.60555124,
+        "sqrMagnitude": 13.0
+      },
+      "DropWeight": 2.0,
+      "Conditions": [],
+      "RandomConditions": [
+        30
+      ],
+      "Effects": [],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 41,
+            "MinValue": 1.2,
+            "MaxValue": 1.25
+          }
+        ]
+      ],
+      "ImplantCategory": 2,
+      "MainEffectType": 3,
+      "name": "Aggressive_BioscanSpeed",
+      "internalEnabled": true,
+      "persistentID": 48
+    },
+    {
+      "Deprecated": false,
+      "PublicName": 717,
+      "Description": 0,
+      "DurationRange": {
+        "x": 2.0,
+        "y": 3.0,
+        "normalized": {
+          "x": 0.5547002,
+          "y": 0.8320503,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 3.60555124,
+        "sqrMagnitude": 13.0
+      },
+      "DropWeight": 7.0,
+      "Conditions": [],
+      "RandomConditions": [],
+      "Effects": [],
+      "RandomEffects": [
+        [
+          {
+            "BoosterImplantEffect": 36,
+            "MinValue": 1.4,
+            "MaxValue": 1.53
+          },
+          {
+            "BoosterImplantEffect": 37,
+            "MinValue": 1.4,
+            "MaxValue": 1.53
+          },
+          {
+            "BoosterImplantEffect": 38,
+            "MinValue": 1.4,
+            "MaxValue": 1.53
+          },
+          {
+            "BoosterImplantEffect": 5,
+            "MinValue": 1.8,
+            "MaxValue": 2.0
+          }
+        ],
+        [
+          {
+            "BoosterImplantEffect": 11,
+            "MinValue": 0.83,
+            "MaxValue": 0.87
+          },
+          {
+            "BoosterImplantEffect": 12,
+            "MinValue": 0.62,
+            "MaxValue": 0.71
+          },
+          {
+            "BoosterImplantEffect": 34,
+            "MinValue": 0.56,
+            "MaxValue": 0.62
+          }
+        ]
+      ],
+      "ImplantCategory": 2,
+      "MainEffectType": 0,
+      "name": "Aggressive_InitialState",
+      "internalEnabled": true,
+      "persistentID": 49
+    }
+  ],
+  "LastPersistentID": 52
+}

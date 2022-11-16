@@ -1,0 +1,150 @@
+{
+  "Headers": [],
+  "Blocks": [
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Heads/Head_Hammer_5.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 140,
+        "BundleShard": 10
+      },
+      "Aligns": [],
+      "name": "Head_Hammer_5",
+      "internalEnabled": true,
+      "persistentID": 2
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Heads/Head_Spear_1.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 140,
+        "BundleShard": 10
+      },
+      "Aligns": [],
+      "name": "Head_Spear_1",
+      "internalEnabled": true,
+      "persistentID": 13
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Heads/Head_Bat_1.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 140,
+        "BundleShard": 10
+      },
+      "Aligns": [],
+      "name": "Head_Bat_1",
+      "internalEnabled": true,
+      "persistentID": 14
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Heads/Head_Knife_1.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 140,
+        "BundleShard": 10
+      },
+      "Aligns": [],
+      "name": "Head_Knife_1",
+      "internalEnabled": true,
+      "persistentID": 12
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Heads/Head_Hammer_7.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 140,
+        "BundleShard": 11
+      },
+      "Aligns": [],
+      "name": "Head_Hammer_7",
+      "internalEnabled": true,
+      "persistentID": 3
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Heads/Head_Hammer_11.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 140,
+        "BundleShard": 12
+      },
+      "Aligns": [],
+      "name": "Head_Hammer_11",
+      "internalEnabled": true,
+      "persistentID": 4
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Heads/Head_Hammer_10.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 140,
+        "BundleShard": 13
+      },
+      "Aligns": [],
+      "name": "Head_Hammer_10",
+      "internalEnabled": true,
+      "persistentID": 5
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Heads/Head_Hammer_6.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 140,
+        "BundleShard": 14
+      },
+      "Aligns": [],
+      "name": "Head_Hammer_6",
+      "internalEnabled": true,
+      "persistentID": 6
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Heads/Head_Hammer_9.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 140,
+        "BundleShard": 15
+      },
+      "Aligns": [],
+      "name": "Head_Hammer_9",
+      "internalEnabled": true,
+      "persistentID": 7
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Heads/Head_Hammer_2.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 140,
+        "BundleShard": 16
+      },
+      "Aligns": [],
+      "name": "Head_Hammer_2",
+      "internalEnabled": true,
+      "persistentID": 8
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Heads/Head_Hammer_12.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 140,
+        "BundleShard": 17
+      },
+      "Aligns": [],
+      "name": "Head_Hammer_12",
+      "internalEnabled": true,
+      "persistentID": 9
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Melee/Heads/Head_Hammer_1.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 140,
+        "BundleShard": 18
+      },
+      "Aligns": [],
+      "name": "Head_Hammer_1",
+      "internalEnabled": true,
+      "persistentID": 11
+    }
+  ],
+  "LastPersistentID": 14
+}

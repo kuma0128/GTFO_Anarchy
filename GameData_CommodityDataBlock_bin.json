@@ -1,0 +1,158 @@
+{
+  "Headers": [
+    {
+      "AboveBlockID": 1,
+      "LabelText": "Physical Samples"
+    },
+    {
+      "AboveBlockID": 13,
+      "LabelText": "Artifacts"
+    }
+  ],
+  "Blocks": [
+    {
+      "PublicName": "Tissue Sample",
+      "Type": 1,
+      "PackSize": 0,
+      "Item": 118,
+      "PlayfabCurrency": 0,
+      "PlayfabCurrencyValue": 1,
+      "name": "Phys_Small_A1",
+      "internalEnabled": true,
+      "persistentID": 1
+    },
+    {
+      "PublicName": "DNA Sample",
+      "Type": 1,
+      "PackSize": 0,
+      "Item": 118,
+      "PlayfabCurrency": 0,
+      "PlayfabCurrencyValue": 1,
+      "name": "Phys_Small_A2",
+      "internalEnabled": true,
+      "persistentID": 2
+    },
+    {
+      "PublicName": "Bacteria Sample",
+      "Type": 1,
+      "PackSize": 0,
+      "Item": 118,
+      "PlayfabCurrency": 0,
+      "PlayfabCurrencyValue": 1,
+      "name": "Phys_Small_A3",
+      "internalEnabled": true,
+      "persistentID": 3
+    },
+    {
+      "PublicName": "Bacteria Culture",
+      "Type": 1,
+      "PackSize": 0,
+      "Item": 119,
+      "PlayfabCurrency": 0,
+      "PlayfabCurrencyValue": 1,
+      "name": "Phys_Small_B1",
+      "internalEnabled": true,
+      "persistentID": 4
+    },
+    {
+      "PublicName": "Skin Biopsy",
+      "Type": 1,
+      "PackSize": 0,
+      "Item": 119,
+      "PlayfabCurrency": 0,
+      "PlayfabCurrencyValue": 1,
+      "name": "Phys_Small_B2",
+      "internalEnabled": true,
+      "persistentID": 5
+    },
+    {
+      "PublicName": "Liver Biopsy",
+      "Type": 1,
+      "PackSize": 0,
+      "Item": 119,
+      "PlayfabCurrency": 0,
+      "PlayfabCurrencyValue": 1,
+      "name": "Phys_Small_B3",
+      "internalEnabled": true,
+      "persistentID": 6
+    },
+    {
+      "PublicName": "Medical Samples",
+      "Type": 1,
+      "PackSize": 1,
+      "Item": 120,
+      "PlayfabCurrency": 0,
+      "PlayfabCurrencyValue": 3,
+      "name": "Phys_Medium_A1",
+      "internalEnabled": true,
+      "persistentID": 7
+    },
+    {
+      "PublicName": "Medical Biopsies",
+      "Type": 1,
+      "PackSize": 1,
+      "Item": 120,
+      "PlayfabCurrency": 0,
+      "PlayfabCurrencyValue": 3,
+      "name": "Phys_Medium_A2",
+      "internalEnabled": true,
+      "persistentID": 8
+    },
+    {
+      "PublicName": "Bacterial Cultures",
+      "Type": 1,
+      "PackSize": 1,
+      "Item": 120,
+      "PlayfabCurrency": 0,
+      "PlayfabCurrencyValue": 3,
+      "name": "Phys_Medium_A3",
+      "internalEnabled": true,
+      "persistentID": 9
+    },
+    {
+      "PublicName": "Medical Sample Collection",
+      "Type": 1,
+      "PackSize": 2,
+      "Item": 121,
+      "PlayfabCurrency": 0,
+      "PlayfabCurrencyValue": 6,
+      "name": "Phys_Large_A1",
+      "internalEnabled": true,
+      "persistentID": 10
+    },
+    {
+      "PublicName": "Medical Biopsy Collection",
+      "Type": 1,
+      "PackSize": 2,
+      "Item": 121,
+      "PlayfabCurrency": 0,
+      "PlayfabCurrencyValue": 6,
+      "name": "Phys_Large_A2",
+      "internalEnabled": true,
+      "persistentID": 11
+    },
+    {
+      "PublicName": "Bacterial Culture Collection",
+      "Type": 1,
+      "PackSize": 2,
+      "Item": 121,
+      "PlayfabCurrency": 0,
+      "PlayfabCurrencyValue": 6,
+      "name": "Phys_Large_A3",
+      "internalEnabled": true,
+      "persistentID": 12
+    },
+    {
+      "PublicName": "Artifact Fragment",
+      "Type": 0,
+      "PackSize": 0,
+      "Item": 122,
+      "PlayfabCurrency": 0,
+      "PlayfabCurrencyValue": 0,
+      "name": "Artifact_Small_A",
+      "internalEnabled": true,
+      "persistentID": 13
+    }
+  ],
+  "LastPersistentID": 13
+}

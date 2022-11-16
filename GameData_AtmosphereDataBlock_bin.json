@@ -1,0 +1,142 @@
+{
+  "Headers": [],
+  "Blocks": [
+    {
+      "LightColor": {
+        "a": 1.0,
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "PlanetAlbedo": {
+        "a": 1.0,
+        "r": 0.2,
+        "g": 0.0627451,
+        "b": 0.0
+      },
+      "name": "Atmosphere_DimensionTest",
+      "internalEnabled": true,
+      "persistentID": 2
+    },
+    {
+      "LightColor": {
+        "a": 1.0,
+        "r": 0.146270916,
+        "g": 0.1618043,
+        "b": 0.1792453
+      },
+      "PlanetAlbedo": {
+        "a": 1.0,
+        "r": 0.2,
+        "g": 0.0627451,
+        "b": 0.0
+      },
+      "name": "Atmosphere_Dimension_boss_flash",
+      "internalEnabled": true,
+      "persistentID": 5
+    },
+    {
+      "LightColor": {
+        "a": 1.0,
+        "r": 0.003921569,
+        "g": 0.0117647061,
+        "b": 0.0156862754
+      },
+      "PlanetAlbedo": {
+        "a": 1.0,
+        "r": 0.3,
+        "g": 0.270094573,
+        "b": 0.249000013
+      },
+      "name": "Atmosphere_Dimension_boss_flash_Copy",
+      "internalEnabled": true,
+      "persistentID": 6
+    },
+    {
+      "LightColor": {
+        "a": 1.0,
+        "r": 1.0,
+        "g": 0.889969,
+        "b": 0.7311321
+      },
+      "PlanetAlbedo": {
+        "a": 1.0,
+        "r": 0.2,
+        "g": 0.0627451,
+        "b": 0.0
+      },
+      "name": "Atmosphere_DimensionTest_Dusty",
+      "internalEnabled": true,
+      "persistentID": 4
+    },
+    {
+      "LightColor": {
+        "a": 1.0,
+        "r": 0.6603774,
+        "g": 0.3991432,
+        "b": 0.2772339
+      },
+      "PlanetAlbedo": {
+        "a": 1.0,
+        "r": 0.169811308,
+        "g": 0.0212264135,
+        "b": 0.0
+      },
+      "name": "Atmosphere_Dimension_Shaft_1",
+      "internalEnabled": true,
+      "persistentID": 8
+    },
+    {
+      "LightColor": {
+        "a": 1.0,
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "PlanetAlbedo": {
+        "a": 1.0,
+        "r": 0.3,
+        "g": 0.3,
+        "b": 0.3
+      },
+      "name": "Atmosphere_Earth",
+      "internalEnabled": true,
+      "persistentID": 1
+    },
+    {
+      "LightColor": {
+        "a": 1.0,
+        "r": 0.117924511,
+        "g": 0.4472328,
+        "b": 1.0
+      },
+      "PlanetAlbedo": {
+        "a": 1.0,
+        "r": 0.299,
+        "g": 0.165212169,
+        "b": 0.104052015
+      },
+      "name": "Atmosphere_Dimensions_Night",
+      "internalEnabled": true,
+      "persistentID": 3
+    },
+    {
+      "LightColor": {
+        "a": 1.0,
+        "r": 0.4056604,
+        "g": 0.32046926,
+        "b": 0.1473389
+      },
+      "PlanetAlbedo": {
+        "a": 1.0,
+        "r": 0.299,
+        "g": 0.165212169,
+        "b": 0.104052015
+      },
+      "name": "Atmosphere_Dimensions_BX",
+      "internalEnabled": true,
+      "persistentID": 9
+    }
+  ],
+  "LastPersistentID": 9
+}

@@ -1,0 +1,306 @@
+{
+  "Headers": [],
+  "Blocks": [
+    {
+      "Condition": 1,
+      "PublicShortName": "RQ/11",
+      "PublicName": 674,
+      "Description": 675,
+      "IconPath": "",
+      "name": "Is In Bioscan",
+      "internalEnabled": true,
+      "persistentID": 1
+    },
+    {
+      "Condition": 2,
+      "PublicShortName": "RQ/12",
+      "PublicName": 676,
+      "Description": 0,
+      "IconPath": "",
+      "name": "Is Outside Bioscan",
+      "internalEnabled": true,
+      "persistentID": 2
+    },
+    {
+      "Condition": 3,
+      "PublicShortName": "RQ/13",
+      "PublicName": 677,
+      "Description": 0,
+      "IconPath": "",
+      "name": "Has Full Health",
+      "internalEnabled": true,
+      "persistentID": 3
+    },
+    {
+      "Condition": 4,
+      "PublicShortName": "RQ/14",
+      "PublicName": 678,
+      "Description": 0,
+      "IconPath": "",
+      "name": "Is In Fog Repeller Radius",
+      "internalEnabled": true,
+      "persistentID": 4
+    },
+    {
+      "Condition": 6,
+      "PublicShortName": "RQ/15",
+      "PublicName": 679,
+      "Description": 680,
+      "IconPath": "",
+      "name": "Is Last Man Standing",
+      "internalEnabled": true,
+      "persistentID": 6
+    },
+    {
+      "Condition": 5,
+      "PublicShortName": "RQ/16",
+      "PublicName": 783,
+      "Description": 784,
+      "IconPath": "",
+      "name": "Is Next To Teammate",
+      "internalEnabled": true,
+      "persistentID": 5
+    },
+    {
+      "Condition": 7,
+      "PublicShortName": "RQ/17",
+      "PublicName": 785,
+      "Description": 786,
+      "IconPath": "",
+      "name": "Is Next To Glowstick",
+      "internalEnabled": true,
+      "persistentID": 7
+    },
+    {
+      "Condition": 8,
+      "PublicShortName": "RQ/18",
+      "PublicName": 787,
+      "Description": 0,
+      "IconPath": "",
+      "name": "Has Flashlight Off",
+      "internalEnabled": true,
+      "persistentID": 8
+    },
+    {
+      "Condition": 9,
+      "PublicShortName": "RQ/19",
+      "PublicName": 681,
+      "Description": 0,
+      "IconPath": "",
+      "name": "Has Flashlight On",
+      "internalEnabled": true,
+      "persistentID": 9
+    },
+    {
+      "Condition": 10,
+      "PublicShortName": "RQ/20",
+      "PublicName": 682,
+      "Description": 2505919857,
+      "IconPath": "",
+      "name": "Is Close To Enemy",
+      "internalEnabled": true,
+      "persistentID": 10
+    },
+    {
+      "Condition": 11,
+      "PublicShortName": "RQ/21",
+      "PublicName": 683,
+      "Description": 3952044459,
+      "IconPath": "",
+      "name": "Is Far Away from Enemy",
+      "internalEnabled": true,
+      "persistentID": 11
+    },
+    {
+      "Condition": 120,
+      "PublicShortName": 0,
+      "PublicName": 684,
+      "Description": 0,
+      "IconPath": "",
+      "name": "Has Less Than Ammo Small",
+      "internalEnabled": true,
+      "persistentID": 12
+    },
+    {
+      "Condition": 121,
+      "PublicShortName": 0,
+      "PublicName": 685,
+      "Description": 0,
+      "IconPath": "",
+      "name": "Has Less Than Ammo Medium",
+      "internalEnabled": true,
+      "persistentID": 13
+    },
+    {
+      "Condition": 122,
+      "PublicShortName": 0,
+      "PublicName": "Has Less Than 30% Ammo In Clip",
+      "Description": 0,
+      "IconPath": "",
+      "name": "Has Less Than Ammo Large",
+      "internalEnabled": true,
+      "persistentID": 14
+    },
+    {
+      "Condition": 130,
+      "PublicShortName": 0,
+      "PublicName": "Has More Than 90% Ammo In Clip",
+      "Description": 0,
+      "IconPath": "",
+      "name": "Has More Than Ammo Small",
+      "internalEnabled": true,
+      "persistentID": 15
+    },
+    {
+      "Condition": 131,
+      "PublicShortName": 0,
+      "PublicName": "Has More Than 80% Ammo In Clip",
+      "Description": 0,
+      "IconPath": "",
+      "name": "Has More Than Ammo Medium",
+      "internalEnabled": true,
+      "persistentID": 16
+    },
+    {
+      "Condition": 132,
+      "PublicShortName": 0,
+      "PublicName": 685,
+      "Description": 0,
+      "IconPath": "",
+      "name": "Has More Than Ammo Large",
+      "internalEnabled": true,
+      "persistentID": 17
+    },
+    {
+      "Condition": 140,
+      "PublicShortName": 0,
+      "PublicName": 686,
+      "Description": 0,
+      "IconPath": "",
+      "name": "Is Team Alive Two",
+      "internalEnabled": true,
+      "persistentID": 18
+    },
+    {
+      "Condition": 141,
+      "PublicShortName": 0,
+      "PublicName": 687,
+      "Description": 0,
+      "IconPath": "",
+      "name": "Is Team Alive Three",
+      "internalEnabled": true,
+      "persistentID": 19
+    },
+    {
+      "Condition": 13,
+      "PublicShortName": "RQ/42",
+      "PublicName": 688,
+      "Description": 0,
+      "IconPath": "",
+      "name": "IsWieldingSpecialWeapon",
+      "internalEnabled": true,
+      "persistentID": 22
+    },
+    {
+      "Condition": 142,
+      "PublicShortName": 0,
+      "PublicName": 689,
+      "Description": 0,
+      "IconPath": "",
+      "name": "Is Team Alive Four",
+      "internalEnabled": true,
+      "persistentID": 20
+    },
+    {
+      "Condition": 12,
+      "PublicShortName": "RQ/41",
+      "PublicName": 690,
+      "Description": 0,
+      "IconPath": "",
+      "name": "IsWieldingStandardWeapon",
+      "internalEnabled": true,
+      "persistentID": 21
+    },
+    {
+      "Condition": 14,
+      "PublicShortName": "RQ/43",
+      "PublicName": 691,
+      "Description": 0,
+      "IconPath": "",
+      "name": "IsWieldingTool",
+      "internalEnabled": true,
+      "persistentID": 23
+    },
+    {
+      "Condition": 15,
+      "PublicShortName": "RQ/44",
+      "PublicName": 692,
+      "Description": 693,
+      "IconPath": "",
+      "name": "IsWieldingMelee",
+      "internalEnabled": true,
+      "persistentID": 24
+    },
+    {
+      "Condition": 16,
+      "PublicShortName": "RQ/45",
+      "PublicName": 694,
+      "Description": 0,
+      "IconPath": "",
+      "name": "IsWieldingConsumable",
+      "internalEnabled": true,
+      "persistentID": 25
+    },
+    {
+      "Condition": 17,
+      "PublicShortName": "RQ/46",
+      "PublicName": 695,
+      "Description": 696,
+      "IconPath": "",
+      "name": "IsWieldingResourcePack",
+      "internalEnabled": true,
+      "persistentID": 26
+    },
+    {
+      "Condition": 18,
+      "PublicShortName": "RQ/47",
+      "PublicName": 697,
+      "Description": 698,
+      "IconPath": "",
+      "name": "IsWieldingHackingTool",
+      "internalEnabled": true,
+      "persistentID": 27
+    },
+    {
+      "Condition": 19,
+      "PublicShortName": "RQ/48",
+      "PublicName": 699,
+      "Description": 700,
+      "IconPath": "",
+      "name": "IsWieldingCarryItem",
+      "internalEnabled": true,
+      "persistentID": 28
+    },
+    {
+      "Condition": 20,
+      "PublicShortName": "RQ/71",
+      "PublicName": 701,
+      "Description": 702,
+      "IconPath": "",
+      "name": "HasLowHealth",
+      "internalEnabled": true,
+      "persistentID": 29
+    },
+    {
+      "Condition": 21,
+      "PublicShortName": "RQ/72",
+      "PublicName": 703,
+      "Description": 704,
+      "IconPath": "",
+      "name": "HasHighHealth",
+      "internalEnabled": true,
+      "persistentID": 30
+    }
+  ],
+  "LastPersistentID": 30
+}

@@ -1,0 +1,891 @@
+{
+  "Headers": [
+    {
+      "AboveBlockID": 5,
+      "LabelText": "Headgear"
+    },
+    {
+      "AboveBlockID": 2,
+      "LabelText": "Torsos"
+    },
+    {
+      "AboveBlockID": 4,
+      "LabelText": "Legs"
+    },
+    {
+      "AboveBlockID": 3,
+      "LabelText": "Backpacks"
+    },
+    {
+      "AboveBlockID": 6,
+      "LabelText": "Palettes"
+    },
+    {
+      "AboveBlockID": 7,
+      "LabelText": "Palettes"
+    }
+  ],
+  "Blocks": [
+    {
+      "publicName": "Darkeye V-Drum Mark I",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear001/Headgear001.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear001.png",
+      "name": "Headgear001",
+      "internalEnabled": true,
+      "persistentID": 5
+    },
+    {
+      "publicName": "Mammoth Darkeye Mark I",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear002Hackett/Headgear002Hackett.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear002Hackett.png",
+      "name": "Headgear002Hackett",
+      "internalEnabled": true,
+      "persistentID": 20
+    },
+    {
+      "publicName": "Hackett's Wetworks",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear002HackettB/Headgear002HackettB.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear002HackettB.png",
+      "name": "Headgear002HackettB",
+      "internalEnabled": true,
+      "persistentID": 42
+    },
+    {
+      "publicName": "Hackett's Mask",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear002HackettOriginal/Headgear002HackettOriginal.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear002Hackett.png",
+      "name": "Headgear002HackettOriginal",
+      "internalEnabled": true,
+      "persistentID": 45
+    },
+    {
+      "publicName": "Convex Breather Mark I",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear003Woods/Headgear003Woods.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear003Woods.png",
+      "name": "Headgear003Woods",
+      "internalEnabled": true,
+      "persistentID": 21
+    },
+    {
+      "publicName": "Woods' Mask",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear003WoodsOriginal/Headgear003WoodsOriginal.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear003Woods.png",
+      "name": "Headgear003WoodsOriginal",
+      "internalEnabled": true,
+      "persistentID": 46
+    },
+    {
+      "publicName": "Flex Prow Mark I",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear004Dauda/Headgear004Dauda.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear004Dauda.png",
+      "name": "Headgear004Dauda",
+      "internalEnabled": true,
+      "persistentID": 19
+    },
+    {
+      "publicName": "Dauda's Mask",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear004DaudaOriginal/Headgear004DaudaOriginal.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear004Dauda.png",
+      "name": "Headgear004DaudaOriginal",
+      "internalEnabled": true,
+      "persistentID": 47
+    },
+    {
+      "publicName": "Visor Probo Mark I",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear005Bishop/Headgear005Bishop.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear005Bishop.png",
+      "name": "Headgear005Bishop",
+      "internalEnabled": true,
+      "persistentID": 18
+    },
+    {
+      "publicName": "Bishop's Mask",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear005BishopOriginal/Headgear005BishopOriginal.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear005Bishop.png",
+      "name": "Headgear005BishopOriginal",
+      "internalEnabled": true,
+      "persistentID": 48
+    },
+    {
+      "publicName": "Headgear006",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear006/Headgear006.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear006.png",
+      "name": "Headgear006",
+      "internalEnabled": false,
+      "persistentID": 72
+    },
+    {
+      "publicName": "Inter Piranha Mark I",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear007/Headgear007.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear007.png",
+      "name": "Headgear007",
+      "internalEnabled": true,
+      "persistentID": 33
+    },
+    {
+      "publicName": "Convex Falcon Mark I",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear008/Headgear008.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear008.png",
+      "name": "Headgear008",
+      "internalEnabled": true,
+      "persistentID": 34
+    },
+    {
+      "publicName": "Convex Scorpion Mark I",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear009/Headgear009.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear009.png",
+      "name": "Headgear009",
+      "internalEnabled": true,
+      "persistentID": 35
+    },
+    {
+      "publicName": "Headgear010",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear010/Headgear010.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear011.png",
+      "name": "Headgear010",
+      "internalEnabled": false,
+      "persistentID": 66
+    },
+    {
+      "publicName": "Oblique Tigris",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear011/Headgear011.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear011.png",
+      "name": "Headgear011",
+      "internalEnabled": true,
+      "persistentID": 60
+    },
+    {
+      "publicName": "Twin Barrel Blade Visor Mark I",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear012/Headgear012.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear012.png",
+      "name": "Headgear012",
+      "internalEnabled": true,
+      "persistentID": 65
+    },
+    {
+      "publicName": "Headgear013Lab",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear013Lab/Headgear013Lab.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear013Lab.png",
+      "name": "Headgear013Lab",
+      "internalEnabled": false,
+      "persistentID": 79
+    },
+    {
+      "publicName": "HF Decon First Response",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear014Garden/Headgear014Garden.prefab",
+      "DropWeight": 1.1,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear014Garden.png",
+      "name": "Headgear014Garden",
+      "internalEnabled": true,
+      "persistentID": 83
+    },
+    {
+      "publicName": "Omneco Pro-Tech Mark I",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear015Construction/Headgear015Construction.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear015Construction.png",
+      "name": "Headgear015Construction",
+      "internalEnabled": true,
+      "persistentID": 84
+    },
+    {
+      "publicName": "Storax Kimble Mark I",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear016Security/Headgear016Security.prefab",
+      "DropWeight": 1.1,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear016Security.png",
+      "name": "Headgear016Security",
+      "internalEnabled": true,
+      "persistentID": 85
+    },
+    {
+      "publicName": "Kovac Red Ranger",
+      "type": 0,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Headgears/Headgear016SecurityHalloween/Headgear016SecurityHalloween.prefab",
+      "DropWeight": 1.1,
+      "icon": "Assets/Source/UI/VanityItemIcons/Headgear016Security.png",
+      "name": "Headgear016SecurityHalloween",
+      "internalEnabled": true,
+      "persistentID": 108
+    },
+    {
+      "publicName": "Kovac Carrier model I",
+      "type": 1,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso001/Torso001.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Torso001.png",
+      "name": "Torso001",
+      "internalEnabled": true,
+      "persistentID": 2
+    },
+    {
+      "publicName": "Santonian Spartan Vest model I",
+      "type": 1,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso002Hackett/Torso002Hackett.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Torso002Hackett.png",
+      "name": "Torso002Hackett",
+      "internalEnabled": true,
+      "persistentID": 9
+    },
+    {
+      "publicName": "Coarse Puffer Vest model I",
+      "type": 1,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso003Woods/Torso003Woods.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Torso003Woods.png",
+      "name": "Torso003Woods",
+      "internalEnabled": true,
+      "persistentID": 17
+    },
+    {
+      "publicName": "Kovac Pro-Car Elite",
+      "type": 1,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso001c/Torso001c.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Torso001C.png",
+      "name": "Torso001c",
+      "internalEnabled": true,
+      "persistentID": 41
+    },
+    {
+      "publicName": "KDS Spartan Vest model I",
+      "type": 1,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso005Bishop/Torso005Bishop.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Torso005Bishop.png",
+      "name": "Torso005Bishop",
+      "internalEnabled": true,
+      "persistentID": 24
+    },
+    {
+      "publicName": "10 Nation HL Anorak",
+      "type": 1,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso001b/Torso001b.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Torso001B.png",
+      "name": "Torso001b",
+      "internalEnabled": true,
+      "persistentID": 40
+    },
+    {
+      "publicName": "Primer Grid model I",
+      "type": 1,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso004Dauda/Torso004Dauda.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Torso004Dauda.png",
+      "name": "Torso004Dauda",
+      "internalEnabled": true,
+      "persistentID": 12
+    },
+    {
+      "publicName": "Torso006",
+      "type": 1,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso006/Torso006.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Torso006.png",
+      "name": "Torso006",
+      "internalEnabled": false,
+      "persistentID": 67
+    },
+    {
+      "publicName": "Kovac Dragonscale model I",
+      "type": 1,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso007Security/Torso007Security.prefab",
+      "DropWeight": 1.1,
+      "icon": "Assets/Source/UI/VanityItemIcons/Torso007Security.png",
+      "name": "Torso007Security",
+      "internalEnabled": true,
+      "persistentID": 69
+    },
+    {
+      "publicName": "Torso008Construction",
+      "type": 1,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso008Construction/Torso008Construction.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Torso008Construction.png",
+      "name": "Torso008Construction",
+      "internalEnabled": false,
+      "persistentID": 73
+    },
+    {
+      "publicName": "Torso009Lab",
+      "type": 1,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso009Lab/Torso009Lab.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Torso009Lab.png",
+      "name": "Torso009Lab",
+      "internalEnabled": false,
+      "persistentID": 77
+    },
+    {
+      "publicName": "Chem Wader Hyperseal",
+      "type": 1,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso010Garden/Torso010Garden.prefab",
+      "DropWeight": 1.1,
+      "icon": "Assets/Source/UI/VanityItemIcons/Torso010Garden.png",
+      "name": "Torso010Garden",
+      "internalEnabled": true,
+      "persistentID": 87
+    },
+    {
+      "publicName": "Torso011Garden",
+      "type": 1,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso011Garden/Torso011Garden.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Torso011Garden.png",
+      "name": "Torso011Garden",
+      "internalEnabled": false,
+      "persistentID": 100
+    },
+    {
+      "publicName": "Commando Rhino Bush Vest",
+      "type": 1,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Torsos/Torso004Dauda/Torso004DaudaGamescom.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Torso004Dauda.png",
+      "name": "Torso012Gamescom",
+      "internalEnabled": true,
+      "persistentID": 103
+    },
+    {
+      "publicName": "Burlap Dexterity",
+      "type": 2,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs001/Legs001.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Legs001.png",
+      "name": "Legs001",
+      "internalEnabled": true,
+      "persistentID": 4
+    },
+    {
+      "publicName": "Rough Cut",
+      "type": 2,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs002Hackett/Legs002Hackett.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Legs002Hackett.png",
+      "name": "Legs002Hackett",
+      "internalEnabled": true,
+      "persistentID": 10
+    },
+    {
+      "publicName": "Rough Dexterity",
+      "type": 2,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs003Woods/Legs003WoodsNew.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Legs003Woods.png",
+      "name": "Legs003Woods",
+      "internalEnabled": true,
+      "persistentID": 16
+    },
+    {
+      "publicName": "Left Behind",
+      "type": 2,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs003WoodsB/Legs003WoodsBNew.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Legs003WoodsB.png",
+      "name": "Legs003WoodsB",
+      "internalEnabled": true,
+      "persistentID": 49
+    },
+    {
+      "publicName": "Heavy Duty Pioneer",
+      "type": 2,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs004Dauda/Legs004Dauda.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Legs004Dauda.png",
+      "name": "Legs004Dauda",
+      "internalEnabled": true,
+      "persistentID": 13
+    },
+    {
+      "publicName": "Cargo Composite",
+      "type": 2,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs005Bishop/Legs005Bishop.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Legs005Bishop.png",
+      "name": "Legs005Bishop",
+      "internalEnabled": true,
+      "persistentID": 23
+    },
+    {
+      "publicName": "Sharp Teeth",
+      "type": 2,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs005BishopB/Legs005BishopB.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Legs005BishopB.png",
+      "name": "Legs005BishopB",
+      "internalEnabled": true,
+      "persistentID": 43
+    },
+    {
+      "publicName": "Legs006",
+      "type": 2,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs006/Legs006_New.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Legs006.png",
+      "name": "Legs006",
+      "internalEnabled": false,
+      "persistentID": 71
+    },
+    {
+      "publicName": "Roughneck MDR Cargo",
+      "type": 2,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs007Security/Legs007Security.prefab",
+      "DropWeight": 1.1,
+      "icon": "Assets/Source/UI/VanityItemIcons/Legs007Security.png",
+      "name": "Legs007Security",
+      "internalEnabled": true,
+      "persistentID": 68
+    },
+    {
+      "publicName": "Legs008Construction",
+      "type": 2,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs008Construction/Legs008Construction.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Legs008Construction.png",
+      "name": "Legs008Construction",
+      "internalEnabled": false,
+      "persistentID": 75
+    },
+    {
+      "publicName": "Legs009Lab",
+      "type": 2,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs009Lab/Legs009Lab.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Legs009Lab.png",
+      "name": "Legs009Lab",
+      "internalEnabled": false,
+      "persistentID": 78
+    },
+    {
+      "publicName": "Model W Hyperseal",
+      "type": 2,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs010Garden/Legs010Garden.prefab",
+      "DropWeight": 1.1,
+      "icon": "Assets/Source/UI/VanityItemIcons/Legs010Garden.png",
+      "name": "Legs010Garden",
+      "internalEnabled": true,
+      "persistentID": 86
+    },
+    {
+      "publicName": "Legs011Garden",
+      "type": 2,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs011Garden/Legs011Garden.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Legs011Garden.png",
+      "name": "Legs011Garden",
+      "internalEnabled": false,
+      "persistentID": 101
+    },
+    {
+      "publicName": "Commando Mudcrawler Bush Pants",
+      "type": 2,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Legs/Legs004Dauda/Legs004DaudaGamescom.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Legs004Dauda.png",
+      "name": "Legs012Gamescom",
+      "internalEnabled": true,
+      "persistentID": 102
+    },
+    {
+      "publicName": "Insight Canteen Runner",
+      "type": 3,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack001/Backpack001.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Backpack001.png",
+      "name": "Backpack001",
+      "internalEnabled": true,
+      "persistentID": 3
+    },
+    {
+      "publicName": "Utility Compact Pioneer",
+      "type": 3,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack002Hackett/Backpack002Hackett.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Backpack002Hackett.png",
+      "name": "Backpack002Hackett",
+      "internalEnabled": true,
+      "persistentID": 11
+    },
+    {
+      "publicName": "KDS Slim Survivalist",
+      "type": 3,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack003Woods/Backpack003Woods.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Backpack003Woods.png",
+      "name": "Backpack003Woods",
+      "internalEnabled": true,
+      "persistentID": 15
+    },
+    {
+      "publicName": "KDS Compact Survivalist",
+      "type": 3,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack004Dauda/Backpack004Dauda.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Backpack004Dauda.png",
+      "name": "Backpack004Dauda",
+      "internalEnabled": true,
+      "persistentID": 14
+    },
+    {
+      "publicName": "Utility Natural Pioneer",
+      "type": 3,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack005Bishop/Backpack005Bishop.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Backpack005Bishop.png",
+      "name": "Backpack005Bishop",
+      "internalEnabled": true,
+      "persistentID": 22
+    },
+    {
+      "publicName": "Outwear Compact Utility",
+      "type": 3,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack007/Backpack007.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Backpack007.png",
+      "name": "Backpack007",
+      "internalEnabled": true,
+      "persistentID": 36
+    },
+    {
+      "publicName": "Braveer Compact Survivalist",
+      "type": 3,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack008/Backpack008.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Backpack008.png",
+      "name": "Backpack008",
+      "internalEnabled": true,
+      "persistentID": 37
+    },
+    {
+      "publicName": "KDS Tri-Can Basic",
+      "type": 3,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack009/Backpack009.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Backpack009.png",
+      "name": "Backpack009",
+      "internalEnabled": true,
+      "persistentID": 38
+    },
+    {
+      "publicName": "Backpack010",
+      "type": 3,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack010/Backpack010.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Backpack010.png",
+      "name": "Backpack010",
+      "internalEnabled": false,
+      "persistentID": 74
+    },
+    {
+      "publicName": "Lab01",
+      "type": 3,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack011Lab/Backpack011Lab.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Backpack011Lab.png",
+      "name": "Backpack011Lab",
+      "internalEnabled": false,
+      "persistentID": 76
+    },
+    {
+      "publicName": "HF van Niel T1",
+      "type": 3,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack012Garden/Backpack012Garden.prefab",
+      "DropWeight": 1.1,
+      "icon": "Assets/Source/UI/VanityItemIcons/Backpack012Garden.png",
+      "name": "Backpack012Garden",
+      "internalEnabled": true,
+      "persistentID": 82
+    },
+    {
+      "publicName": "Backpack013Security",
+      "type": 3,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack013Security/Backpack013Security.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Backpack013Security.png",
+      "name": "Backpack013Security",
+      "internalEnabled": false,
+      "persistentID": 70
+    },
+    {
+      "publicName": "KDS Ray Proto Cage",
+      "type": 3,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack014Security/Backpack014Security.prefab",
+      "DropWeight": 1.1,
+      "icon": "Assets/Source/UI/VanityItemIcons/Backpack014Security.png",
+      "name": "Backpack014Security",
+      "internalEnabled": true,
+      "persistentID": 80
+    },
+    {
+      "publicName": "Backpack015Construction",
+      "type": 3,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack015Construction/Backpack015Construction.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Backpack015Construction.png",
+      "name": "Backpack015Construction",
+      "internalEnabled": false,
+      "persistentID": 81
+    },
+    {
+      "publicName": "Commando Brawler Bush Pack",
+      "type": 3,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Backpacks/Backpack004Dauda/Backpack004DaudaGamescom.prefab",
+      "DropWeight": 1.0,
+      "icon": "Assets/Source/UI/VanityItemIcons/Backpack004Dauda.png",
+      "name": "Backpack016Gamescom",
+      "internalEnabled": true,
+      "persistentID": 105
+    },
+    {
+      "publicName": "Bark Half-Life",
+      "type": 4,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette002Hackett.prefab",
+      "DropWeight": 1.0,
+      "icon": "",
+      "name": "Palette002Hackett",
+      "internalEnabled": true,
+      "persistentID": 7
+    },
+    {
+      "publicName": "Nautical Dusk",
+      "type": 4,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette003Woods.prefab",
+      "DropWeight": 1.0,
+      "icon": "",
+      "name": "Palette003Woods",
+      "internalEnabled": true,
+      "persistentID": 25
+    },
+    {
+      "publicName": "Subterranean Moss",
+      "type": 4,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette004Dauda.prefab",
+      "DropWeight": 1.0,
+      "icon": "",
+      "name": "Palette004Dauda",
+      "internalEnabled": true,
+      "persistentID": 26
+    },
+    {
+      "publicName": "Beryl Restrained",
+      "type": 4,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette008.prefab",
+      "DropWeight": 1.0,
+      "icon": "",
+      "name": "Palette008",
+      "internalEnabled": true,
+      "persistentID": 30
+    },
+    {
+      "publicName": "Bone Relic",
+      "type": 4,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette009.prefab",
+      "DropWeight": 1.0,
+      "icon": "",
+      "name": "Palette009",
+      "internalEnabled": true,
+      "persistentID": 31
+    },
+    {
+      "publicName": "Arctic Endurance",
+      "type": 4,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette010.prefab",
+      "DropWeight": 1.0,
+      "icon": "",
+      "name": "Palette010",
+      "internalEnabled": true,
+      "persistentID": 32
+    },
+    {
+      "publicName": "Overload Six",
+      "type": 4,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette011OverloadSix.prefab",
+      "DropWeight": 1.0,
+      "icon": "",
+      "name": "Palette011OverloadSix",
+      "internalEnabled": true,
+      "persistentID": 50
+    },
+    {
+      "publicName": "Longsword",
+      "type": 4,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette012Longsword.prefab",
+      "DropWeight": 1.0,
+      "icon": "",
+      "name": "Palette012Longsword",
+      "internalEnabled": true,
+      "persistentID": 51
+    },
+    {
+      "publicName": "Overdive",
+      "type": 4,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette014Overdrive.prefab",
+      "DropWeight": 1.0,
+      "icon": "",
+      "name": "Palette014Overdive",
+      "internalEnabled": true,
+      "persistentID": 53
+    },
+    {
+      "publicName": "Miracle",
+      "type": 4,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette015Miracle.prefab",
+      "DropWeight": 1.0,
+      "icon": "",
+      "name": "Palette015Miracle",
+      "internalEnabled": true,
+      "persistentID": 54
+    },
+    {
+      "publicName": "Heat",
+      "type": 4,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette013Heat.prefab",
+      "DropWeight": 1.0,
+      "icon": "",
+      "name": "Palette013Heat",
+      "internalEnabled": true,
+      "persistentID": 52
+    },
+    {
+      "publicName": "Overalls",
+      "type": 4,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette016Overalls.prefab",
+      "DropWeight": 1.0,
+      "icon": "",
+      "name": "Palette016Overalls",
+      "internalEnabled": true,
+      "persistentID": 55
+    },
+    {
+      "publicName": "Eightball",
+      "type": 4,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette017Eightball.prefab",
+      "DropWeight": 1.0,
+      "icon": "",
+      "name": "Palette017Eightball",
+      "internalEnabled": true,
+      "persistentID": 56
+    },
+    {
+      "publicName": "Destination",
+      "type": 4,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette019Destination.prefab",
+      "DropWeight": 1.0,
+      "icon": "",
+      "name": "Palette019Destination",
+      "internalEnabled": true,
+      "persistentID": 58
+    },
+    {
+      "publicName": "Lugubrious",
+      "type": 4,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette018Lugubrious.prefab",
+      "DropWeight": 1.0,
+      "icon": "",
+      "name": "Palette018Lugubrious",
+      "internalEnabled": true,
+      "persistentID": 57
+    },
+    {
+      "publicName": "Early Adopter",
+      "type": 4,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette020pSon-EA.prefab",
+      "DropWeight": 1.0,
+      "icon": "",
+      "name": "Palette020pSon-EA",
+      "internalEnabled": true,
+      "persistentID": 59
+    },
+    {
+      "publicName": "Palette023Construction",
+      "type": 4,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette023Construction.prefab",
+      "DropWeight": 1.0,
+      "icon": "",
+      "name": "Palette023Construction",
+      "internalEnabled": false,
+      "persistentID": 93
+    },
+    {
+      "publicName": "Onyx Corruption",
+      "type": 4,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette024Black.prefab",
+      "DropWeight": 1.0,
+      "icon": "",
+      "name": "Palette024Black",
+      "internalEnabled": true,
+      "persistentID": 109
+    },
+    {
+      "publicName": "Crimson Grit",
+      "type": 4,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette025Red.prefab",
+      "DropWeight": 1.0,
+      "icon": "",
+      "name": "Palette025Red",
+      "internalEnabled": true,
+      "persistentID": 107
+    },
+    {
+      "publicName": "Subterranean Garden",
+      "type": 4,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette021Garden.prefab",
+      "DropWeight": 1.1,
+      "icon": "",
+      "name": "Palette021Garden",
+      "internalEnabled": true,
+      "persistentID": 98
+    },
+    {
+      "publicName": "Azul Tinto",
+      "type": 4,
+      "prefab": "Assets/AssetPrefabs/Characters/Players/Clothes/Palettes/Palette022Security.prefab",
+      "DropWeight": 1.1,
+      "icon": "",
+      "name": "Palette022Security",
+      "internalEnabled": true,
+      "persistentID": 99
+    }
+  ],
+  "LastPersistentID": 109
+}

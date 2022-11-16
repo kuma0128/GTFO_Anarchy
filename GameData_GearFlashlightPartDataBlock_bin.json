@@ -1,0 +1,66 @@
+{
+  "Headers": [],
+  "Blocks": [
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Flashlights/Flashlight_A.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 70,
+        "BundleShard": 7
+      },
+      "Aligns": [],
+      "name": "Flashlight_A",
+      "internalEnabled": true,
+      "persistentID": 2
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Flashlights/Flashlight_B.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 70,
+        "BundleShard": 8
+      },
+      "Aligns": [],
+      "name": "Flashlight_B",
+      "internalEnabled": true,
+      "persistentID": 3
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Flashlights/Flashlight_C.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 70,
+        "BundleShard": 9
+      },
+      "Aligns": [],
+      "name": "Flashlight_C",
+      "internalEnabled": true,
+      "persistentID": 4
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Flashlights/Flashlight_E.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 70,
+        "BundleShard": 5
+      },
+      "Aligns": [],
+      "name": "Flashlight_E",
+      "internalEnabled": true,
+      "persistentID": 5
+    },
+    {
+      "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Flashlights/Flashlight_D.prefab",
+        "GearCategoryFilter": 0,
+        "AssetBundle": 70,
+        "BundleShard": 10
+      },
+      "Aligns": [],
+      "name": "Flashlight_D",
+      "internalEnabled": true,
+      "persistentID": 6
+    }
+  ],
+  "LastPersistentID": 6
+}

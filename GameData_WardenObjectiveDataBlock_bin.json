@@ -4260,9 +4260,9 @@
       "Retrieve_Items": [],
       "ReactorWaves": [
         {
-          "Warmup": 1.0,
+          "Warmup": 20.0,
           "WarmupFail": 20.0,
-          "Wave": 1.0,
+          "Wave": 60.0,
           "Verify": 45.0,
           "VerifyFail": 45.0,
           "VerifyInOtherZone": false,

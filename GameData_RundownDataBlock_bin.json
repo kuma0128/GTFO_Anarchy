@@ -308,7 +308,7 @@
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
-            "InfectionLevelAtExpeditionStart": 0.0,
+            "InfectionLevelAtExpeditionStart": 1.0,
             "HealthLevelAtExpeditionStart": 1.0,
             "StandardAmmoAtExpeditionStart": 1.0,
             "SpecialAmmoAtExpeditionStart": 1.0,
@@ -459,7 +459,7 @@
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
-            "InfectionLevelAtExpeditionStart": 0.0,
+            "InfectionLevelAtExpeditionStart": 1.0,
             "HealthLevelAtExpeditionStart": 1.0,
             "StandardAmmoAtExpeditionStart": 0.0,
             "SpecialAmmoAtExpeditionStart": 0.0,
@@ -591,7 +591,7 @@
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
-            "InfectionLevelAtExpeditionStart": 0.0,
+            "InfectionLevelAtExpeditionStart": 1.0,
             "HealthLevelAtExpeditionStart": 1.0,
             "StandardAmmoAtExpeditionStart": 1.0,
             "SpecialAmmoAtExpeditionStart": 1.0,
@@ -723,7 +723,7 @@
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
-            "InfectionLevelAtExpeditionStart": 0.0,
+            "InfectionLevelAtExpeditionStart": 0.5,
             "HealthLevelAtExpeditionStart": 1.0,
             "StandardAmmoAtExpeditionStart": 1.0,
             "SpecialAmmoAtExpeditionStart": 1.0,
@@ -898,7 +898,7 @@
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
-            "InfectionLevelAtExpeditionStart": 0.0,
+            "InfectionLevelAtExpeditionStart": 1.0,
             "HealthLevelAtExpeditionStart": 1.0,
             "StandardAmmoAtExpeditionStart": 1.0,
             "SpecialAmmoAtExpeditionStart": 1.0,
@@ -1156,7 +1156,7 @@
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
-            "InfectionLevelAtExpeditionStart": 0.0,
+            "InfectionLevelAtExpeditionStart": 1.0,
             "HealthLevelAtExpeditionStart": 1.0,
             "StandardAmmoAtExpeditionStart": 1.0,
             "SpecialAmmoAtExpeditionStart": 1.0,
@@ -1440,7 +1440,7 @@
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
-            "InfectionLevelAtExpeditionStart": 0.0,
+            "InfectionLevelAtExpeditionStart": 1.0,
             "HealthLevelAtExpeditionStart": 1.0,
             "StandardAmmoAtExpeditionStart": 1.0,
             "SpecialAmmoAtExpeditionStart": 1.0,
@@ -1801,7 +1801,7 @@
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
-            "InfectionLevelAtExpeditionStart": 0.0,
+            "InfectionLevelAtExpeditionStart": 0.6,
             "HealthLevelAtExpeditionStart": 1.0,
             "StandardAmmoAtExpeditionStart": 1.0,
             "SpecialAmmoAtExpeditionStart": 1.0,
@@ -2058,7 +2058,7 @@
           "SoundEventOnWarpToReality": 231201012,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
-            "InfectionLevelAtExpeditionStart": 0.0,
+            "InfectionLevelAtExpeditionStart": 1.0,
             "HealthLevelAtExpeditionStart": 1.0,
             "StandardAmmoAtExpeditionStart": 1.0,
             "SpecialAmmoAtExpeditionStart": 1.0,
@@ -2389,7 +2389,7 @@
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
-            "InfectionLevelAtExpeditionStart": 0.0,
+            "InfectionLevelAtExpeditionStart": 0.6,
             "HealthLevelAtExpeditionStart": 1.0,
             "StandardAmmoAtExpeditionStart": 0.0,
             "SpecialAmmoAtExpeditionStart": 0.0,
@@ -2665,7 +2665,7 @@
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
-            "InfectionLevelAtExpeditionStart": 0.0,
+            "InfectionLevelAtExpeditionStart": 1.0,
             "HealthLevelAtExpeditionStart": 1.0,
             "StandardAmmoAtExpeditionStart": 1.0,
             "SpecialAmmoAtExpeditionStart": 1.0,
@@ -2827,7 +2827,7 @@
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
-            "InfectionLevelAtExpeditionStart": 0.0,
+            "InfectionLevelAtExpeditionStart": 0.6,
             "HealthLevelAtExpeditionStart": 1.0,
             "StandardAmmoAtExpeditionStart": 1.0,
             "SpecialAmmoAtExpeditionStart": 1.0,
@@ -3143,7 +3143,7 @@
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
-            "InfectionLevelAtExpeditionStart": 0.0,
+            "InfectionLevelAtExpeditionStart": 0.6,
             "HealthLevelAtExpeditionStart": 1.0,
             "StandardAmmoAtExpeditionStart": 1.0,
             "SpecialAmmoAtExpeditionStart": 1.0,
@@ -32766,8 +32766,8 @@
         "AllClearedSectors": 0
       },
       "StorytellingData": {
-        "Title": 2924760085,
-        "TextLog": 2609351890,
+        "Title": "Rundown 1.X - anarchy",
+        "TextLog": 0,
         "TextLogPos": {
           "x": 0.0,
           "y": 0.0,
@@ -32813,10 +32813,10 @@
           },
           "TierDVisuals": {
             "Color": {
-              "a": 1.0,
-              "r": 0.4509804,
-              "g": 0.7490196,
-              "b": 0.858823538
+              "a": 0.8,
+              "r": 158,
+              "g": 27,
+              "b": 81
             },
             "Scale": 0.1,
             "ScaleYModifier": 1.0
@@ -32824,9 +32824,9 @@
           "TierEVisuals": {
             "Color": {
               "a": 1.0,
-              "r": 0.4509804,
-              "g": 0.7490196,
-              "b": 0.858823538
+              "r": 89,
+              "g": 75,
+              "b": 74
             },
             "Scale": 0.1,
             "ScaleYModifier": 1.0
@@ -33372,8 +33372,8 @@
             "AllClearedSectors": 0
           },
           "Descriptive": {
-            "Prefix": "R1C",
-            "PublicName": "revisit",
+            "Prefix": "CX",
+            "PublicName": "Revisit",
             "IsExtraExpedition": false,
             "SkipExpNumberInName": false,
             "UseCustomMatchmakingTier": false,
@@ -33382,7 +33382,7 @@
             "ExpeditionDepth": 678,
             "EstimatedDuration": 930,
             "ExpeditionDescription": 624584996,
-            "RoleplayedWardenIntel": 2946458790,
+            "RoleplayedWardenIntel": "...We're surrounded by them... It's killing us...\n<color=red>...Are you done?... No, wait...</color>",
             "DevInfo": ""
           },
           "Seeds": {
@@ -33394,12 +33394,12 @@
           "Expedition": {
             "ComplexResourceData": 31,
             "MLSLevelKit": 0,
-            "LightSettings": 56,
+            "LightSettings": 77,
             "FogSettings": 8,
             "EnemyPopulation": 1,
             "ExpeditionBalance": 1,
             "ScoutWaveSettings": 3,
-            "ScoutWavePopulation": 1,
+            "ScoutWavePopulation": 5,
             "EnvironmentWetness": 0.0,
             "DustColor": {
               "a": 1.0,
@@ -33492,11 +33492,11 @@
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
-            "InfectionLevelAtExpeditionStart": 0.5,
-            "HealthLevelAtExpeditionStart": 0.6,
-            "StandardAmmoAtExpeditionStart": 0.6,
-            "SpecialAmmoAtExpeditionStart": 0.6,
-            "ToolAmmoAtExpeditionStart": 0.6
+            "InfectionLevelAtExpeditionStart": 0.7,
+            "HealthLevelAtExpeditionStart": 1.0,
+            "StandardAmmoAtExpeditionStart": 1.0,
+            "SpecialAmmoAtExpeditionStart": 1.0,
+            "ToolAmmoAtExpeditionStart": 1.0
           },
           "HasExternalStyle": false,
           "HasStoryStyle": false
@@ -33520,8 +33520,8 @@
             "AllClearedSectors": 0
           },
           "Descriptive": {
-            "Prefix": "R1C",
-            "PublicName": "infiltration",
+            "Prefix": "CX",
+            "PublicName": "Infiltration",
             "IsExtraExpedition": false,
             "SkipExpNumberInName": false,
             "UseCustomMatchmakingTier": false,
@@ -33542,7 +33542,7 @@
           "Expedition": {
             "ComplexResourceData": 15,
             "MLSLevelKit": 0,
-            "LightSettings": 12,
+            "LightSettings": 61,
             "FogSettings": 27,
             "EnemyPopulation": 1,
             "ExpeditionBalance": 1,
@@ -33713,7 +33713,7 @@
             "AllClearedSectors": 0
           },
           "Descriptive": {
-            "Prefix": "R1D",
+            "Prefix": "DX",
             "PublicName": "Deepest",
             "IsExtraExpedition": false,
             "SkipExpNumberInName": false,
@@ -33857,7 +33857,7 @@
         }
       ],
       "TierE": [],
-      "name": "ALT Rundown 1.0",
+      "name": "Rundown - anarchy",
       "internalEnabled": true,
       "persistentID": 32
     }

@@ -590,6 +590,28 @@
       "persistentID": 8
     },
     {
+      "PublicAlarmName": "Alarm",
+      "TriggerAlarmOnActivate": false,
+      "SurvivalWaveSettings": 1,
+      "SurvivalWavePopulation": 1,
+      "SurvivalWaveAreaDistance": 2,
+      "DisableSurvivalWaveOnComplete": true,
+      "UseRandomPositions": false,
+      "WantedDistanceFromStartPos": 0.0,
+      "WantedDistanceBetweenPuzzleComponents": 1.0,
+      "ChainedPuzzle": [
+        {
+          "PuzzleType": 13
+        }
+      ],
+      "OnlyShowHUDWhenPlayerIsClose": true,
+      "AlarmSoundStart": 3339129407,
+      "AlarmSoundStop": 42633153,
+      "name": "ExpeditionExit_Scan_require_all_S1",
+      "internalEnabled": true,
+      "persistentID": 173173
+    },
+    {
       "PublicAlarmName": "Class I Alarm",
       "TriggerAlarmOnActivate": true,
       "SurvivalWaveSettings": 1,

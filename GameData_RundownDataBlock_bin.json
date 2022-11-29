@@ -33372,7 +33372,7 @@
             "AllClearedSectors": 0
           },
           "Descriptive": {
-            "Prefix": "CX",
+            "Prefix": "C",
             "PublicName": "Revisit",
             "IsExtraExpedition": false,
             "SkipExpNumberInName": false,
@@ -33439,7 +33439,7 @@
             },
             "ChainedObjectiveData": [],
             "ArtifactData": {
-              "ArtifactAmountMulti": 0.6,
+              "ArtifactAmountMulti": 0.0,
               "ArtifactLayerDistributionDataID": 0,
               "ArtifactZoneDistributions": []
             }

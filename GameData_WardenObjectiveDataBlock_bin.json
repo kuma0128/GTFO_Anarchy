@@ -4143,50 +4143,6 @@
       "OnActivateOnSolveItem": false,
       "WavesOnActivate": [],
       "EventsOnActivate": [
-        {
-          "Type": 3,
-          "Condition": {
-            "ConditionIndex": -1,
-            "IsTrue": false
-          },
-          "Trigger": 1,
-          "ChainPuzzle": 0,
-          "UseStaticBioscanPoints": false,
-          "Layer": 0,
-          "DimensionIndex": 0,
-          "LocalIndex": 0,
-          "Delay": -5.0,
-          "Duration": 0.0,
-          "ClearDimension": false,
-          "WardenIntel": 0,
-          "CustomSubObjectiveHeader": 0,
-          "CustomSubObjective": 0,
-          "SoundID": 0,
-          "SoundSubtitle": 0,
-          "DialogueID": 0,
-          "FogSetting": 0,
-          "FogTransitionDuration": 0.0,
-          "EnemyWaveData": {
-            "WaveSettings": 0,
-            "WavePopulation": 0,
-            "AreaDistance": 2,
-            "SpawnDelay": 0.0,
-            "TriggerAlarm": false,
-            "IntelMessage": 0
-          },
-          "EnemyID": 0,
-          "Position": {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0,
-            "magnitude": 0.0,
-            "sqrMagnitude": 0.0
-          },
-          "Count": 0,
-          "Enabled": false,
-          "TerminalCommand": 0,
-          "TerminalCommandRule": 0
-        }
       ],
       "StopAllWavesBeforeGotoWin": false,
       "WavesOnGotoWin": [
@@ -4202,7 +4158,7 @@
       "WaveOnGotoWinTrigger": 0,
       "EventsOnGotoWin": [
         {
-          "Type": 4,
+          "Type": 3,
           "Condition": {
             "ConditionIndex": -1,
             "IsTrue": false
@@ -4250,7 +4206,7 @@
       "FogTransitionDataOnGotoWin": 0,
       "FogTransitionDurationOnGotoWin": 0.0,
       "ChainedPuzzleToActive": 10,
-      "ChainedPuzzleMidObjective": 200,
+      "ChainedPuzzleMidObjective": 82,
       "ChainedPuzzleAtExit": 173173,
       "ChainedPuzzleAtExitScanSpeedMultiplier": 1.0,
       "Gather_RequiredCount": -1,
@@ -4260,7 +4216,7 @@
       "Retrieve_Items": [],
       "ReactorWaves": [
         {
-          "Warmup": 20.0,
+          "Warmup": 1.0,
           "WarmupFail": 20.0,
           "Wave": 1.0,
           "Verify": 45.0,

@@ -33439,7 +33439,7 @@
             },
             "ChainedObjectiveData": [
               {
-                "DataBlockId": 164164,
+                "DataBlockId": 146146,
                 "WinCondition": 0,
                 "ZonePlacementDatas": [
                   [
@@ -33447,7 +33447,7 @@
                       "DimensionIndex": 0,
                       "LocalIndex": 6,
                       "Weights": {
-                        "Start": 0.0,
+                        "Start": 100.0,
                         "Middle": 0.0,
                         "End": 0.0
                       }

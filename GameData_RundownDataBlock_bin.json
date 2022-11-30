@@ -33437,7 +33437,25 @@
                 ]
               ]
             },
-            "ChainedObjectiveData": [],
+            "ChainedObjectiveData": [
+              {
+                "DataBlockId": 164164,
+                "WinCondition": 0,
+                "ZonePlacementDatas": [
+                  [
+                    {
+                      "DimensionIndex": 0,
+                      "LocalIndex": 6,
+                      "Weights": {
+                        "Start": 0.0,
+                        "Middle": 0.0,
+                        "End": 0.0
+                      }
+                    }
+                  ]
+                ]
+              }
+            ],
             "ArtifactData": {
               "ArtifactAmountMulti": 0.0,
               "ArtifactLayerDistributionDataID": 0,

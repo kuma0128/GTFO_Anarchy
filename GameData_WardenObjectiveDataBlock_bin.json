@@ -4146,19 +4146,11 @@
       ],
       "StopAllWavesBeforeGotoWin": false,
       "WavesOnGotoWin": [
-        {
-          "WaveSettings": 234,
-          "WavePopulation": 42,
-          "AreaDistance": 2,
-          "SpawnDelay": 15.0,
-          "TriggerAlarm": false,
-          "IntelMessage": 0
-        }
       ],
       "WaveOnGotoWinTrigger": 0,
       "EventsOnGotoWin": [
         {
-          "Type": 3,
+          "Type": 2,
           "Condition": {
             "ConditionIndex": -1,
             "IsTrue": false
@@ -4168,7 +4160,7 @@
           "UseStaticBioscanPoints": false,
           "Layer": 0,
           "DimensionIndex": 0,
-          "LocalIndex": 0,
+          "LocalIndex": 6,
           "Delay": 10.0,
           "Duration": 0.0,
           "ClearDimension": false,
@@ -4307,12 +4299,12 @@
       "StopAllWavesBeforeGotoWin": false,
       "WavesOnGotoWin": [
         {
-          "WaveSettings": 230,
-          "WavePopulation": 51,
+          "WaveSettings": 234,
+          "WavePopulation": 42,
           "AreaDistance": 2,
           "SpawnDelay": 15.0,
-          "TriggerAlarm": true,
-          "IntelMessage": 1061
+          "TriggerAlarm": false,
+          "IntelMessage": 0
         }
       ],
       "WaveOnGotoWinTrigger": 0,
@@ -4453,14 +4445,59 @@
         }
       ],
       "WaveOnGotoWinTrigger": 0,
-      "EventsOnGotoWin": [],
+      "EventsOnGotoWin": [
+        {
+          "Type": 3,
+          "Condition": {
+            "ConditionIndex": -1,
+            "IsTrue": false
+          },
+          "Trigger": 3,
+          "ChainPuzzle": 0,
+          "UseStaticBioscanPoints": false,
+          "Layer": 0,
+          "DimensionIndex": 0,
+          "LocalIndex": 0,
+          "Delay": 10.0,
+          "Duration": 0.0,
+          "ClearDimension": false,
+          "WardenIntel": 0,
+          "CustomSubObjectiveHeader": 0,
+          "CustomSubObjective": 0,
+          "SoundID": 0,
+          "SoundSubtitle": 0,
+          "DialogueID": 0,
+          "FogSetting": 0,
+          "FogTransitionDuration": 0.0,
+          "EnemyWaveData": {
+            "WaveSettings": 0,
+            "WavePopulation": 0,
+            "AreaDistance": 2,
+            "SpawnDelay": 0.0,
+            "TriggerAlarm": false,
+            "IntelMessage": 0
+          },
+          "EnemyID": 0,
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "Count": 0,
+          "Enabled": false,
+          "TerminalCommand": 0,
+          "TerminalCommandRule": 0
+        }
+      ],
       "EventsOnGotoWinTrigger": 0,
       "FogTransitionDataOnGotoWin": 0,
       "FogTransitionDurationOnGotoWin": 0.0,
       "ChainedPuzzleToActive": 10,
       "ChainedPuzzleMidObjective": 200,
       "ChainedPuzzleAtExit": 173173,
-      "ChainedPuzzleAtExitScanSpeedMultiplier": 0.8,
+      "ChainedPuzzleAtExitScanSpeedMultiplier": 1.0,
       "Gather_RequiredCount": -1,
       "Gather_ItemId": 0,
       "Gather_SpawnCount": 0,

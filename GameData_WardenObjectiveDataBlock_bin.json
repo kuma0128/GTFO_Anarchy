@@ -4206,7 +4206,7 @@
       "FogTransitionDataOnGotoWin": 0,
       "FogTransitionDurationOnGotoWin": 0.0,
       "ChainedPuzzleToActive": 10,
-      "ChainedPuzzleMidObjective": 0,
+      "ChainedPuzzleMidObjective": 200,
       "ChainedPuzzleAtExit": 173173,
       "ChainedPuzzleAtExitScanSpeedMultiplier": 1.0,
       "Gather_RequiredCount": -1,
@@ -4218,7 +4218,7 @@
         {
           "Warmup": 1.0,
           "WarmupFail": 20.0,
-          "Wave": 70.0,
+          "Wave": 1.0,
           "Verify": 45.0,
           "VerifyFail": 45.0,
           "VerifyInOtherZone": false,

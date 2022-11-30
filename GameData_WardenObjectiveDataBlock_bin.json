@@ -4148,7 +4148,7 @@
       "WavesOnGotoWin": [
         {
           "WaveSettings": 234,
-          "WavePopulation": 50,
+          "WavePopulation": 42,
           "AreaDistance": 2,
           "SpawnDelay": 15.0,
           "TriggerAlarm": false,
@@ -4239,7 +4239,7 @@
               "SpawnType": 0
             },
             {
-              "WaveSettings": 233,
+              "WaveSettings": 200,
               "WavePopulation": 16,
               "AreaDistance": 2,
               "SpawnTimeRel": 0.85,
@@ -4795,6 +4795,28 @@
               "TerminalCommandRule": 0
             }
           ]
+        },
+        {
+          "Warmup": 9.0,
+          "WarmupFail": 20.0,
+          "Wave": 6.0,
+          "Verify": 10.0,
+          "VerifyFail": 45.0,
+          "VerifyInOtherZone": false,
+          "ZoneForVerification": 0,
+          "EnemyWaves": [],
+          "Events": []
+        },
+        {
+          "Warmup": 9.0,
+          "WarmupFail": 20.0,
+          "Wave": 6.0,
+          "Verify": 10.0,
+          "VerifyFail": 45.0,
+          "VerifyInOtherZone": false,
+          "ZoneForVerification": 0,
+          "EnemyWaves": [],
+          "Events": []
         }
       ],
       "LightsOnFromBeginning": true,

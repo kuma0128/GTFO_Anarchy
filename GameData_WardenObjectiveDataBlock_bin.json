@@ -4218,7 +4218,7 @@
         {
           "Warmup": 1.0,
           "WarmupFail": 20.0,
-          "Wave": 1.0,
+          "Wave": 70.0,
           "Verify": 45.0,
           "VerifyFail": 45.0,
           "VerifyInOtherZone": false,
@@ -4236,6 +4236,13 @@
               "WavePopulation": 53,
               "AreaDistance": 2,
               "SpawnTimeRel": 0.5,
+              "SpawnType": 0
+            },
+            {
+              "WaveSettings": 233,
+              "WavePopulation": 16,
+              "AreaDistance": 2,
+              "SpawnTimeRel": 0.85,
               "SpawnType": 0
             }
           ],

@@ -4131,9 +4131,9 @@
           "WaveSettings": 111,
           "WavePopulation": 27,
           "AreaDistance": 2,
-          "SpawnDelay": 0.0,
+          "SpawnDelay": 20.0,
           "TriggerAlarm": true,
-          "IntelMessage": 0
+          "IntelMessage": "<color=red>WARNING! -- MATTER_WAVE is very unstable</color>"
         }
       ],
       "EventsOnElevatorLand": [],
@@ -4435,14 +4435,6 @@
       "EventsOnActivate": [],
       "StopAllWavesBeforeGotoWin": false,
       "WavesOnGotoWin": [
-        {
-          "WaveSettings": 234,
-          "WavePopulation": 42,
-          "AreaDistance": 2,
-          "SpawnDelay": 15.0,
-          "TriggerAlarm": false,
-          "IntelMessage": 0
-        }
       ],
       "WaveOnGotoWinTrigger": 0,
       "EventsOnGotoWin": [

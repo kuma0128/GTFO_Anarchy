@@ -4288,10 +4288,10 @@
     {
       "PublicAlarmName": "Class S V Alarm",
       "TriggerAlarmOnActivate": true,
-      "SurvivalWaveSettings": 12,
-      "SurvivalWavePopulation": 32,
+      "SurvivalWaveSettings": 234,
+      "SurvivalWavePopulation": 42,
       "SurvivalWaveAreaDistance": 2,
-      "DisableSurvivalWaveOnComplete": true,
+      "DisableSurvivalWaveOnComplete": false,
       "UseRandomPositions": true,
       "WantedDistanceFromStartPos": 20.0,
       "WantedDistanceBetweenPuzzleComponents": 10.0,

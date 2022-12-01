@@ -160,8 +160,8 @@
       "WaveRoleWeakling": 42,
       "WaveRoleStandard": 42,
       "WaveRoleSpecial": 45,
-      "WaveRoleMiniBoss": 30,
-      "WaveRoleBoss": 30,
+      "WaveRoleMiniBoss": 42,
+      "WaveRoleBoss": 42,
       "name": "Modified S-Flyer_V4",
       "internalEnabled": true,
       "persistentID": 42

@@ -4314,7 +4314,7 @@
       "FogTransitionDurationOnGotoWin": 0.0,
       "ChainedPuzzleToActive": 10,
       "ChainedPuzzleMidObjective": 200,
-      "ChainedPuzzleAtExit": 173173,
+      "ChainedPuzzleAtExit": 11,
       "ChainedPuzzleAtExitScanSpeedMultiplier": 0.8,
       "Gather_RequiredCount": -1,
       "Gather_ItemId": 0,

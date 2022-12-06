@@ -3,8 +3,7 @@
   "Blocks": [
     {
       "RundownIdsToLoad": [
-        32,
-        31
+        32
       ],
       "StartupScreenToLoad": 3,
       "name": "Default",

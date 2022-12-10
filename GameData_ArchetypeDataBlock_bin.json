@@ -4634,7 +4634,7 @@
       "FireMode": 0,
       "RecoilDataID": 47,
       "DamageBoosterEffect": 50,
-      "Damage": 25.1,
+      "Damage": 30.1,
       "DamageFalloff": {
         "x": 8.0,
         "y": 65.0,

@@ -32818,7 +32818,7 @@
               "g": 27,
               "b": 81
             },
-            "Scale": 0.1,
+            "Scale": 0.65,
             "ScaleYModifier": 1.0
           },
           "TierEVisuals": {
@@ -33211,7 +33211,7 @@
           "PutIconAboveTier": false,
           "DisablePlayerVoicelines": false,
           "ExcludeFromProgression": false,
-          "Accessibility": 5,
+          "Accessibility": 1,
           "UnlockedByExpedition": {
             "Tier": 1,
             "Exp": 0
@@ -33413,7 +33413,7 @@
           "PutIconAboveTier": false,
           "DisablePlayerVoicelines": false,
           "ExcludeFromProgression": false,
-          "Accessibility": 5,
+          "Accessibility": 1,
           "UnlockedByExpedition": {
             "Tier": 2,
             "Exp": 0
@@ -33812,21 +33812,9 @@
             },
             "ChainedObjectiveData": [],
             "ArtifactData": {
-              "ArtifactAmountMulti": 0.7,
+              "ArtifactAmountMulti": 0.0,
               "ArtifactLayerDistributionDataID": 0,
               "ArtifactZoneDistributions": [
-                {
-                  "Zone": 3,
-                  "BasicArtifactWeight": 0.5,
-                  "AdvancedArtifactWeight": 0.5,
-                  "SpecializedArtifactWeight": 0.5
-                },
-                {
-                  "Zone": 4,
-                  "BasicArtifactWeight": 0.0,
-                  "AdvancedArtifactWeight": 0.0,
-                  "SpecializedArtifactWeight": 0.0
-                }
               ]
             }
           },

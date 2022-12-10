@@ -4210,7 +4210,7 @@
         {
           "Warmup": 30.0,
           "WarmupFail": 20.0,
-          "Wave": 90.0,
+          "Wave": 70.0,
           "Verify": 45.0,
           "VerifyFail": 45.0,
           "VerifyInOtherZone": false,
@@ -4249,9 +4249,9 @@
           ]
         },
         {
-          "Warmup": 60.0,
+          "Warmup": 50.0,
           "WarmupFail": 20.0,
-          "Wave": 110.0,
+          "Wave": 90.0,
           "Verify": 45.0,
           "VerifyFail": 45.0,
           "VerifyInOtherZone": false,
@@ -4334,9 +4334,9 @@
           ]
         },
         {
-          "Warmup": 40.0,
+          "Warmup": 50.0,
           "WarmupFail": 20.0,
-          "Wave": 100.0,
+          "Wave": 90.0,
           "Verify": 45.0,
           "VerifyFail": 45.0,
           "VerifyInOtherZone": false,
@@ -4440,9 +4440,9 @@
           ]
         },
         {
-          "Warmup": 50.0,
+          "Warmup": 80.0,
           "WarmupFail": 20.0,
-          "Wave": 100.0,
+          "Wave": 90.0,
           "Verify": 45.0,
           "VerifyFail": 45.0,
           "VerifyInOtherZone": false,

@@ -4161,7 +4161,7 @@
           "Layer": 0,
           "DimensionIndex": 0,
           "LocalIndex": 6,
-          "Delay": 5.0,
+          "Delay": 10.0,
           "Duration": 0.0,
           "ClearDimension": false,
           "WardenIntel": 0,
@@ -4208,7 +4208,7 @@
       "Retrieve_Items": [],
       "ReactorWaves": [
         {
-          "Warmup": 40.0,
+          "Warmup": 4.0,
           "WarmupFail": 20.0,
           "Wave": 70.0,
           "Verify": 45.0,
@@ -4238,7 +4238,7 @@
               "SpawnType": 0
             }
           ],
-          "Events": [ 
+          "Events": [
           ]
         },
         {
@@ -4280,6 +4280,50 @@
             }
           ],
           "Events": [
+            {
+              "Type": 3,
+              "Condition": {
+                "ConditionIndex": -1,
+                "IsTrue": false
+              },
+              "Trigger": 2,
+              "ChainPuzzle": 0,
+              "UseStaticBioscanPoints": false,
+              "Layer": 0,
+              "DimensionIndex": 0,
+              "LocalIndex": 0,
+              "Delay": 0.0,
+              "Duration": 0.0,
+              "ClearDimension": false,
+              "WardenIntel": "Unexplained power shortage",
+              "CustomSubObjectiveHeader": 0,
+              "CustomSubObjective": 0,
+              "SoundID": 0,
+              "SoundSubtitle": 0,
+              "DialogueID": 0,
+              "FogSetting": 0,
+              "FogTransitionDuration": 0.0,
+              "EnemyWaveData": {
+                "WaveSettings": 0,
+                "WavePopulation": 0,
+                "AreaDistance": 2,
+                "SpawnDelay": 0.0,
+                "TriggerAlarm": false,
+                "IntelMessage": 0
+              },
+              "EnemyID": 0,
+              "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "magnitude": 0.0,
+                "sqrMagnitude": 0.0
+              },
+              "Count": 0,
+              "Enabled": false,
+              "TerminalCommand": 0,
+              "TerminalCommandRule": 0
+            }
           ]
         },
         {
@@ -4342,6 +4386,50 @@
             }
           ],
           "Events": [
+            {
+              "Type": 4,
+              "Condition": {
+                "ConditionIndex": -1,
+                "IsTrue": false
+              },
+              "Trigger": 2,
+              "ChainPuzzle": 0,
+              "UseStaticBioscanPoints": false,
+              "Layer": 0,
+              "DimensionIndex": 0,
+              "LocalIndex": 0,
+              "Delay": 90.0,
+              "Duration": 0.0,
+              "ClearDimension": false,
+              "WardenIntel": "Power restored",
+              "CustomSubObjectiveHeader": 0,
+              "CustomSubObjective": 0,
+              "SoundID": 0,
+              "SoundSubtitle": 0,
+              "DialogueID": 0,
+              "FogSetting": 0,
+              "FogTransitionDuration": 0.0,
+              "EnemyWaveData": {
+                "WaveSettings": 0,
+                "WavePopulation": 0,
+                "AreaDistance": 2,
+                "SpawnDelay": 0.0,
+                "TriggerAlarm": false,
+                "IntelMessage": 0
+              },
+              "EnemyID": 0,
+              "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "magnitude": 0.0,
+                "sqrMagnitude": 0.0
+              },
+              "Count": 0,
+              "Enabled": false,
+              "TerminalCommand": 0,
+              "TerminalCommandRule": 0
+            }
           ]
         },
         {

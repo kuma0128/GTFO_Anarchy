@@ -4132,7 +4132,7 @@
           "WavePopulation": 27,
           "AreaDistance": 2,
           "SpawnDelay": 20.0,
-          "TriggerAlarm": true,
+          "TriggerAlarm": false,
           "IntelMessage": "<color=red>WARNING! -- MATTER_WAVE is very unstable</color>"
         }
       ],
@@ -4149,6 +4149,50 @@
       ],
       "WaveOnGotoWinTrigger": 0,
       "EventsOnGotoWin": [
+        {
+          "Type": 10,
+          "Condition": {
+            "ConditionIndex": -1,
+            "IsTrue": false
+          },
+          "Trigger": 2,
+          "ChainPuzzle": 0,
+          "UseStaticBioscanPoints": false,
+          "Layer": 0,
+          "DimensionIndex": 1,
+          "LocalIndex": 0,
+          "Delay": 34.0,
+          "Duration": 0.0,
+          "ClearDimension": false,
+          "WardenIntel": 0,
+          "CustomSubObjectiveHeader": 0,
+          "CustomSubObjective": 0,
+          "SoundID": 0,
+          "SoundSubtitle": 0,
+          "DialogueID": 0,
+          "FogSetting": 0,
+          "FogTransitionDuration": 0.0,
+          "EnemyWaveData": {
+            "WaveSettings": 0,
+            "WavePopulation": 0,
+            "AreaDistance": 2,
+            "SpawnDelay": 0.0,
+            "TriggerAlarm": false,
+            "IntelMessage": 0
+          },
+          "EnemyID": 0,
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "Count": 0,
+          "Enabled": false,
+          "TerminalCommand": 0,
+          "TerminalCommandRule": 0
+        },
         {
           "Type": 2,
           "Condition": {
@@ -4839,8 +4883,8 @@
       "FogTransitionDurationOnGotoWin": 0.0,
       "ChainedPuzzleToActive": 0,
       "ChainedPuzzleMidObjective": 0,
-      "ChainedPuzzleAtExit": 173173,
-      "ChainedPuzzleAtExitScanSpeedMultiplier": 1.5,
+      "ChainedPuzzleAtExit": 11,
+      "ChainedPuzzleAtExitScanSpeedMultiplier": 0.2,
       "Gather_RequiredCount": -1,
       "Gather_ItemId": 137,
       "Gather_SpawnCount": 0,

@@ -32873,7 +32873,7 @@
             "ProgressionVisualStyle": 0,
             "ExpeditionDepth": 678,
             "EstimatedDuration": 930,
-            "ExpeditionDescription": 624584996,
+            "ExpeditionDescription": "Bypass required in Sec_D:842m. Prisoners sent to overload grid. \n<color=red>Elevator ventilation system malfunctioned.</color>",
             "RoleplayedWardenIntel": "...We're surrounded by them... It's killing us...\n<color=red>...Are you done?... No, wait...</color>",
             "DevInfo": ""
           },
@@ -33018,7 +33018,7 @@
           "PutIconAboveTier": false,
           "DisablePlayerVoicelines": false,
           "ExcludeFromProgression": false,
-          "Accessibility": 1,
+          "Accessibility": 5,
           "UnlockedByExpedition": {
             "Tier": 3,
             "Exp": 0
@@ -33039,7 +33039,7 @@
             "ProgressionVisualStyle": 0,
             "ExpeditionDepth": 724,
             "EstimatedDuration": 930,
-            "ExpeditionDescription": "",
+            "ExpeditionDescription": "Explicit nFrame units exceeding capacity.\r\nAllocate Data Spheres to prisoner groups to salvage nFrame data.",
             "RoleplayedWardenIntel": "",
             "DevInfo": ""
           },
@@ -33230,7 +33230,7 @@
             "UseCustomMatchmakingTier": false,
             "CustomMatchmakingTier": 1,
             "ProgressionVisualStyle": 0,
-            "ExpeditionDepth": 830,
+            "ExpeditionDepth": 842,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "",
             "RoleplayedWardenIntel": "",

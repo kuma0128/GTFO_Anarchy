@@ -5610,7 +5610,7 @@
       "SurvivalWaveAreaDistance": 2,
       "DisableSurvivalWaveOnComplete": true,
       "UseRandomPositions": true,
-      "WantedDistanceFromStartPos": 15.0,
+      "WantedDistanceFromStartPos": 20.0,
       "WantedDistanceBetweenPuzzleComponents": 20.0,
       "ChainedPuzzle": [
         {

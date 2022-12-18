@@ -2642,9 +2642,19 @@
           "Prefab": "Assets/AssetPrefabs/Complex/Mining/Geomorphs/geo_64x64_mining_exit_01_tutorial.prefab",
           "SubComplex": 2,
           "Shard": 17
+        },
+        {
+          "Prefab": "Assets/Prefabs/Geomorph/Tech/geo_datacenter_FA_exit_01.prefab",
+          "SubComplex": "DataCenter",
+          "Shard": "S1"
         }
       ],
       "CustomGeomorphs_Objective_1x1": [
+        {
+          "Prefab": "Assets/Prefabs/Geomorph/Mining/geo_storage_FA_dead_end_01.prefab",
+          "SubComplex": "Storage",
+          "Shard": "S1"
+        },
         {
           "Prefab": "Assets/AssetPrefabs/Complex/Mining/Geomorphs/Storage/geo_64x64_mining_storage_tutorial_VS_01.prefab",
           "SubComplex": 2,
@@ -5098,6 +5108,11 @@
       ],
       "ElevatorShafts_1x1": [
         {
+          "Prefab": "Assets/Prefabs/Geomorph/Tech/geo_datacenter_FA_elevator_shaft_01.prefab",
+          "SubComplex": "DataCenter",
+          "Shard": "S1"
+        },
+        {
           "Prefab": "Assets/AssetPrefabs/Complex/Tech/Geomorphs/geo_32x32_elevator_shaft_tech_01.prefab",
           "SubComplex": 3,
           "Shard": 18
@@ -5133,9 +5148,19 @@
           "Prefab": "Assets/AssetPrefabs/Complex/Tech/Geomorphs/geo_32x32_lab_exit_01.prefab",
           "SubComplex": 5,
           "Shard": 18
+        },
+        {
+          "Prefab": "Assets/Prefabs/Geomorph/Tech/geo_datacenter_FA_exit_01.prefab",
+          "SubComplex": "DataCenter",
+          "Shard": "S1"
         }
       ],
       "CustomGeomorphs_Objective_1x1": [
+        {
+          "Prefab": "Assets/Prefabs/Geomorph/Mining/geo_storage_FA_dead_end_01.prefab",
+          "SubComplex": "Storage",
+          "Shard": "S1"
+        },
         {
           "Prefab": "Assets/AssetPrefabs/Complex/Tech/Geomorphs/geo_64x64_Lab_dead_end_room_01.prefab",
           "SubComplex": 5,

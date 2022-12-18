@@ -2208,8 +2208,8 @@
           "g": 0.351260275,
           "b": 0.2523585
         },
-        "DustAlphaBoost": 2.0,
-        "DustTurbulence": 20.0,
+        "DustAlphaBoost": 5.0,
+        "DustTurbulence": 30.0,
         "SoundEventOnWarpTo": 1998147319,
         "DisableVFXEventOnWarp": false,
         "UseLocalDimensionSeeds": false,
@@ -2288,8 +2288,8 @@
           },
           {
             "PlacementWeights": {
-              "Start": 99999.0,
-              "Middle": -1.0,
+              "Start": -1.0,
+              "Middle": 10000.0,
               "End": -1.0
             },
             "AreaSeedOffset": 1212,

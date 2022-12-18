@@ -32766,7 +32766,7 @@
         "AllClearedSectors": 0
       },
       "StorytellingData": {
-        "Title": "Rundown - anarchy-0.0.1",
+        "Title": "Rundown - Anarchy-0.0.12",
         "TextLog": 0,
         "TextLogPos": {
           "x": 0.0,
@@ -32873,7 +32873,7 @@
             "ProgressionVisualStyle": 0,
             "ExpeditionDepth": 678,
             "EstimatedDuration": 930,
-            "ExpeditionDescription": "Bypass required in Sec_D:842m. Prisoners sent to overload grid. \n<color=red>Elevator ventilation system malfunctioned.</color>",
+            "ExpeditionDescription": "Bypass required in Sec_D. Prisoners sent to overload grid. \n<color=red>Elevator ventilation system malfunctioned.</color>",
             "RoleplayedWardenIntel": "...We're surrounded by them... It's killing us...\n<color=red>...Are you done?... No, wait...</color>",
             "DevInfo": ""
           },
@@ -33018,7 +33018,7 @@
           "PutIconAboveTier": false,
           "DisablePlayerVoicelines": false,
           "ExcludeFromProgression": false,
-          "Accessibility": 5,
+          "Accessibility": 1,
           "UnlockedByExpedition": {
             "Tier": 3,
             "Exp": 0
@@ -33040,20 +33040,20 @@
             "ExpeditionDepth": 724,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Explicit nFrame units exceeding capacity.\r\nAllocate Data Spheres to prisoner groups to salvage nFrame data.",
-            "RoleplayedWardenIntel": "",
+            "RoleplayedWardenIntel": "What happened... Where are we...\n<color=red>Where is the terminal!</color>",
             "DevInfo": ""
           },
           "Seeds": {
             "BuildSeed": 524873215,
             "FunctionMarkerOffset": 0,
             "StandardMarkerOffset": 0,
-            "LightJobSeedOffset": 1111
+            "LightJobSeedOffset": 0
           },
           "Expedition": {
-            "ComplexResourceData": 15,
-            "MLSLevelKit": 0,
-            "LightSettings": 61,
-            "FogSettings": 27,
+            "ComplexResourceData": 3,
+            "MLSLevelKit": 1,
+            "LightSettings": 0,
+            "FogSettings": 108,
             "EnemyPopulation": 1,
             "ExpeditionBalance": 1,
             "ScoutWaveSettings": 3,
@@ -33069,63 +33069,46 @@
           },
           "VanityItemsDropData": {
             "Groups": [
-              36
             ]
           },
           "UseGearPicker": false,
-          "LevelLayoutData": 2393231889,
+          "LevelLayoutData": 202,
           "MainLayerData": {
             "ZonesWithBulkheadEntrance": [],
             "BulkheadDoorControllerPlacements": [],
             "BulkheadKeyPlacements": [],
             "ObjectiveData": {
-              "DataBlockId": 165,
+              "DataBlockId": 129,
               "WinCondition": 1,
               "ZonePlacementDatas": [
                 [
-                  {
-                    "DimensionIndex": 0,
-                    "LocalIndex": 9,
-                    "Weights": {
-                      "Start": 0.0,
-                      "Middle": 0.0,
-                      "End": 0.0
-                    }
-                  },
-                  {
-                    "DimensionIndex": 0,
-                    "LocalIndex": 3,
-                    "Weights": {
-                      "Start": 0.0,
-                      "Middle": 0.0,
-                      "End": 0.0
-                    }
-                  },
-                  {
-                    "DimensionIndex": 0,
-                    "LocalIndex": 5,
-                    "Weights": {
-                      "Start": 0.0,
-                      "Middle": 50.0,
-                      "End": 100.0
-                    }
-                  },
                   {
                     "DimensionIndex": 0,
                     "LocalIndex": 6,
                     "Weights": {
                       "Start": 0.0,
                       "Middle": 0.0,
-                      "End": 1000.0
+                      "End": 0.0
                     }
-                  },
+                  }
+                ],
+                [
                   {
-                    "DimensionIndex": 0,
-                    "LocalIndex": 7,
+                    "DimensionIndex": 1,
+                    "LocalIndex": 0,
                     "Weights": {
                       "Start": 0.0,
                       "Middle": 0.0,
-                      "End": 1000.0
+                      "End": 0.0
+                    }
+                  },
+                  {
+                    "DimensionIndex": 1,
+                    "LocalIndex": 0,
+                    "Weights": {
+                      "Start": 0.0,
+                      "Middle": 0.0,
+                      "End": 0.0
                     }
                   }
                 ]
@@ -33189,7 +33172,13 @@
               "ArtifactZoneDistributions": []
             }
           },
-          "DimensionDatas": [],
+          "DimensionDatas": [
+            {
+              "DimensionIndex": 1,
+              "DimensionData": 13,
+              "Enabled": true
+            }
+          ],
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
@@ -33199,8 +33188,8 @@
             "SpecialAmmoAtExpeditionStart": 1.0,
             "ToolAmmoAtExpeditionStart": 1.0
           },
-          "HasExternalStyle": false,
-          "HasStoryStyle": false
+          "HasExternalStyle": true,
+          "HasStoryStyle": true
         }
       ],
       "TierC": [
@@ -33230,7 +33219,7 @@
             "UseCustomMatchmakingTier": false,
             "CustomMatchmakingTier": 1,
             "ProgressionVisualStyle": 0,
-            "ExpeditionDepth": 842,
+            "ExpeditionDepth": 944,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "",
             "RoleplayedWardenIntel": "",
@@ -33432,7 +33421,7 @@
             "UseCustomMatchmakingTier": false,
             "CustomMatchmakingTier": 1,
             "ProgressionVisualStyle": 0,
-            "ExpeditionDepth": 899,
+            "ExpeditionDepth": 1021,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "",
             "RoleplayedWardenIntel": "",
@@ -33584,14 +33573,14 @@
             "AllClearedSectors": 0
           },
           "Descriptive": {
-            "Prefix": "DX",
+            "Prefix": "E",
             "PublicName": "Deepest",
             "IsExtraExpedition": false,
             "SkipExpNumberInName": false,
             "UseCustomMatchmakingTier": false,
             "CustomMatchmakingTier": 1,
             "ProgressionVisualStyle": 0,
-            "ExpeditionDepth": 1012,
+            "ExpeditionDepth": 1412,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "",
             "RoleplayedWardenIntel": "",
@@ -33745,14 +33734,14 @@
             "AllClearedSectors": 0
           },
           "Descriptive": {
-            "Prefix": "DX",
+            "Prefix": "E",
             "PublicName": "Fortress",
             "IsExtraExpedition": false,
             "SkipExpNumberInName": false,
             "UseCustomMatchmakingTier": false,
             "CustomMatchmakingTier": 1,
             "ProgressionVisualStyle": 0,
-            "ExpeditionDepth": 1106,
+            "ExpeditionDepth": 1430,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "",
             "RoleplayedWardenIntel": "",

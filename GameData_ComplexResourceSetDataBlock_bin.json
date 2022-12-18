@@ -25061,6 +25061,11 @@
       ],
       "CustomGeomorphs_Objective_1x1": [
         {
+          "Prefab": "Assets/AssetPrefabs/Complex/Mining/Geomorphs/Refinery/geo_64x64_mining_refinery_dead_end_HA_01.prefab",
+          "SubComplex": 5,
+          "Shard": 3
+        },
+        {
           "Prefab": "Assets/AssetPrefabs/Complex/Mining/Geomorphs/geo_64x64_mining_reactor_open_HA_01.prefab",
           "SubComplex": 5,
           "Shard": 2

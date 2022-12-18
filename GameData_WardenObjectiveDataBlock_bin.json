@@ -4132,8 +4132,8 @@
           "WavePopulation": 27,
           "AreaDistance": 2,
           "SpawnDelay": 20.0,
-          "TriggerAlarm": false,
-          "IntelMessage": "<color=red>WARNING! -- MATTER_WAVE is very unstable</color>"
+          "TriggerAlarm": true,
+          "IntelMessage": "<color=red>WARNING! -- MATTER_WAVE is extremely unstable</color>"
         }
       ],
       "EventsOnElevatorLand": [],
@@ -4310,7 +4310,7 @@
             },
             {
               "WaveSettings": 9,
-              "WavePopulation": 28,
+              "WavePopulation": 2828,
               "AreaDistance": 2,
               "SpawnTimeRel": 0.8,
               "SpawnType": 0
@@ -4589,7 +4589,7 @@
             },
             {
               "WaveSettings": 233,
-              "WavePopulation": 53,
+              "WavePopulation": 2929,
               "AreaDistance": 2,
               "SpawnTimeRel": 0.8,
               "SpawnType": 0
@@ -4623,14 +4623,14 @@
             },
             {
               "WaveSettings": 233,
-              "WavePopulation": 53,
+              "WavePopulation": 2929,
               "AreaDistance": 2,
               "SpawnTimeRel": 0.8,
               "SpawnType": 0
             },
             {
               "WaveSettings": 9,
-              "WavePopulation": 28,
+              "WavePopulation": 2828,
               "AreaDistance": 2,
               "SpawnTimeRel": 0.8,
               "SpawnType": 0
@@ -4918,8 +4918,16 @@
       "EventsOnActivate": [],
       "StopAllWavesBeforeGotoWin": false,
       "WavesOnGotoWin": [
+        {
+          "WaveSettings": 234,
+          "WavePopulation": 42,
+          "AreaDistance": 2,
+          "SpawnDelay": 10.0,
+          "TriggerAlarm": true,
+          "IntelMessage": "%%%gHa>>%bfx<-[EX((SJ##_NE"
+        }
       ],
-      "WaveOnGotoWinTrigger": 0,
+      "WaveOnGotoWinTrigger": 1,
       "EventsOnGotoWin": [
         {
           "Type": 3,
@@ -4933,7 +4941,7 @@
           "Layer": 0,
           "DimensionIndex": 0,
           "LocalIndex": 0,
-          "Delay": 50.0,
+          "Delay": 0.0,
           "Duration": 0.0,
           "ClearDimension": false,
           "WardenIntel": 0,
@@ -4951,6 +4959,50 @@
             "SpawnDelay": 0.0,
             "TriggerAlarm": false,
             "IntelMessage": 0
+          },
+          "EnemyID": 0,
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "Count": 0,
+          "Enabled": false,
+          "TerminalCommand": 0,
+          "TerminalCommandRule": 0
+        },
+        {
+          "Type": 9,
+          "Condition": {
+            "ConditionIndex": -1,
+            "IsTrue": false
+          },
+          "Trigger": 0,
+          "ChainPuzzle": 0,
+          "UseStaticBioscanPoints": false,
+          "Layer": 0,
+          "DimensionIndex": 0,
+          "LocalIndex": 0,
+          "Delay": 0.0,
+          "Duration": 10.0,
+          "ClearDimension": false,
+          "WardenIntel": 0,
+          "CustomSubObjectiveHeader": 0,
+          "CustomSubObjective": 0,
+          "SoundID": 0,
+          "SoundSubtitle": 0,
+          "DialogueID": 0,
+          "FogSetting": 0,
+          "FogTransitionDuration": 0.0,
+          "EnemyWaveData": {
+            "WaveSettings": 111,
+            "WavePopulation": 27,
+            "AreaDistance": 2,
+            "SpawnDelay": 0.0,
+            "TriggerAlarm": true,
+            "IntelMessage": "<color=red>WARNING: Invasion detected.</color>"
           },
           "EnemyID": 0,
           "Position": {
@@ -48521,7 +48573,7 @@
       "ChainedPuzzleToActive": 0,
       "ChainedPuzzleMidObjective": 0,
       "ChainedPuzzleAtExit": 186,
-      "ChainedPuzzleAtExitScanSpeedMultiplier": 0.4,
+      "ChainedPuzzleAtExitScanSpeedMultiplier": 0.2,
       "Gather_RequiredCount": -1,
       "Gather_ItemId": 0,
       "Gather_SpawnCount": 0,

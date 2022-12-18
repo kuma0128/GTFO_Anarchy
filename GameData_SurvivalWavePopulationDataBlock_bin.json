@@ -367,6 +367,26 @@
       "persistentID": 28
     },
     {
+      "WaveRoleWeakling": 30,
+      "WaveRoleStandard": 16,
+      "WaveRoleSpecial": 16,
+      "WaveRoleMiniBoss": 39,
+      "WaveRoleBoss": 39,
+      "name": "BullrushBigsAndShadowHybrid",
+      "internalEnabled": true,
+      "persistentID": 2828
+    },
+    {
+      "WaveRoleWeakling": 30,
+      "WaveRoleStandard": 16,
+      "WaveRoleSpecial": 16,
+      "WaveRoleMiniBoss": 333,
+      "WaveRoleBoss": 39,
+      "name": "BullrushBigsAndShadowHybrid",
+      "internalEnabled": true,
+      "persistentID": 2929
+    },
+    {
       "WaveRoleWeakling": 21,
       "WaveRoleStandard": 31,
       "WaveRoleSpecial": 11,

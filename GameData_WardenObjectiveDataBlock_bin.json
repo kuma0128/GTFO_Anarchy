@@ -4588,7 +4588,7 @@
               "SpawnType": 0
             },
             {
-              "WaveSettings": 233,
+              "WaveSettings": 9,
               "WavePopulation": 2929,
               "AreaDistance": 2,
               "SpawnTimeRel": 0.8,
@@ -4622,7 +4622,7 @@
               "SpawnType": 0
             },
             {
-              "WaveSettings": 233,
+              "WaveSettings": 9,
               "WavePopulation": 2929,
               "AreaDistance": 2,
               "SpawnTimeRel": 0.8,
@@ -4922,7 +4922,7 @@
           "WaveSettings": 234,
           "WavePopulation": 42,
           "AreaDistance": 2,
-          "SpawnDelay": 10.0,
+          "SpawnDelay": 0.0,
           "TriggerAlarm": true,
           "IntelMessage": "%%%gHa>>%bfx<-[EX((SJ##_NE"
         }
@@ -4999,10 +4999,54 @@
           "EnemyWaveData": {
             "WaveSettings": 111,
             "WavePopulation": 27,
-            "AreaDistance": 2,
+            "AreaDistance": 1,
             "SpawnDelay": 0.0,
             "TriggerAlarm": true,
             "IntelMessage": "<color=red>WARNING: Invasion detected.</color>"
+          },
+          "EnemyID": 0,
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "Count": 0,
+          "Enabled": false,
+          "TerminalCommand": 0,
+          "TerminalCommandRule": 0
+        },
+        {
+          "Type": 9,
+          "Condition": {
+            "ConditionIndex": -1,
+            "IsTrue": false
+          },
+          "Trigger": 0,
+          "ChainPuzzle": 0,
+          "UseStaticBioscanPoints": false,
+          "Layer": 0,
+          "DimensionIndex": 0,
+          "LocalIndex": 0,
+          "Delay": 10.0,
+          "Duration": 10.0,
+          "ClearDimension": false,
+          "WardenIntel": "<color=red>ERROR://###~^^^</color>",
+          "CustomSubObjectiveHeader": 0,
+          "CustomSubObjective": 0,
+          "SoundID": 0,
+          "SoundSubtitle": 0,
+          "DialogueID": 0,
+          "FogSetting": 0,
+          "FogTransitionDuration": 0.0,
+          "EnemyWaveData": {
+            "WaveSettings": 111111,
+            "WavePopulation": 27,
+            "AreaDistance": 1,
+            "SpawnDelay": 5.0,
+            "TriggerAlarm": true,
+            "IntelMessage": "<color=red>ERROR://-[EX((SJ##_NE</color>"
           },
           "EnemyID": 0,
           "Position": {

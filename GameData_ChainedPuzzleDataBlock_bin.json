@@ -5603,16 +5603,19 @@
       "persistentID": 46
     },
     {
-      "PublicAlarmName": "Class IV Surge Alarm",
+      "PublicAlarmName": "Class V Surge Alarm",
       "TriggerAlarmOnActivate": true,
       "SurvivalWaveSettings": 21,
       "SurvivalWavePopulation": 1,
       "SurvivalWaveAreaDistance": 2,
       "DisableSurvivalWaveOnComplete": true,
       "UseRandomPositions": true,
-      "WantedDistanceFromStartPos": 20.0,
-      "WantedDistanceBetweenPuzzleComponents": 20.0,
+      "WantedDistanceFromStartPos": 25.0,
+      "WantedDistanceBetweenPuzzleComponents": 25.0,
       "ChainedPuzzle": [
+        {
+          "PuzzleType": 6
+        },
         {
           "PuzzleType": 6
         },

@@ -2262,9 +2262,9 @@
           },
           {
             "PlacementWeights": {
-              "Start": 9999.0,
+              "Start": -1.0,
               "Middle": -1.0,
-              "End": -1.0
+              "End": 9999.0
             },
             "AreaSeedOffset": 23,
             "MarkerSeedOffset": 423,
@@ -2289,7 +2289,7 @@
           {
             "PlacementWeights": {
               "Start": -1.0,
-              "Middle": 10000.0,
+              "Middle": 999999.0,
               "End": -1.0
             },
             "AreaSeedOffset": 1212,

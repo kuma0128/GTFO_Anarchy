@@ -33018,7 +33018,7 @@
           "PutIconAboveTier": false,
           "DisablePlayerVoicelines": false,
           "ExcludeFromProgression": false,
-          "Accessibility": 1,
+          "Accessibility": 5,
           "UnlockedByExpedition": {
             "Tier": 3,
             "Exp": 0
@@ -33039,7 +33039,7 @@
             "ProgressionVisualStyle": 0,
             "ExpeditionDepth": 724,
             "EstimatedDuration": 930,
-            "ExpeditionDescription": "Explicit nFrame units exceeding capacity.\r\nCollect Data Spheres information by uplink",
+            "ExpeditionDescription": "Explicit nFrame units exceeding capacity.\r\nCollect Data Spheres information by uplinks",
             "RoleplayedWardenIntel": "What happened... Where are we...\n<color=red>Where is the terminal!</color>",
             "DevInfo": ""
           },
@@ -33093,15 +33093,6 @@
                   }
                 ],
                 [
-                  {
-                    "DimensionIndex": 1,
-                    "LocalIndex": 0,
-                    "Weights": {
-                      "Start": 0.0,
-                      "Middle": 0.0,
-                      "End": 0.0
-                    }
-                  },
                   {
                     "DimensionIndex": 1,
                     "LocalIndex": 0,
@@ -33222,7 +33213,7 @@
             "ExpeditionDepth": 944,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Allocate Data Spheres to prisoner groups to salvage nFrame data.",
-            "RoleplayedWardenIntel": "<color=red>No Time To Die</color>",
+            "RoleplayedWardenIntel": "<color=red>...No time to die...</color>",
             "DevInfo": ""
           },
           "Seeds": {

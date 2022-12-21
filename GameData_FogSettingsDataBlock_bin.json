@@ -2303,10 +2303,10 @@
       "FogColor": {
         "a": 0.03137255,
         "r": 0.643155932,
-        "g": 0.9150943,
+        "g": 0.7150943,
         "b": 0.8372453
       },
-      "FogDensity": 0.0005,
+      "FogDensity": 0.001,
       "FogAmbience": 0.0001,
       "DensityNoiseDirection": {
         "x": 0.0,
@@ -2320,7 +2320,7 @@
       "DensityHeightAltitude": -1.5,
       "DensityHeightRange": 1.0,
       "DensityHeightMaxBoost": 0.02,
-      "Infection": 0.03,
+      "Infection": 0.00,
       "name": "Fog_light_green_low6_LOW_INFECTION_R6.5_D4",
       "internalEnabled": true,
       "persistentID": 108

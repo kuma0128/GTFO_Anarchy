@@ -5632,7 +5632,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 3339129407,
       "AlarmSoundStop": 42633153,
-      "name": "Single Far Separated x4 - Alarm Surge",
+      "name": "Single Far Separated x5 - Alarm Surge",
       "internalEnabled": true,
       "persistentID": 40
     },

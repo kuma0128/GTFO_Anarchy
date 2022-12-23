@@ -33018,7 +33018,7 @@
           "PutIconAboveTier": false,
           "DisablePlayerVoicelines": false,
           "ExcludeFromProgression": false,
-          "Accessibility": 5,
+          "Accessibility": 1,
           "UnlockedByExpedition": {
             "Tier": 3,
             "Exp": 0
@@ -33415,7 +33415,7 @@
             "ExpeditionDepth": 1021,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "",
-            "RoleplayedWardenIntel": "",
+            "RoleplayedWardenIntel": "<color=red>...</color>",
             "DevInfo": ""
           },
           "Seeds": {

@@ -33110,12 +33110,6 @@
               "ArtifactAmountMulti": 0.0,
               "ArtifactLayerDistributionDataID": 0,
               "ArtifactZoneDistributions": [
-                {
-                  "Zone": 8,
-                  "BasicArtifactWeight": 0.0,
-                  "AdvancedArtifactWeight": 0.0,
-                  "SpecializedArtifactWeight": 0.0
-                }
               ]
             }
           },

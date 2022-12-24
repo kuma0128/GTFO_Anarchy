@@ -1323,6 +1323,28 @@
       "persistentID": 5
     },
     {
+      "PublicAlarmName": "Class S Z Alarm",
+      "TriggerAlarmOnActivate": true,
+      "SurvivalWaveSettings": 50,
+      "SurvivalWavePopulation": 16,
+      "SurvivalWaveAreaDistance": 2,
+      "DisableSurvivalWaveOnComplete": true,
+      "UseRandomPositions": true,
+      "WantedDistanceFromStartPos": 0.0,
+      "WantedDistanceBetweenPuzzleComponents": 1.0,
+      "ChainedPuzzle": [
+        {
+          "PuzzleType": 35
+        }
+      ],
+      "OnlyShowHUDWhenPlayerIsClose": false,
+      "AlarmSoundStart": 3339129407,
+      "AlarmSoundStop": 42633153,
+      "name": "Single Sustained Defend MegaHuge x1 - 5 tanks",
+      "internalEnabled": true,
+      "persistentID": 10101
+    },
+    {
       "PublicAlarmName": "Class V S Alarm",
       "TriggerAlarmOnActivate": true,
       "SurvivalWaveSettings": 1,
@@ -5664,22 +5686,22 @@
       "SurvivalWaveSettings": 21,
       "SurvivalWavePopulation": 48,
       "SurvivalWaveAreaDistance": 2,
-      "DisableSurvivalWaveOnComplete": true,
-      "UseRandomPositions": true,
+      "DisableSurvivalWaveOnComplete": false,
+      "UseRandomPositions": false,
       "WantedDistanceFromStartPos": 15.0,
-      "WantedDistanceBetweenPuzzleComponents": 20.0,
+      "WantedDistanceBetweenPuzzleComponents": 25.0,
       "ChainedPuzzle": [
         {
-          "PuzzleType": 6
-        },
-        {
           "PuzzleType": 8
         },
         {
           "PuzzleType": 6
         },
         {
-          "PuzzleType": 8
+          "PuzzleType": 6
+        },
+        {
+          "PuzzleType": 6
         }
       ],
       "OnlyShowHUDWhenPlayerIsClose": false,

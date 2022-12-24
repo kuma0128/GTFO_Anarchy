@@ -2262,12 +2262,39 @@
           },
           {
             "PlacementWeights": {
+              
               "Start": -1.0,
               "Middle": -1.0,
               "End": 9999.0
             },
             "AreaSeedOffset": 23,
             "MarkerSeedOffset": 423,
+            "LocalLogFiles": [],
+            "UniqueCommands": [],
+            "StartingStateData": {
+              "StartingState": 0,
+              "UseCustomInfoText": false,
+              "CustomInfoText": 0,
+              "KeepShowingLocalLogCount": false,
+              "AudioEventEnter": 0,
+              "AudioEventExit": 0,
+              "PasswordProtected": false,
+              "PasswordHintText": "Password Required.",
+              "GeneratePassword": false,
+              "PasswordPartCount": 1,
+              "ShowPasswordLength": true,
+              "ShowPasswordPartPositions": false,
+              "TerminalZoneSelectionDatas": []
+            }
+          },
+          {
+            "PlacementWeights": {
+              "Start": -1.0,
+              "Middle": 999999.0,
+              "End": -1.0
+            },
+            "AreaSeedOffset": 1212,
+            "MarkerSeedOffset": 23,
             "LocalLogFiles": [],
             "UniqueCommands": [],
             "StartingStateData": {

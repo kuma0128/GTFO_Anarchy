@@ -3773,7 +3773,7 @@
         }
       ],
       "name": "Tank_Boss",
-      "internalEnabled": true,
+      "internalEnabled": false,
       "persistentID": 47
     },
     {
@@ -3918,7 +3918,7 @@
         }
       ],
       "name": "Immortal",
-      "internalEnabled": true,
+      "internalEnabled": false,
       "persistentID": 8
     },
     {

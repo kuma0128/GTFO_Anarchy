@@ -2194,7 +2194,7 @@
       "m_populationPointsPerGroupStart": 4.0,
       "m_populationPointsPerGroupEnd": 4.0,
       "m_populationRampOverTime": 0.0,
-      "name": "Trickle 4-30 SSpB",
+      "name": "Trickle 4-30 SSpB 2",
       "internalEnabled": true,
       "persistentID": 111111
     },

@@ -382,7 +382,7 @@
       "WaveRoleSpecial": 16,
       "WaveRoleMiniBoss": 39,
       "WaveRoleBoss": 39,
-      "name": "BullrushBigsAndShadowHybrid",
+      "name": "BullrushBigs_C1",
       "internalEnabled": true,
       "persistentID": 2828
     },
@@ -392,7 +392,7 @@
       "WaveRoleSpecial": 16,
       "WaveRoleMiniBoss": 333,
       "WaveRoleBoss": 39,
-      "name": "BullrushBigsAndShadowHybrid",
+      "name": "ShadowHybrid_C1",
       "internalEnabled": true,
       "persistentID": 2929
     },

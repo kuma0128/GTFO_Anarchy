@@ -47777,7 +47777,7 @@
     {
       "Type": 13,
       "Header": "Terminal Uplink",
-      "MainObjective": 1797602165,
+      "MainObjective": "Download nFramedatas via terminal uplinks.",
       "WardenObjectiveSpecialUpdateType": 0,
       "GenericItemFromStart": 0,
       "DoNotMarkPickupItemsAsWardenObjectives": false,
@@ -47813,7 +47813,7 @@
           "Delay": 0.0,
           "Duration": 0.0,
           "ClearDimension": false,
-          "WardenIntel": "Download nFramedatas via Uplinks.",
+          "WardenIntel": "Download nFramedatas via terminal uplinks.",
           "CustomSubObjectiveHeader": 0,
           "CustomSubObjective": "Proceed to <color=orange> Zone 107 </color> and locate uplink terminal.",
           "SoundID": 0,

@@ -5659,7 +5659,7 @@
       "persistentID": 40
     },
     {
-      "PublicAlarmName": "Class III Surge Alarm",
+      "PublicAlarmName": "Class IV Surge Alarm",
       "TriggerAlarmOnActivate": true,
       "SurvivalWaveSettings": 21,
       "SurvivalWavePopulation": 48,
@@ -5673,10 +5673,13 @@
           "PuzzleType": 6
         },
         {
-          "PuzzleType": 6
+          "PuzzleType": 8
         },
         {
           "PuzzleType": 6
+        },
+        {
+          "PuzzleType": 8
         }
       ],
       "OnlyShowHUDWhenPlayerIsClose": false,

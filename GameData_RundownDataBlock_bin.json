@@ -33018,7 +33018,7 @@
           "PutIconAboveTier": false,
           "DisablePlayerVoicelines": false,
           "ExcludeFromProgression": false,
-          "Accessibility": 1,
+          "Accessibility": 5,
           "UnlockedByExpedition": {
             "Tier": 3,
             "Exp": 0
@@ -33039,7 +33039,7 @@
             "ProgressionVisualStyle": 0,
             "ExpeditionDepth": 724,
             "EstimatedDuration": 930,
-            "ExpeditionDescription": "Explicit nFrame units exceeding capacity.\r\nCollect Data Spheres information by uplinks",
+            "ExpeditionDescription": "Explicit nFrame units exceeding capacity.\r\nCollect nFrame units and Data Spheres information by uplinks",
             "RoleplayedWardenIntel": "What happened... Where are we...\n<color=red>Where is the terminal!</color>",
             "DevInfo": ""
           },

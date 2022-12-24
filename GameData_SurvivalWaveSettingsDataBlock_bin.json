@@ -3601,6 +3601,32 @@
     },
     {
       "m_pauseBeforeStart": 0.0,
+      "m_pauseBetweenGroups": 900.0,
+      "m_wavePauseMin_atCost": 0.0,
+      "m_wavePauseMax_atCost": 0.0,
+      "m_wavePauseMin": 0.0,
+      "m_wavePauseMax": 0.0,
+      "m_populationFilter": [
+        0
+      ],
+      "m_filterType": 1,
+      "m_chanceToRandomizeSpawnDirectionPerWave": 0.0,
+      "m_chanceToRandomizeSpawnDirectionPerGroup": 0.0,
+      "m_overrideWaveSpawnType": true,
+      "m_survivalWaveSpawnType": 6,
+      "m_populationPointsTotal": 4.0,
+      "m_populationPointsPerWaveStart": 4.0,
+      "m_populationPointsPerWaveEnd": 4.0,
+      "m_populationPointsMinPerGroup": 1.0,
+      "m_populationPointsPerGroupStart": 2.0,
+      "m_populationPointsPerGroupEnd": 2.0,
+      "m_populationRampOverTime": 40.0,
+      "name": "Anachy_C2",
+      "internalEnabled": true,
+      "persistentID": 1999
+    },
+    {
+      "m_pauseBeforeStart": 0.0,
       "m_pauseBetweenGroups": 90.0,
       "m_wavePauseMin_atCost": 0.0,
       "m_wavePauseMax_atCost": 0.0,

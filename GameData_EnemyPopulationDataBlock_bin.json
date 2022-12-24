@@ -228,6 +228,13 @@
           "Weight": 1.0
         },
         {
+          "Role": 3,
+          "Difficulty": 11,
+          "Enemy": 333,
+          "Cost": 4.0,
+          "Weight": 1.0
+        },
+        {
           "Role": 10,
           "Difficulty": 4,
           "Enemy": 37,

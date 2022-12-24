@@ -3918,7 +3918,7 @@
         }
       ],
       "name": "Immortal",
-      "internalEnabled": false,
+      "internalEnabled": true,
       "persistentID": 8
     },
     {

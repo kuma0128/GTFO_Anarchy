@@ -1243,6 +1243,23 @@
     },
     {
       "Type": 6,
+      "Difficulty": 11,
+      "SpawnPlacementType": 0,
+      "MaxScore": 20.0,
+      "ScoreInAreaPaddingMulti": 1.0,
+      "RelativeWeight": 1.0,
+      "Roles": [
+        {
+          "Role": 3,
+          "Distribution": 4
+        }
+      ],
+      "name": "shadow Hybrids",
+      "internalEnabled": true,
+      "persistentID": 333
+    },
+    {
+      "Type": 6,
       "Difficulty": 0,
       "SpawnPlacementType": 0,
       "MaxScore": 8.0,

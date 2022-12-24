@@ -27,6 +27,16 @@
   ],
   "Blocks": [
     {
+      "WaveRoleWeakling": 8,
+      "WaveRoleStandard": 8,
+      "WaveRoleSpecial": 8,
+      "WaveRoleMiniBoss": 8,
+      "WaveRoleBoss": 8,
+      "name": "Immo",
+      "internalEnabled": true,
+      "persistentID": 1199
+    },
+    {
       "WaveRoleWeakling": 21,
       "WaveRoleStandard": 13,
       "WaveRoleSpecial": 11,

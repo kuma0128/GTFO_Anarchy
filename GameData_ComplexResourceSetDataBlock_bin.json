@@ -5108,11 +5108,6 @@
       ],
       "ElevatorShafts_1x1": [
         {
-          "Prefab": "Assets/Prefabs/Geomorph/Tech/geo_datacenter_FA_elevator_shaft_01.prefab",
-          "SubComplex": "DataCenter",
-          "Shard": "S1"
-        },
-        {
           "Prefab": "Assets/AssetPrefabs/Complex/Tech/Geomorphs/geo_32x32_elevator_shaft_tech_01.prefab",
           "SubComplex": 3,
           "Shard": 18

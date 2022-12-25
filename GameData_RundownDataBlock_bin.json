@@ -33206,21 +33206,21 @@
             "ProgressionVisualStyle": 0,
             "ExpeditionDepth": 944,
             "EstimatedDuration": 930,
-            "ExpeditionDescription": "Allocate Data Spheres to prisoner groups to salvage nFrame data.",
+            "ExpeditionDescription": "Allocate a Data Sphere to prisoner groups to salvage nFrame data.",
             "RoleplayedWardenIntel": "<color=red>...No time to die...</color>",
             "DevInfo": ""
           },
           "Seeds": {
-            "BuildSeed": 54355353,
-            "FunctionMarkerOffset": 4212,
-            "StandardMarkerOffset": 15524,
-            "LightJobSeedOffset": 3777772
+            "BuildSeed": 0,
+            "FunctionMarkerOffset": 0,
+            "StandardMarkerOffset": 0,
+            "LightJobSeedOffset": 0
           },
           "Expedition": {
-            "ComplexResourceData": 64,
+            "ComplexResourceData": 58,
             "MLSLevelKit": 0,
-            "LightSettings": 28,
-            "FogSettings": 8,
+            "LightSettings": 64,
+            "FogSettings": 123,
             "EnemyPopulation": 1,
             "ExpeditionBalance": 1,
             "ScoutWaveSettings": 3,
@@ -33240,13 +33240,38 @@
             ]
           },
           "UseGearPicker": false,
-          "LevelLayoutData": 3988653479,
+          "LevelLayoutData": 3718356978,
           "MainLayerData": {
-            "ZonesWithBulkheadEntrance": [],
-            "BulkheadDoorControllerPlacements": [],
-            "BulkheadKeyPlacements": [],
+            "ZonesWithBulkheadEntrance": [
+              0
+            ],
+            "BulkheadDoorControllerPlacements": [
+              {
+                "ZoneIndex": 0,
+                "PlacementWeights": {
+                  "Start": 0.0,
+                  "Middle": 0.0,
+                  "End": 0.0
+                },
+                "AreaSeedOffset": 0,
+                "MarkerSeedOffset": 0
+              }
+            ],
+            "BulkheadKeyPlacements": [
+              [
+                {
+                  "DimensionIndex": 0,
+                  "LocalIndex": 5,
+                  "Weights": {
+                    "Start": 0.0,
+                    "Middle": 0.0,
+                    "End": 1000.0
+                  }
+                }
+              ]
+            ],
             "ObjectiveData": {
-              "DataBlockId": 167,
+              "DataBlockId": 157,
               "WinCondition": 0,
               "ZonePlacementDatas": [
                 [
@@ -33256,61 +33281,7 @@
                     "Weights": {
                       "Start": 0.0,
                       "Middle": 0.0,
-                      "End": 10000.0
-                    }
-                  },
-                  {
-                    "DimensionIndex": 0,
-                    "LocalIndex": 2,
-                    "Weights": {
-                      "Start": 0.0,
-                      "Middle": 0.0,
-                      "End": 10000.0
-                    }
-                  },
-                  {
-                    "DimensionIndex": 0,
-                    "LocalIndex": 3,
-                    "Weights": {
-                      "Start": 0.0,
-                      "Middle": 0.0,
-                      "End": 10000.0
-                    }
-                  },
-                  {
-                    "DimensionIndex": 0,
-                    "LocalIndex": 4,
-                    "Weights": {
-                      "Start": 0.0,
-                      "Middle": 0.0,
-                      "End": 10000.0
-                    }
-                  },
-                  {
-                    "DimensionIndex": 0,
-                    "LocalIndex": 5,
-                    "Weights": {
-                      "Start": 0.0,
-                      "Middle": 0.0,
-                      "End": 10000.0
-                    }
-                  },
-                  {
-                    "DimensionIndex": 0,
-                    "LocalIndex": 6,
-                    "Weights": {
-                      "Start": 0.0,
-                      "Middle": 0.0,
-                      "End": 10000.0
-                    }
-                  },
-                  {
-                    "DimensionIndex": 0,
-                    "LocalIndex": 7,
-                    "Weights": {
-                      "Start": 0.0,
-                      "Middle": 0.0,
-                      "End": 10000.0
+                      "End": 0.0
                     }
                   }
                 ]
@@ -33320,7 +33291,8 @@
             "ArtifactData": {
               "ArtifactAmountMulti": 0.0,
               "ArtifactLayerDistributionDataID": 0,
-              "ArtifactZoneDistributions": []
+              "ArtifactZoneDistributions": [
+              ]
             }
           },
           "SecondaryLayerEnabled": false,
@@ -33345,8 +33317,8 @@
               "ArtifactZoneDistributions": []
             }
           },
-          "ThirdLayerEnabled": false,
-          "ThirdLayout": 0,
+          "ThirdLayerEnabled": true,
+          "ThirdLayout": 3510199334,
           "BuildThirdFrom": {
             "LayerType": 0,
             "Zone": 0
@@ -33354,11 +33326,13 @@
           "ThirdLayerData": {
             "ZonesWithBulkheadEntrance": [],
             "BulkheadDoorControllerPlacements": [],
-            "BulkheadKeyPlacements": [],
+            "BulkheadKeyPlacements": [
+            ],
             "ObjectiveData": {
-              "DataBlockId": 0,
+              "DataBlockId": 145,
               "WinCondition": 0,
-              "ZonePlacementDatas": []
+              "ZonePlacementDatas": [
+              ]
             },
             "ChainedObjectiveData": [],
             "ArtifactData": {
@@ -33367,8 +33341,14 @@
               "ArtifactZoneDistributions": []
             }
           },
-          "DimensionDatas": [],
-          "SoundEventOnWarpToReality": 0,
+          "DimensionDatas": [
+            {
+              "DimensionIndex": 1,
+              "DimensionData": 17,
+              "Enabled": true
+            }
+          ],
+          "SoundEventOnWarpToReality": 231201012,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
             "InfectionLevelAtExpeditionStart": 0.0,
@@ -33378,7 +33358,7 @@
             "ToolAmmoAtExpeditionStart": 1.0
           },
           "HasExternalStyle": false,
-          "HasStoryStyle": false
+          "HasStoryStyle": true
         },
         {
           "Enabled": true,

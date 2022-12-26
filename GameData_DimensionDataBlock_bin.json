@@ -2338,7 +2338,7 @@
         "CloudsShadowOpacity": 1.0,
         "CloudsTimescale": 0.0,
         "CloudsCrawling": -0.02,
-        "CloudsFade": 0.3,
+        "CloudsFade": 0.2,
         "Sandstorm": false,
         "SandstormEdgeA": 0.25,
         "SandstormEdgeB": 1.0,

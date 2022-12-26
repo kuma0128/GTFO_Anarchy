@@ -1327,7 +1327,7 @@
       "TriggerAlarmOnActivate": true,
       "SurvivalWaveSettings": 50,
       "SurvivalWavePopulation": 16,
-      "SurvivalWaveAreaDistance": 2,
+      "SurvivalWaveAreaDistance": 1,
       "DisableSurvivalWaveOnComplete": true,
       "UseRandomPositions": true,
       "WantedDistanceFromStartPos": 0.0,
@@ -5658,13 +5658,13 @@
       "WantedDistanceBetweenPuzzleComponents": 25.0,
       "ChainedPuzzle": [
         {
-          "PuzzleType": 6
+          "PuzzleType": 8
         },
         {
           "PuzzleType": 6
         },
         {
-          "PuzzleType": 6
+          "PuzzleType": 8
         },
         {
           "PuzzleType": 6

@@ -32766,7 +32766,7 @@
         "AllClearedSectors": 0
       },
       "StorytellingData": {
-        "Title": "Rundown - Anarchy-0.2.4",
+        "Title": "Rundown - Anarchy-0.2.5",
         "TextLog": 0,
         "TextLogPos": {
           "x": 0.0,
@@ -33570,7 +33570,7 @@
           },
           "Descriptive": {
             "Prefix": "E",
-            "PublicName": "Deepest",
+            "PublicName": "Fortress",
             "IsExtraExpedition": false,
             "SkipExpNumberInName": false,
             "UseCustomMatchmakingTier": false,
@@ -33731,7 +33731,7 @@
           },
           "Descriptive": {
             "Prefix": "E",
-            "PublicName": "Fortress",
+            "PublicName": "Even darker",
             "IsExtraExpedition": false,
             "SkipExpNumberInName": false,
             "UseCustomMatchmakingTier": false,

@@ -25975,7 +25975,7 @@
       "persistentID": 149
     },
     {
-      "Type": 14,
+      "Type": 11,
       "Header": 1811515079,
       "MainObjective": 2965203899,
       "WardenObjectiveSpecialUpdateType": 0,
@@ -26486,10 +26486,10 @@
       "ActivateHSU_ObjectiveCompleteAfterInsertion": false,
       "ActivateHSU_RequireItemAfterActivationInExitScan": false,
       "ActivateHSU_Events": [],
-      "Survival_TimeToActivate": 180.0,
-      "Survival_TimeToSurvive": 4800.0,
+      "Survival_TimeToActivate": 1.0,
+      "Survival_TimeToSurvive": 3000.0,
       "Survival_TimerTitle": "Time until allowed extraction:",
-      "Survival_TimerToActivateTitle": "<color=red>WARNING!</color> Warden Protocol <color=orange>E.v1</color> will commence in: ",
+      "Survival_TimerToActivateTitle": "<color=red>WARNING!</color> Warden Protocol <color=orange>E.v5</color> will commence in: ",
       "GatherTerminal_SpawnCount": 0,
       "GatherTerminal_RequiredCount": 0,
       "GatherTerminal_Command": "",

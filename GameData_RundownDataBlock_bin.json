@@ -33185,7 +33185,7 @@
           "PutIconAboveTier": false,
           "DisablePlayerVoicelines": false,
           "ExcludeFromProgression": false,
-          "Accessibility": 5,
+          "Accessibility": 1,
           "UnlockedByExpedition": {
             "Tier": 1,
             "Exp": 0
@@ -33327,11 +33327,42 @@
             "ZonesWithBulkheadEntrance": [],
             "BulkheadDoorControllerPlacements": [],
             "BulkheadKeyPlacements": [
+              [
+                {
+                  "DimensionIndex": 0,
+                  "LocalIndex": 2,
+                  "Weights": {
+                    "Start": 0.0,
+                    "Middle": 0.0,
+                    "End": 1000.0
+                  }
+                }
+              ]
             ],
             "ObjectiveData": {
               "DataBlockId": 145,
               "WinCondition": 0,
               "ZonePlacementDatas": [
+                [
+                  {
+                    "DimensionIndex": 0,
+                    "LocalIndex": 0,
+                    "Weights": {
+                      "Start": 0.0,
+                      "Middle": 0.0,
+                      "End": 0.0
+                    }
+                  },
+                  {
+                    "DimensionIndex": 0,
+                    "LocalIndex": 0,
+                    "Weights": {
+                      "Start": 0.0,
+                      "Middle": 0.0,
+                      "End": 0.0
+                    }
+                  }
+                ]
               ]
             },
             "ChainedObjectiveData": [],

@@ -32813,7 +32813,7 @@
           },
           "TierDVisuals": {
             "Color": {
-              "a": 0.8,
+              "a": 0.6,
               "r": 158,
               "g": 27,
               "b": 81
@@ -32843,6 +32843,155 @@
       },
       "VanityItemLayerDropDataBlock": 3,
       "TierA": [
+        {
+          "Enabled": true,
+          "IsSinglePlayer": false,
+          "SkipLobby": false,
+          "PutIconAboveTier": false,
+          "DisablePlayerVoicelines": false,
+          "ExcludeFromProgression": false,
+          "Accessibility": 1,
+          "UnlockedByExpedition": {
+            "Tier": 3,
+            "Exp": 0
+          },
+          "CustomProgressionLock": {
+            "MainSectors": 6,
+            "SecondarySectors": 0,
+            "ThirdSectors": 0,
+            "AllClearedSectors": 0
+          },
+          "Descriptive": {
+            "Prefix": "A",
+            "PublicName": "farewell",
+            "IsExtraExpedition": false,
+            "SkipExpNumberInName": true,
+            "UseCustomMatchmakingTier": false,
+            "CustomMatchmakingTier": 1,
+            "ProgressionVisualStyle": 0,
+            "ExpeditionDepth": 0,
+            "EstimatedDuration": 930,
+            "ExpeditionDescription": "Prisoners <color=red>::ERR ###\r</color>\n",
+            "RoleplayedWardenIntel": "<color=red>N??*.~?޽???...</color>",
+            "DevInfo": ""
+          },
+          "Seeds": {
+            "BuildSeed": 333444333,
+            "FunctionMarkerOffset": 0,
+            "StandardMarkerOffset": 0,
+            "LightJobSeedOffset": 1100
+          },
+          "Expedition": {
+            "ComplexResourceData": 37,
+            "MLSLevelKit": 0,
+            "LightSettings": 28,
+            "FogSettings": 28,
+            "EnemyPopulation": 1,
+            "ExpeditionBalance": 1,
+            "ScoutWaveSettings": 3,
+            "ScoutWavePopulation": 1,
+            "EnvironmentWetness": 0.0,
+            "DustColor": {
+              "a": 1.0,
+              "r": 0.5,
+              "g": 0.5,
+              "b": 0.5
+            },
+            "DustTurbulence": 1.0
+          },
+          "VanityItemsDropData": {
+            "Groups": [
+              36
+            ]
+          },
+          "UseGearPicker": false,
+          "LevelLayoutData": 1574517326,
+          "MainLayerData": {
+            "ZonesWithBulkheadEntrance": [],
+            "BulkheadDoorControllerPlacements": [],
+            "BulkheadKeyPlacements": [],
+            "ObjectiveData": {
+              "DataBlockId": 164,
+              "WinCondition": 0,
+              "ZonePlacementDatas": [
+                [
+                  {
+                    "DimensionIndex": 0,
+                    "LocalIndex": 4,
+                    "Weights": {
+                      "Start": 0.0,
+                      "Middle": 0.0,
+                      "End": 0.0
+                    }
+                  }
+                ]
+              ]
+            },
+            "ChainedObjectiveData": [],
+            "ArtifactData": {
+              "ArtifactAmountMulti": 0.0,
+              "ArtifactLayerDistributionDataID": 0,
+              "ArtifactZoneDistributions": [
+              ]
+            }
+          },
+          "SecondaryLayerEnabled": false,
+          "SecondaryLayout": 0,
+          "BuildSecondaryFrom": {
+            "LayerType": 0,
+            "Zone": 0
+          },
+          "SecondaryLayerData": {
+            "ZonesWithBulkheadEntrance": [],
+            "BulkheadDoorControllerPlacements": [],
+            "BulkheadKeyPlacements": [],
+            "ObjectiveData": {
+              "DataBlockId": 0,
+              "WinCondition": 0,
+              "ZonePlacementDatas": []
+            },
+            "ChainedObjectiveData": [],
+            "ArtifactData": {
+              "ArtifactAmountMulti": 1.0,
+              "ArtifactLayerDistributionDataID": 0,
+              "ArtifactZoneDistributions": []
+            }
+          },
+          "ThirdLayerEnabled": false,
+          "ThirdLayout": 0,
+          "BuildThirdFrom": {
+            "LayerType": 0,
+            "Zone": 0
+          },
+          "ThirdLayerData": {
+            "ZonesWithBulkheadEntrance": [],
+            "BulkheadDoorControllerPlacements": [],
+            "BulkheadKeyPlacements": [],
+            "ObjectiveData": {
+              "DataBlockId": 0,
+              "WinCondition": 0,
+              "ZonePlacementDatas": []
+            },
+            "ChainedObjectiveData": [],
+            "ArtifactData": {
+              "ArtifactAmountMulti": 1.0,
+              "ArtifactLayerDistributionDataID": 0,
+              "ArtifactZoneDistributions": []
+            }
+          },
+          "DimensionDatas": [],
+          "SoundEventOnWarpToReality": 0,
+          "SpecialOverrideData": {
+            "WeakResourceContainerWithPackChanceForLocked": -1.0,
+            "InfectionLevelAtExpeditionStart": 0.0,
+            "HealthLevelAtExpeditionStart": 1.0,
+            "StandardAmmoAtExpeditionStart": 1.0,
+            "SpecialAmmoAtExpeditionStart": 1.0,
+            "ToolAmmoAtExpeditionStart": 1.0
+          },
+          "HasExternalStyle": false,
+          "HasStoryStyle": false
+        }
       ],
       "TierB": [
         {
@@ -32874,7 +33023,7 @@
             "ExpeditionDepth": 678,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Bypass required in Sec_D. Prisoners sent to overload grid. \n<color=red>Elevator ventilation system malfunctioned.</color>",
-            "RoleplayedWardenIntel": "...We're surrounded by them... It's killing us...\n<color=red>...Are you done?... No, wait...</color>",
+            "RoleplayedWardenIntel": ">...We're surrounded by them... It's killing us...\n<color=red>>...Are you done? No, wait...</color>",
             "DevInfo": ""
           },
           "Seeds": {
@@ -33040,7 +33189,7 @@
             "ExpeditionDepth": 724,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Explicit nFrame units exceeding capacity.\r\nCollect nFrame units and Data Spheres information by uplinks",
-            "RoleplayedWardenIntel": "What happened... Where are we...\n<color=red>Where is the terminal!</color>",
+            "RoleplayedWardenIntel": ">...What happened ...Where are we?\n<color=red>>...Where is the terminal?</color>",
             "DevInfo": ""
           },
           "Seeds": {
@@ -33207,7 +33356,7 @@
             "ExpeditionDepth": 944,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Allocate a Data Sphere to prisoner groups to salvage nFrame data.",
-            "RoleplayedWardenIntel": "<color=red>...No time to die...</color>",
+            "RoleplayedWardenIntel": ">...Fire at will! [gunfire, commotion]\r\n<size=200%><color=red>No time to die.</color></size>",
             "DevInfo": ""
           },
           "Seeds": {
@@ -33419,8 +33568,8 @@
             "ProgressionVisualStyle": 0,
             "ExpeditionDepth": 1021,
             "EstimatedDuration": 930,
-            "ExpeditionDescription": "",
-            "RoleplayedWardenIntel": "<color=red>...</color>",
+            "ExpeditionDescription": "Use extracted coordinates to retrieve 3 Data Cubes. Deviating energy readings detected in the related sector.",
+            "RoleplayedWardenIntel": ">… <size=200%><color=red>Everyone ready?</color></size> ",
             "DevInfo": ""
           },
           "Seeds": {
@@ -33578,8 +33727,8 @@
             "ProgressionVisualStyle": 0,
             "ExpeditionDepth": 1412,
             "EstimatedDuration": 930,
-            "ExpeditionDescription": "",
-            "RoleplayedWardenIntel": "There's no time. Let's spread out.\n<color=red>...It's impossible for one person...</color>",
+            "ExpeditionDescription": "Extensive power is needed for a deepest level.\r\nPrisoners deemed expendable.",
+            "RoleplayedWardenIntel": ">..There's no time. Let's spread out.\n<size=200%><color=red>No way...</color></size>",
             "DevInfo": ""
           },
           "Seeds": {
@@ -33636,21 +33785,9 @@
             },
             "ChainedObjectiveData": [],
             "ArtifactData": {
-              "ArtifactAmountMulti": 0.7,
+              "ArtifactAmountMulti": 0.0,
               "ArtifactLayerDistributionDataID": 0,
               "ArtifactZoneDistributions": [
-                {
-                  "Zone": 3,
-                  "BasicArtifactWeight": 0.5,
-                  "AdvancedArtifactWeight": 0.5,
-                  "SpecializedArtifactWeight": 0.5
-                },
-                {
-                  "Zone": 4,
-                  "BasicArtifactWeight": 0.0,
-                  "AdvancedArtifactWeight": 0.0,
-                  "SpecializedArtifactWeight": 0.0
-                }
               ]
             }
           },
@@ -33739,8 +33876,8 @@
             "ProgressionVisualStyle": 0,
             "ExpeditionDepth": 1430,
             "EstimatedDuration": 930,
-            "ExpeditionDescription": "",
-            "RoleplayedWardenIntel": "",
+            "ExpeditionDescription": "Reach deepest level and initiate Destruction Protocol.",
+            "RoleplayedWardenIntel": "Dark to the end of the world\n<color=red>We have to keep moving.</color>",
             "DevInfo": ""
           },
           "Seeds": {
@@ -33861,8 +33998,9 @@
           "HasStoryStyle": false
         }
       ],
-      "TierE": [],
-      "name": "Rundown - anarchy",
+      "TierE": [
+      ],
+      "name": "Rundown - Anarchy",
       "internalEnabled": true,
       "persistentID": 32
     }

@@ -47870,9 +47870,9 @@
           "Layer": 0,
           "DimensionIndex": 1,
           "LocalIndex": 0,
-          "Delay":30.0,
+          "Delay":20.0,
           "Duration": 0.0,
-          "ClearDimension":false,
+          "ClearDimension":true,
           "WardenIntel": 0,
           "CustomSubObjectiveHeader": 0,
           "CustomSubObjective": 0,
@@ -48100,7 +48100,7 @@
           "SoundSubtitle": 0,
           "DialogueID": 0,
           "FogSetting": 107,
-          "FogTransitionDuration": 720.0,
+          "FogTransitionDuration": 600.0,
           "EnemyWaveData": {
             "WaveSettings": 0,
             "WavePopulation": 0,
@@ -48343,6 +48343,50 @@
           "TerminalCommandRule": 0
         },
         {
+          "Type": 10,
+          "Condition": {
+            "ConditionIndex": -1,
+            "IsTrue": false
+          },
+          "Trigger": 0,
+          "ChainPuzzle": 0,
+          "UseStaticBioscanPoints": false,
+          "Layer": 0,
+          "DimensionIndex": 0,
+          "LocalIndex": 0,
+          "Delay": 75.0,
+          "Duration": 0.0,
+          "ClearDimension": false,
+          "WardenIntel": "",
+          "CustomSubObjectiveHeader": 0,
+          "CustomSubObjective": 0,
+          "SoundID": 0,
+          "SoundSubtitle": 0,
+          "DialogueID": 0,
+          "FogSetting": 0,
+          "FogTransitionDuration": 0.0,
+          "EnemyWaveData": {
+            "WaveSettings": 0,
+            "WavePopulation": 0,
+            "AreaDistance": 2,
+            "SpawnDelay": 0.0,
+            "TriggerAlarm": false,
+            "IntelMessage": 0
+          },
+          "EnemyID": 0,
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "Count": 0,
+          "Enabled": false,
+          "TerminalCommand": 0,
+          "TerminalCommandRule": 0
+        },
+        {
           "Type": 8,
           "Condition": {
             "ConditionIndex": -1,
@@ -48382,7 +48426,7 @@
             "sqrMagnitude": 0.0
           },
           "Count": 0,
-          "Enabled": false,
+          "Enabled": true,
           "TerminalCommand": 0,
           "TerminalCommandRule": 0
         },
@@ -48441,7 +48485,7 @@
       "ChainedPuzzleToActive": 0,
       "ChainedPuzzleMidObjective": 0,
       "ChainedPuzzleAtExit": 186,
-      "ChainedPuzzleAtExitScanSpeedMultiplier": 0.2,
+      "ChainedPuzzleAtExitScanSpeedMultiplier": 0.3,
       "Gather_RequiredCount": -1,
       "Gather_ItemId": 0,
       "Gather_SpawnCount": 0,

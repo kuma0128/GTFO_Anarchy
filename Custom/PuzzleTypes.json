@@ -1,0 +1,180 @@
+{
+  "Scans": [
+    // Class # Scatter Scan --> lots of scan points
+    // Class # RS Scan --> more players = slower
+    // Class # Idle Scan --> very long reveal time
+    // Class S # Dual Scan
+    {
+      "Name": "Reversed Scaling Scan",
+      "BaseScan": 6,
+      "PersistentID": 100,
+      "PlayerRequirement": 0,
+      "ScanRadius": 2.0,
+      "PlayersInScanMulti": [0.1, 0.07, 0.03, 0.01],
+      "ReduceSpeed": 0.0,
+      "ReduceWhenNoPlayer": false,
+      "BioScanGraphics": {
+      "ScanText": "SECURITY SCAN",
+        "Radius": 2.0,
+        "colorModeColor": [
+          { "mode": 1, "r": 1.0, "g": 1.0, "b": 0.0, "a": 1.0 },
+          { "mode": 2, "r": 0.5, "g": 1.0, "b": 0.0, "a": 1.0 },
+          { "mode": 4, "r": 1.0, "g": 1.0, "b": 0.0, "a": 1.0 },
+          { "mode": 5, "r": 0.5, "g": 1.0, "b": 0.0, "a": 1.0 }
+        ]
+      }
+    },
+    {
+      "Name": "Scatter Scan",
+      "BaseScan": 2,
+      "PersistentID": 101,
+      "PlayerRequirement": 0,
+      "ScanRadius": 1.0,
+      "PlayersInScanMulti": [0.8, 0.8, 0.8, 0.8],
+      "ReduceSpeed": 0.0,
+      "ReduceWhenNoPlayer": false,
+      "RevealMode": "ScaleByDistance",
+      "BioScanGraphics": {
+        "ScanText": "SECURITY SCAN",
+        "Radius": 1.0,
+        "colorModeColor": [
+          { "mode": 1, "r": 1.0, "g": 0.3, "b": 0.7, "a": 0.6 },
+          { "mode": 2, "r": 0.8, "g": 0.25, "b": 0.7, "a": 0.6 },
+          { "mode": 4, "r": 1.0, "g": 0.3, "b": 0.7, "a": 0.6 },
+          { "mode": 5, "r": 0.8, "g": 0.25, "b": 0.7, "a": 0.6 }
+        ]
+      }
+    },
+    {
+      "Name": "Idle Scan",
+      "BaseScan": 6,
+      "PersistentID": 102,
+      "PlayerRequirement": 1,
+      "ScanRadius": 2.0,
+      "PlayersInScanMulti": [0.1, 0.1, 0.1, 0.1],
+      "ReduceSpeed": 0.0,
+      "ReduceWhenNoPlayer": false,
+      "BioScanGraphics": {
+      "ScanText": "SECURITY SCAN - FULL TEAM",
+        "Radius": 2.0,
+        "colorModeColor": [
+          { "mode": 1, "r": 1.0, "g": 1.0, "b": 1.0, "a": 1.0 },
+          { "mode": 2, "r": 0.6, "g": 0.8, "b": 0.8, "a": 1.0 },
+          { "mode": 4, "r": 1.0, "g": 1.0, "b": 1.0, "a": 1.0 },
+          { "mode": 5, "r": 0.6, "g": 0.8, "b": 0.8, "a": 1.0 }
+        ]
+      }
+    },
+    {
+      "Name": "Dual Scan",
+      "BaseScan": 6,
+      "PersistentID": 103,
+      "PlayerRequirement": 0,
+      "ScanRadius": 2.0,
+      "PlayersInScanMulti": [0.0, 0.1, 0.0, 0.0],
+      "ReduceSpeed": 0.0165,
+      "ReduceWhenNoPlayer": false,
+      "RevealMode": "ScaleByDistance",
+      "BioScanGraphics": {
+      "ScanText": "SECURITY SCAN - DUAL",
+        "Radius": 2.0,
+        "colorModeColor": [
+          { "mode": 1, "r": 0.0, "g": 0.5, "b": 0.5, "a": 1.0 },
+          { "mode": 2, "r": 0.5, "g": 0.5, "b": 0.5, "a": 1.0 },
+          { "mode": 4, "r": 0.0, "g": 0.5, "b": 0.5, "a": 1.0 },
+          { "mode": 5, "r": 0.5, "g": 0.5, "b": 0.5, "a": 1.0 }
+        ]
+      }
+    },
+    {
+      "Name": "Sustain Dual Scan",
+      "BaseScan": 13,
+      "PersistentID": 104,
+      "PlayerRequirement": 0,
+      "ScanRadius": 3.0,
+      "PlayersInScanMulti": [0.0, 0.01, 0.0, 0.0],
+      "ReduceSpeed": 0.01,
+      "ReduceWhenNoPlayer": true,
+      "RevealMode": "ScaleByDistance",
+      "BioScanGraphics": {
+      "ScanText": "SECURITY SCAN - DUAL",
+        "Radius": 3.0,
+        "colorModeColor": [
+          { "mode": 1, "r": 0.0, "g": 0.5, "b": 0.5, "a": 1.0 },
+          { "mode": 2, "r": 0.5, "g": 0.5, "b": 0.5, "a": 1.0 },
+          { "mode": 4, "r": 0.0, "g": 0.5, "b": 0.5, "a": 1.0 },
+          { "mode": 5, "r": 0.5, "g": 0.5, "b": 0.5, "a": 1.0 }
+        ]
+      }
+    }
+  ],
+  "Clusters": [
+    {
+      "Name": "Scatter Scan x20",
+      "BaseCluster": 15,
+      "PersistentID": 300,
+      "ClusterCount": 20,
+      "BioscanID": 101,
+      "DistanceBetweenScans": 10.0,
+      "RevealWithHoloPath": true
+    },
+    {
+      "Name": "Reversed Scaling Scan x4",
+      "BaseCluster": 15,
+      "PersistentID": 301,
+      "ClusterCount": 4,
+      "BioscanID": 100,
+      "RevealMode": 0,
+      "DistanceBetweenScans": 20.0,
+      "RevealWithHoloPath": false
+    },
+    {
+      "Name": "Reversed Scaling Scan x2",
+      "BaseCluster": 15,
+      "PersistentID": 302,
+      "ClusterCount": 2,
+      "BioscanID": 100,
+      "RevealMode": 0,
+      "DistanceBetweenScans": 20.0,
+      "RevealWithHoloPath": false
+    },
+    {
+      "Name": "Idle Scan x1",
+      "BaseCluster": 4,
+      "PersistentID": 303,
+      "ClusterCount": 1,
+      "BioscanID": 102,
+      "RevealTime": 1.0,
+      "DistanceBetweenScans": 1.0,
+      "RevealWithHoloPath": true
+    },
+    {
+      "Name": "Idle Scan Slow x1",
+      "BaseCluster": 4,
+      "PersistentID": 304,
+      "ClusterCount": 1,
+      "BioscanID": 102,
+      "RevealTime": 0.7,
+      "DistanceBetweenScans": 1.0,
+      "RevealWithHoloPath": true
+    },
+    {
+      "Name": "Dual Scan x2",
+      "BaseCluster": 4,
+      "PersistentID": 305,
+      "ClusterCount": 2,
+      "BioscanID": 103,
+      "DistanceBetweenScans": 15.0,
+      "RevealWithHoloPath": true
+    },
+    {
+      "Name": "Sustain Dual Scan x2",
+      "BaseCluster": 4,
+      "PersistentID": 306,
+      "ClusterCount": 2,
+      "BioscanID": 104,
+      "DistanceBetweenScans": 15.0,
+      "RevealWithHoloPath": true
+    }
+  ]
+}

@@ -2441,7 +2441,7 @@
         "g": 1.0,
         "b": 0.956862748
       },
-      "FogDensity": 0.0001,
+      "FogDensity": 0.00015,
       "FogAmbience": 0.0001,
       "DensityNoiseDirection": {
         "x": 0.0,

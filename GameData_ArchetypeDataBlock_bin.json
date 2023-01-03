@@ -1700,7 +1700,7 @@
       "FireMode": 2,
       "RecoilDataID": 25,
       "DamageBoosterEffect": 62,
-      "Damage": 3.91,
+      "Damage": 39.1,
       "DamageFalloff": {
         "x": 15.0,
         "y": 80.0,
@@ -1796,7 +1796,7 @@
       "FireMode": 2,
       "RecoilDataID": 34,
       "DamageBoosterEffect": 62,
-      "Damage": 3.51,
+      "Damage": 35.1,
       "DamageFalloff": {
         "x": 15.0,
         "y": 80.0,

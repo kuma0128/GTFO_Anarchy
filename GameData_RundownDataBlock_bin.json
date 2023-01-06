@@ -30,7 +30,7 @@
         "AllClearedSectors": 0
       },
       "StorytellingData": {
-        "Title": "Rundown - Anarchy-0.2.6",
+        "Title": "Rundown - Anarchy-0.2.7",
         "TextLog": 0,
         "TextLogPos": {
           "x": 0.0,
@@ -449,9 +449,9 @@
           "PutIconAboveTier": false,
           "DisablePlayerVoicelines": false,
           "ExcludeFromProgression": false,
-          "Accessibility": 1,
+          "Accessibility": 0,
           "UnlockedByExpedition": {
-            "Tier": 2,
+            "Tier": 1,
             "Exp": 0
           },
           "CustomProgressionLock": {
@@ -471,7 +471,7 @@
             "ExpeditionDepth": 944,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Allocate a Data Sphere to prisoner groups to salvage nFrame data.",
-            "RoleplayedWardenIntel": ">...Fire at will! \r\n<color=red>>...No time to die.</color>",
+            "RoleplayedWardenIntel": ">...Fire at will! \r\n<color=red>>...No time to die</color>",
             "DevInfo": ""
           },
           "Seeds": {
@@ -507,7 +507,7 @@
           "LevelLayoutData": 3718356978,
           "MainLayerData": {
             "ZonesWithBulkheadEntrance": [
-              0
+              7
             ],
             "BulkheadDoorControllerPlacements": [
               {
@@ -525,7 +525,7 @@
               [
                 {
                   "DimensionIndex": 0,
-                  "LocalIndex": 5,
+                  "LocalIndex": 6,
                   "Weights": {
                     "Start": 0.0,
                     "Middle": 0.0,
@@ -653,7 +653,7 @@
             "ToolAmmoAtExpeditionStart": 1.0
           },
           "HasExternalStyle": false,
-          "HasStoryStyle": true
+          "HasStoryStyle": false
         },
         {
           "Enabled": true,

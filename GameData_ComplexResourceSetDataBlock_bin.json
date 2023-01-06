@@ -18325,9 +18325,24 @@
           "Prefab": "Assets/AssetPrefabs/Complex/Tech/Geomorphs/geo_32x32_lab_exit_01.prefab",
           "SubComplex": 5,
           "Shard": 18
+        },
+        {
+          "Prefab": "Assets/Prefabs/Geomorph/Tech/geo_datacenter_FA_exit_01.prefab",
+          "SubComplex": "DataCenter",
+          "Shard": "S1"
+        },
+        {
+          "Prefab": "Assets/Prefabs/Geomorph/Tech/geo_datacenter_FA_exit_01_noexit.prefab",
+          "SubComplex": "DataCenter",
+          "Shard": "S1"
         }
       ],
       "CustomGeomorphs_Objective_1x1": [
+        {
+          "Prefab": "Assets/AssetPrefabs/Complex/Tech/Geomorphs/geo_64x64_tech_data_center_HA_02.prefab",
+          "SubComplex": 3,
+          "Shard": 1
+        },
         {
           "Prefab": "Assets/AssetPrefabs/Complex/Tech/Geomorphs/geo_64x64_Lab_dead_end_room_01.prefab",
           "SubComplex": 5,

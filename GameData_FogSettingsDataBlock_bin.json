@@ -60,10 +60,10 @@
       },
       "DensityNoiseSpeed": 0.0,
       "DensityNoiseScale": 0.131,
-      "DensityHeightAltitude": -6.02,
+      "DensityHeightAltitude": -5.82,
       "DensityHeightRange": 2.51,
       "DensityHeightMaxBoost": 0.002,
-      "Infection": 0.0,
+      "Infection": 0.02,
       "name": "Fog_Mainframe_R7d2",
       "internalEnabled": true,
       "persistentID": 123

@@ -303,7 +303,7 @@
             "ProgressionVisualStyle": 0,
             "ExpeditionDepth": 724,
             "EstimatedDuration": 930,
-            "ExpeditionDescription": "Explicit nFrame units exceeding capacity.\r\nCollect nFrame units and Data Spheres information by uplink",
+            "ExpeditionDescription": "Explicit nFrame units exceeding capacity.\r\nCollect nFrame units and Data Spheres information by uplink.\n<color=red>Unknown force field detected.</color>",
             "RoleplayedWardenIntel": ">...What happened ...Where are we?\n<color=red>>...Where is the terminal?</color>",
             "DevInfo": ""
           },
@@ -470,7 +470,7 @@
             "ProgressionVisualStyle": 0,
             "ExpeditionDepth": 944,
             "EstimatedDuration": 930,
-            "ExpeditionDescription": "Allocate a Data Sphere to prisoner groups to salvage nFrame data.",
+            "ExpeditionDescription": "Allocate a Data Sphere to prisoner groups to salvage nFrame data.\n<color=red>Multiple error alarms have been identified.</color>",
             "RoleplayedWardenIntel": ">...Fire at will! \r\n<color=red>>...No time to die</color>",
             "DevInfo": ""
           },
@@ -507,9 +507,19 @@
           "LevelLayoutData": 3718356978,
           "MainLayerData": {
             "ZonesWithBulkheadEntrance": [
-              7
+              8
             ],
             "BulkheadDoorControllerPlacements": [
+              {
+                "ZoneIndex": 0,
+                "PlacementWeights": {
+                  "Start": 0.0,
+                  "Middle": 0.0,
+                  "End": 0.0
+                },
+                "AreaSeedOffset": 0,
+                "MarkerSeedOffset": 0
+              },
               {
                 "ZoneIndex": 0,
                 "PlacementWeights": {
@@ -589,7 +599,8 @@
           },
           "ThirdLayerData": {
             "ZonesWithBulkheadEntrance": [],
-            "BulkheadDoorControllerPlacements": [],
+            "BulkheadDoorControllerPlacements": [
+            ],
             "BulkheadKeyPlacements": [
               [
                 {
@@ -684,7 +695,7 @@
             "ExpeditionDepth": 1021,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Use extracted coordinates to retrieve 3 Data Cubes. Deviating energy readings detected in the related sector.",
-            "RoleplayedWardenIntel": "<color=red>>… <size=200%>Everyone ready?</color></size> ",
+            "RoleplayedWardenIntel": "<color=red><size=200%>>...Everyone ready?</color></size> ",
             "DevInfo": ""
           },
           "Seeds": {
@@ -842,7 +853,7 @@
             "ProgressionVisualStyle": 0,
             "ExpeditionDepth": 1412,
             "EstimatedDuration": 930,
-            "ExpeditionDescription": "Extensive power is needed for a deepest level.\r\nPrisoners deemed expendable.",
+            "ExpeditionDescription": "Extensive power is needed for a deepest level.\r\n<color=red>Prisoners deemed expendable.</color>",
             "RoleplayedWardenIntel": ">..There's no time. Let's spread out.\n<color=red>>...No way</color>",
             "DevInfo": ""
           },
@@ -992,7 +1003,7 @@
             "ExpeditionDepth": 1430,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Reach deepest level and initiate Destruction Protocol.",
-            "RoleplayedWardenIntel": ">Dark to the end of the world.\n<color=red>>We have to keep moving.</color>",
+            "RoleplayedWardenIntel": ">...Dark to the end of the world.\n<color=red>>...We have to keep moving.</color>",
             "DevInfo": ""
           },
           "Seeds": {
@@ -1140,7 +1151,7 @@
             "UseCustomMatchmakingTier": false,
             "CustomMatchmakingTier": 1,
             "ProgressionVisualStyle": 0,
-            "ExpeditionDepth":1999,
+            "ExpeditionDepth":1899,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Prisoners <color=red>::ERR ###\r</color>\n",
             "RoleplayedWardenIntel": "<color=red>N??*.~?޽???...</color>",

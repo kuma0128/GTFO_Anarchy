@@ -1384,10 +1384,10 @@
       "SurvivalWaveSettings": 130,
       "SurvivalWavePopulation": 8,
       "SurvivalWaveAreaDistance": 2,
-      "DisableSurvivalWaveOnComplete": true,
+      "DisableSurvivalWaveOnComplete": false,
       "UseRandomPositions": false,
-      "WantedDistanceFromStartPos": 1.0,
-      "WantedDistanceBetweenPuzzleComponents": 0.5,
+      "WantedDistanceFromStartPos": 15,
+      "WantedDistanceBetweenPuzzleComponents": 15,
       "ChainedPuzzle": [
         {
           "PuzzleType": 32
@@ -1414,6 +1414,65 @@
       "name": "Mixed x6 alarm",
       "internalEnabled": true,
       "persistentID": 150
+    },
+    {
+      "PublicAlarmName": "Class S IV Alarm",
+      "TriggerAlarmOnActivate": true,
+      "SurvivalWaveSettings": 130,
+      "SurvivalWavePopulation": 8,
+      "SurvivalWaveAreaDistance": 2,
+      "DisableSurvivalWaveOnComplete": false,
+      "UseRandomPositions": false,
+      "WantedDistanceFromStartPos": 15,
+      "WantedDistanceBetweenPuzzleComponents": 15,
+      "ChainedPuzzle": [
+        {
+          "PuzzleType": 32
+        },
+        {
+          "PuzzleType": 2
+        },
+        {
+          "PuzzleType": 6
+        },
+        {
+          "PuzzleType": 6
+        },
+        {
+          "PuzzleType": 2
+        },
+        {
+          "PuzzleType": 32
+        }
+      ],
+      "OnlyShowHUDWhenPlayerIsClose": false,
+      "AlarmSoundStart": 3339129407,
+      "AlarmSoundStop": 42633153,
+      "name": "Mixed x6 alarm",
+      "internalEnabled": true,
+      "persistentID": 1515
+    },
+    {
+      "PublicAlarmName": "Class S III Scan",
+      "TriggerAlarmOnActivate": true,
+      "SurvivalWaveSettings": 130,
+      "SurvivalWavePopulation": 8,
+      "SurvivalWaveAreaDistance": 2,
+      "DisableSurvivalWaveOnComplete": false,
+      "UseRandomPositions": false,
+      "WantedDistanceFromStartPos": 5.0,
+      "WantedDistanceBetweenPuzzleComponents": 10,
+      "ChainedPuzzle": [
+        {
+          "PuzzleType": 6
+        }
+      ],
+      "OnlyShowHUDWhenPlayerIsClose": false,
+      "AlarmSoundStart": 3339129407,
+      "AlarmSoundStop": 42633153,
+      "name": "Mixed x6 alarm",
+      "internalEnabled": true,
+      "persistentID": 222
     },
     {
       "PublicAlarmName": "Class III Diminished Alarm",
@@ -1981,8 +2040,8 @@
       "SurvivalWaveAreaDistance": 2,
       "DisableSurvivalWaveOnComplete": true,
       "UseRandomPositions": true,
-      "WantedDistanceFromStartPos": 5.0,
-      "WantedDistanceBetweenPuzzleComponents": 5.0,
+      "WantedDistanceFromStartPos": 7.0,
+      "WantedDistanceBetweenPuzzleComponents": 7.0,
       "ChainedPuzzle": [
         {
           "PuzzleType": 2
@@ -3606,6 +3665,50 @@
       "name": "Single x1 - Error Alarm Trickle 6-30 Shadows",
       "internalEnabled": true,
       "persistentID": 155
+    },
+    {
+      "PublicAlarmName": "Class ://ERROR! Alarm",
+      "TriggerAlarmOnActivate": true,
+      "SurvivalWaveSettings": 184,
+      "SurvivalWavePopulation": 7,
+      "SurvivalWaveAreaDistance": 2,
+      "DisableSurvivalWaveOnComplete": false,
+      "UseRandomPositions": false,
+      "WantedDistanceFromStartPos": 0.0,
+      "WantedDistanceBetweenPuzzleComponents": 1.0,
+      "ChainedPuzzle": [
+        {
+          "PuzzleType": 6
+        }
+      ],
+      "OnlyShowHUDWhenPlayerIsClose": false,
+      "AlarmSoundStart": 2200133294,
+      "AlarmSoundStop": 2200133294,
+      "name": "Single x1 - Error Alarm Trickle 6-30 Shadows",
+      "internalEnabled": true,
+      "persistentID": 1551
+    },
+    {
+      "PublicAlarmName": "Class ://ERROR! Alarm",
+      "TriggerAlarmOnActivate": true,
+      "SurvivalWaveSettings": 0,
+      "SurvivalWavePopulation": 0,
+      "SurvivalWaveAreaDistance": 2,
+      "DisableSurvivalWaveOnComplete": false,
+      "UseRandomPositions": false,
+      "WantedDistanceFromStartPos": 0.0,
+      "WantedDistanceBetweenPuzzleComponents": 1.0,
+      "ChainedPuzzle": [
+        {
+          "PuzzleType": 6
+        }
+      ],
+      "OnlyShowHUDWhenPlayerIsClose": false,
+      "AlarmSoundStart": 2200133294,
+      "AlarmSoundStop": 2200133294,
+      "name": "Single x1 - Error Alarm Trickle 6-30 Shadows",
+      "internalEnabled": true,
+      "persistentID": 1552
     },
     {
       "PublicAlarmName": "Class ://ERROR! Alarm",

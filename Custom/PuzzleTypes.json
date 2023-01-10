@@ -1,9 +1,5 @@
 {
   "Scans": [
-    // Class # Scatter Scan --> lots of scan points
-    // Class # RS Scan --> more players = slower
-    // Class # Idle Scan --> very long reveal time
-    // Class S # Dual Scan
     {
       "Name": "Reversed Scaling Scan",
       "BaseScan": 6,
@@ -174,6 +170,15 @@
       "ClusterCount": 2,
       "BioscanID": 104,
       "DistanceBetweenScans": 15.0,
+      "RevealWithHoloPath": true
+    },
+    {
+      "Name": "S Flower Scan x5",
+      "BaseCluster": 4,
+      "PersistentID": 307,
+      "ClusterCount": 5,
+      "BioscanID": 102,
+      "DistanceBetweenScans": 10.0,
       "RevealWithHoloPath": true
     }
   ]

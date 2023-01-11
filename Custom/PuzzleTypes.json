@@ -22,19 +22,19 @@
     },
     {
       "Name": "Scatter Scan",
-      "BaseScan": 2,
+      "BaseScan": 14,
       "PersistentID": 101,
-      "PlayerRequirement": 0,
-      "ScanRadius": 1.0,
-      "PlayersInScanMulti": [0.8, 0.8, 0.8, 0.8],
-      "ReduceSpeed": 0.0,
-      "ReduceWhenNoPlayer": false,
+      "PlayerRequirement": 1,
+      "ScanRadius": 3.0,
+      "PlayersInScanMulti": [0.05, 0.05, 0.05, 0.05],
+      "ReduceSpeed": 0.01,
+      "ReduceWhenNoPlayer": true,
       "RevealMode": "ScaleByDistance",
       "BioScanGraphics": {
-        "ScanText": "SECURITY SCAN",
-        "Radius": 1.0,
+        "ScanText": "SECURITY SCAN - FULL TEAM",
+        "Radius": 3.0,
         "colorModeColor": [
-          { "mode": 1, "r": 1.0, "g": 0.3, "b": 0.7, "a": 0.6 },
+          { "mode": 1, "r": 67.0, "g": 31, "b": 153, "a": 0.6 },
           { "mode": 2, "r": 0.8, "g": 0.25, "b": 0.7, "a": 0.6 },
           { "mode": 4, "r": 1.0, "g": 0.3, "b": 0.7, "a": 0.6 },
           { "mode": 5, "r": 0.8, "g": 0.25, "b": 0.7, "a": 0.6 }
@@ -109,9 +109,9 @@
       "Name": "Scatter Scan x20",
       "BaseCluster": 15,
       "PersistentID": 300,
-      "ClusterCount": 20,
+      "ClusterCount": 6,
       "BioscanID": 101,
-      "DistanceBetweenScans": 10.0,
+      "DistanceBetweenScans": 25.0,
       "RevealWithHoloPath": true
     },
     {
@@ -158,7 +158,7 @@
       "Name": "Dual Scan x2",
       "BaseCluster": 4,
       "PersistentID": 305,
-      "ClusterCount": 2,
+      "ClusterCount": 5,
       "BioscanID": 103,
       "DistanceBetweenScans": 15.0,
       "RevealWithHoloPath": true
@@ -169,7 +169,7 @@
       "PersistentID": 306,
       "ClusterCount": 2,
       "BioscanID": 104,
-      "DistanceBetweenScans": 15.0,
+      "DistanceBetweenScans": 25.0,
       "RevealWithHoloPath": true
     },
     {

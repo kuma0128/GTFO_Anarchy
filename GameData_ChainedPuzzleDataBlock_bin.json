@@ -1416,15 +1416,15 @@
       "persistentID": 150
     },
     {
-      "PublicAlarmName": "Class S IV Alarm",
+      "PublicAlarmName": "Class S IV Surge Alarm",
       "TriggerAlarmOnActivate": true,
       "SurvivalWaveSettings": 130,
       "SurvivalWavePopulation": 8,
       "SurvivalWaveAreaDistance": 2,
       "DisableSurvivalWaveOnComplete": false,
       "UseRandomPositions": false,
-      "WantedDistanceFromStartPos": 15,
-      "WantedDistanceBetweenPuzzleComponents": 15,
+      "WantedDistanceFromStartPos": 25.0,
+      "WantedDistanceBetweenPuzzleComponents": 25.0,
       "ChainedPuzzle": [
         {
           "PuzzleType": 32
@@ -1453,18 +1453,24 @@
       "persistentID": 1515
     },
     {
-      "PublicAlarmName": "Class S III Scan",
+      "PublicAlarmName": "Class S III Alarm ",
       "TriggerAlarmOnActivate": true,
-      "SurvivalWaveSettings": 130,
-      "SurvivalWavePopulation": 8,
+      "SurvivalWaveSettings": 1301,
+      "SurvivalWavePopulation": 391,
       "SurvivalWaveAreaDistance": 2,
       "DisableSurvivalWaveOnComplete": false,
       "UseRandomPositions": false,
-      "WantedDistanceFromStartPos": 5.0,
-      "WantedDistanceBetweenPuzzleComponents": 10,
+      "WantedDistanceFromStartPos": 20.0,
+      "WantedDistanceBetweenPuzzleComponents": 25.0,
       "ChainedPuzzle": [
         {
-          "PuzzleType": 6
+          "PuzzleType": 14
+        },
+        {
+          "PuzzleType": 14
+        },
+        {
+          "PuzzleType": 300
         }
       ],
       "OnlyShowHUDWhenPlayerIsClose": false,
@@ -3687,6 +3693,28 @@
       "name": "Single x1 - Error Alarm Trickle 6-30 Shadows",
       "internalEnabled": true,
       "persistentID": 1551
+    },
+    {
+      "PublicAlarmName": "Class ://ERROR! Alarm",
+      "TriggerAlarmOnActivate": true,
+      "SurvivalWaveSettings": 0,
+      "SurvivalWavePopulation": 0,
+      "SurvivalWaveAreaDistance": 2,
+      "DisableSurvivalWaveOnComplete": false,
+      "UseRandomPositions": false,
+      "WantedDistanceFromStartPos": 0.0,
+      "WantedDistanceBetweenPuzzleComponents": 1.0,
+      "ChainedPuzzle": [
+        {
+          "PuzzleType": 2
+        }
+      ],
+      "OnlyShowHUDWhenPlayerIsClose": false,
+      "AlarmSoundStart": 2200133294,
+      "AlarmSoundStop": 2200133294,
+      "name": "Single x1 - Error Alarm no wave",
+      "internalEnabled": true,
+      "persistentID": 1552
     },
     {
       "PublicAlarmName": "Class ://ERROR! Alarm",

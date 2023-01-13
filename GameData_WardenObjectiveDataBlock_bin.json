@@ -3952,53 +3952,19 @@
         }
       ],
       "StopAllWavesBeforeGotoWin": false,
-      "WavesOnGotoWin": [],
-      "WaveOnGotoWinTrigger": 0,
-      "EventsOnGotoWin": [
+      "WavesOnGotoWin": [
         {
-          "Type": 3,
-          "Condition": {
-            "ConditionIndex": -1,
-            "IsTrue": false
-          },
-          "Trigger": 2,
-          "ChainPuzzle": 0,
-          "UseStaticBioscanPoints": false,
-          "Layer": 1,
-          "DimensionIndex": 0,
-          "LocalIndex": 0,
-          "Delay": 5.0,
-          "Duration": 0.0,
-          "ClearDimension": false,
-          "WardenIntel": 0,
-          "CustomSubObjectiveHeader": 0,
-          "CustomSubObjective": 0,
-          "SoundID": 0,
-          "SoundSubtitle": 0,
-          "DialogueID": 0,
-          "FogSetting": 0,
-          "FogTransitionDuration": 0.0,
-          "EnemyWaveData": {
-            "WaveSettings": 0,
-            "WavePopulation": 0,
-            "AreaDistance": 2,
-            "SpawnDelay": 0.0,
-            "TriggerAlarm": false,
-            "IntelMessage": 0
-          },
-          "EnemyID": 0,
-          "Position": {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0,
-            "magnitude": 0.0,
-            "sqrMagnitude": 0.0
-          },
-          "Count": 0,
-          "Enabled": false,
-          "TerminalCommand": 0,
-          "TerminalCommandRule": 0
+          "WaveSettings": 462,
+          "WavePopulation": 13,
+          "AreaDistance": 1,
+          "SpawnDelay": 0.0,
+          "TriggerAlarm": true,
+          "IntelMessage": 0
         }
+      ],
+      "WaveOnGotoWinTrigger": 1,
+      "EventsOnGotoWin": [
+        
       ],
       "EventsOnGotoWinTrigger": 0,
       "FogTransitionDataOnGotoWin": 0,
@@ -4042,7 +4008,7 @@
             "ConditionIndex": -1,
             "IsTrue": false
           },
-          "Trigger": 3,
+          "Trigger": 1,
           "ChainPuzzle": 0,
           "UseStaticBioscanPoints": false,
           "Layer": 0,
@@ -4086,7 +4052,7 @@
             "ConditionIndex": -1,
             "IsTrue": false
           },
-          "Trigger": 0,
+          "Trigger": 1,
           "ChainPuzzle": 0,
           "UseStaticBioscanPoints": false,
           "Layer": 0,
@@ -5031,7 +4997,7 @@
           "DimensionIndex": 0,
           "LocalIndex": 0,
           "Delay": 0.0,
-          "Duration": 5.0,
+          "Duration": 0.0,
           "ClearDimension": false,
           "WardenIntel": 0,
           "CustomSubObjectiveHeader": 0,
@@ -36262,17 +36228,17 @@
       "persistentID": 115
     },
     {
-      "Type": 5,
-      "Header": "Terminal Command",
-      "MainObjective": 3603187143,
-      "WardenObjectiveSpecialUpdateType": 1,
+      "Type": 13,
+      "Header": "Terminal Uplink",
+      "MainObjective": "Find the <u>Uplink Terminals</u> [ALL_ITEMS] and establish an external uplink from each terminal",
+      "WardenObjectiveSpecialUpdateType": 0,
       "GenericItemFromStart": 0,
       "DoNotMarkPickupItemsAsWardenObjectives": false,
       "FindLocationInfo": 2358879390,
       "FindLocationInfoHelp": 0,
-      "GoToZone": 2358879390,
+      "GoToZone": "Navigate to [ITEM_ZONE] and find [ALL_ITEMS]",
       "GoToZoneHelp": 0,
-      "InZoneFindItem": 2358879390,
+      "InZoneFindItem": 0,
       "InZoneFindItemHelp": 0,
       "SolveItem": 0,
       "SolveItemHelp": 0,
@@ -36288,8 +36254,17 @@
       "WaveOnElevatorWardenIntel": 0,
       "FogTransitionDataOnElevatorLand": 0,
       "FogTransitionDurationOnElevatorLand": 0.0,
-      "OnActivateOnSolveItem": false,
-      "WavesOnActivate": [],
+      "OnActivateOnSolveItem": true,
+      "WavesOnActivate": [
+        {
+          "WaveSettings": 1301,
+          "WavePopulation": 391,
+          "AreaDistance": 2,
+          "SpawnDelay": 0.0,
+          "TriggerAlarm": true,
+          "IntelMessage": 0
+        }
+      ],
       "EventsOnActivate": [],
       "StopAllWavesBeforeGotoWin": false,
       "WavesOnGotoWin": [],
@@ -36304,13 +36279,13 @@
           "Trigger": 0,
           "ChainPuzzle": 0,
           "UseStaticBioscanPoints": false,
-          "Layer": 1,
+          "Layer": 0,
           "DimensionIndex": 0,
-          "LocalIndex": 0,
-          "Delay": 0.0,
+          "LocalIndex": 8,
+          "Delay": 10.0,
           "Duration": 0.0,
           "ClearDimension": false,
-          "WardenIntel": 0,
+          "WardenIntel": "LOCKDOWN DISENGAGED - Bulkhead door to [ZONE_8] unlocked.",
           "CustomSubObjectiveHeader": 0,
           "CustomSubObjective": 0,
           "SoundID": 0,
@@ -36357,16 +36332,14 @@
       "LightsOnDuringIntro": false,
       "LightsOnWhenStartupComplete": false,
       "DoNotSolveObjectiveOnReactorComplete": false,
-      "SpecialTerminalCommand": "GENOME_DB_DOWNLOAD",
-      "SpecialTerminalCommandDesc": "Download Genome Database Local Extension",
-      "PostCommandOutput": [
-        "GENOME EXTENSION DOWNLOAD COMPLETE"
-      ],
+      "SpecialTerminalCommand": "",
+      "SpecialTerminalCommandDesc": "",
+      "PostCommandOutput": [],
       "SpecialCommandRule": 0,
       "PowerCellsToDistribute": 0,
-      "Uplink_NumberOfVerificationRounds": 3,
+      "Uplink_NumberOfVerificationRounds": 1,
       "Uplink_NumberOfTerminals": 2,
-      "Uplink_WaveSpawnType": 1,
+      "Uplink_WaveSpawnType": 0,
       "CentralPowerGenClustser_NumberOfGenerators": 0,
       "CentralPowerGenClustser_NumberOfPowerCells": 0,
       "CentralPowerGenClustser_FogDataSteps": [],
@@ -49270,8 +49243,8 @@
       "OnActivateOnSolveItem": false,
       "WavesOnActivate": [
         {
-          "WaveSettings": 44,
-          "WavePopulation": 14,
+          "WaveSettings": 1301,
+          "WavePopulation": 391,
           "AreaDistance": 2,
           "SpawnDelay": 0.0,
           "TriggerAlarm": true,
@@ -49281,14 +49254,6 @@
       "EventsOnActivate": [],
       "StopAllWavesBeforeGotoWin": false,
       "WavesOnGotoWin": [
-        {
-          "WaveSettings": 15,
-          "WavePopulation": 14,
-          "AreaDistance": 2,
-          "SpawnDelay": 87.0,
-          "TriggerAlarm": true,
-          "IntelMessage": 0
-        }
       ],
       "WaveOnGotoWinTrigger": 0,
       "EventsOnGotoWin": [

@@ -547,11 +547,11 @@
       "persistentID": 39
     },
     {
-      "WaveRoleWeakling": 13,
-      "WaveRoleStandard": 13,
-      "WaveRoleSpecial": 11,
+      "WaveRoleWeakling": 46,
+      "WaveRoleStandard": 46,
+      "WaveRoleSpecial": 46,
       "WaveRoleMiniBoss": 46,
-      "WaveRoleBoss": 16,
+      "WaveRoleBoss": 46,
       "name": "Wave_Pouncer",
       "internalEnabled": true,
       "persistentID": 391

@@ -1416,14 +1416,14 @@
       "persistentID": 150
     },
     {
-      "PublicAlarmName": "Class S IV Surge Alarm",
+      "PublicAlarmName": "Class VI Alarm",
       "TriggerAlarmOnActivate": true,
       "SurvivalWaveSettings": 130,
       "SurvivalWavePopulation": 8,
       "SurvivalWaveAreaDistance": 2,
       "DisableSurvivalWaveOnComplete": false,
       "UseRandomPositions": false,
-      "WantedDistanceFromStartPos": 25.0,
+      "WantedDistanceFromStartPos": 20.0,
       "WantedDistanceBetweenPuzzleComponents": 25.0,
       "ChainedPuzzle": [
         {
@@ -1455,7 +1455,7 @@
     {
       "PublicAlarmName": "Class S III Alarm ",
       "TriggerAlarmOnActivate": true,
-      "SurvivalWaveSettings": 1301,
+      "SurvivalWaveSettings": 54,
       "SurvivalWavePopulation": 391,
       "SurvivalWaveAreaDistance": 2,
       "DisableSurvivalWaveOnComplete": false,
@@ -1476,7 +1476,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 3339129407,
       "AlarmSoundStop": 42633153,
-      "name": "Mixed x6 alarm",
+      "name": "Mixed x3 alarm",
       "internalEnabled": true,
       "persistentID": 222
     },
@@ -4054,6 +4054,43 @@
       "name": "Single Sustained Defend Far x1 - Alarm Diminished",
       "internalEnabled": true,
       "persistentID": 121
+    },
+    {
+      "PublicAlarmName": "Class S VI Alarm ",
+      "TriggerAlarmOnActivate": true,
+      "SurvivalWaveSettings": 501,
+      "SurvivalWavePopulation": 31,
+      "SurvivalWaveAreaDistance": 2,
+      "DisableSurvivalWaveOnComplete": true,
+      "UseRandomPositions": true,
+      "WantedDistanceFromStartPos": 30.0,
+      "WantedDistanceBetweenPuzzleComponents": 20.0,
+      "ChainedPuzzle": [
+        {
+          "PuzzleType": 32
+        },
+        {
+          "PuzzleType": 14
+        },
+        {
+          "PuzzleType": 14
+        },
+        {
+          "PuzzleType": 14
+        },
+        {
+          "PuzzleType": 14
+        },
+        {
+          "PuzzleType": 32
+        }
+      ],
+      "OnlyShowHUDWhenPlayerIsClose": false,
+      "AlarmSoundStart": 3339129407,
+      "AlarmSoundStop": 42633153,
+      "name": "Single Sustained Defend Far x1 - Alarm Diminished",
+      "internalEnabled": true,
+      "persistentID": 1211
     },
     {
       "PublicAlarmName": "Class S I Alarm ",

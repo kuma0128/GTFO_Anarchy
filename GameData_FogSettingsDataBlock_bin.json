@@ -63,7 +63,7 @@
       "DensityHeightAltitude": -5.82,
       "DensityHeightRange": 2.51,
       "DensityHeightMaxBoost": 0.002,
-      "Infection": 0.02,
+      "Infection": 0.005,
       "name": "Fog_Mainframe_R7d2",
       "internalEnabled": true,
       "persistentID": 123
@@ -148,6 +148,33 @@
       "name": "desert_fog_sand",
       "internalEnabled": true,
       "persistentID": 92
+    },
+    {
+      "Enabled": true,
+      "FogColor": {
+        "a": 0.0,
+        "r": 0.735849,
+        "g": 0.583935559,
+        "b": 0.385279447
+      },
+      "FogDensity": 0.0001,
+      "FogAmbience": 0.0,
+      "DensityNoiseDirection": {
+        "x": -1.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "DensityNoiseSpeed": 0.6,
+      "DensityNoiseScale": 0.017,
+      "DensityHeightAltitude": 2.0,
+      "DensityHeightRange": 6.0,
+      "DensityHeightMaxBoost": 0.007,
+      "Infection": 0.003,
+      "name": "desert_fog_sand",
+      "internalEnabled": true,
+      "persistentID": 921
     },
     {
       "Enabled": true,

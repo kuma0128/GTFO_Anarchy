@@ -449,7 +449,7 @@
           "PutIconAboveTier": false,
           "DisablePlayerVoicelines": false,
           "ExcludeFromProgression": false,
-          "Accessibility": 5,
+          "Accessibility": 0,
           "UnlockedByExpedition": {
             "Tier": 1,
             "Exp": 0
@@ -510,16 +510,6 @@
               8
             ],
             "BulkheadDoorControllerPlacements": [
-              {
-                "ZoneIndex": 0,
-                "PlacementWeights": {
-                  "Start": 0.0,
-                  "Middle": 0.0,
-                  "End": 0.0
-                },
-                "AreaSeedOffset": 0,
-                "MarkerSeedOffset": 0
-              },
               {
                 "ZoneIndex": 0,
                 "PlacementWeights": {
@@ -602,17 +592,6 @@
             "BulkheadDoorControllerPlacements": [
             ],
             "BulkheadKeyPlacements": [
-              [
-                {
-                  "DimensionIndex": 0,
-                  "LocalIndex": 2,
-                  "Weights": {
-                    "Start": 0.0,
-                    "Middle": 0.0,
-                    "End": 1000.0
-                  }
-                }
-              ]
             ],
             "ObjectiveData": {
               "DataBlockId": 145,
@@ -623,17 +602,19 @@
                     "DimensionIndex": 0,
                     "LocalIndex": 0,
                     "Weights": {
-                      "Start": 0.0,
-                      "Middle": 0.0,
+                      "Start": 100.0,
+                      "Middle": 100.0,
                       "End": 0.0
                     }
-                  },
+                  }
+                ],
+                [
                   {
                     "DimensionIndex": 0,
                     "LocalIndex": 0,
                     "Weights": {
                       "Start": 0.0,
-                      "Middle": 0.0,
+                      "Middle": 100.0,
                       "End": 0.0
                     }
                   }
@@ -1002,8 +983,8 @@
             "ProgressionVisualStyle": 0,
             "ExpeditionDepth": 1430,
             "EstimatedDuration": 930,
-            "ExpeditionDescription": "Reach deepest level and initiate Destruction Protocol.",
-            "RoleplayedWardenIntel": ">...Dark to the end of the world.\n<color=red>>...We have to keep moving.</color>",
+            "ExpeditionDescription": "Reach the deepest level and initiate Destruction Protocol.",
+            "RoleplayedWardenIntel": "> The toxic gas fucked them all up.\n<color=red>>...We have to keep moving.</color>",
             "DevInfo": ""
           },
           "Seeds": {

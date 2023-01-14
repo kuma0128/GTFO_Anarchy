@@ -2365,7 +2365,7 @@
     },
     {
       "m_pauseBeforeStart": 3.0,
-      "m_pauseBetweenGroups": 90.0,
+      "m_pauseBetweenGroups": 60.0,
       "m_wavePauseMin_atCost": 1.0,
       "m_wavePauseMax_atCost": 10.0,
       "m_wavePauseMin": 1.0,
@@ -3073,8 +3073,8 @@
       "persistentID": 50
     },
     {
-      "m_pauseBeforeStart": 10.0,
-      "m_pauseBetweenGroups": 120.0,
+      "m_pauseBeforeStart": 0.0,
+      "m_pauseBetweenGroups": 30.0,
       "m_wavePauseMin_atCost": 1.0,
       "m_wavePauseMax_atCost": 20.0,
       "m_wavePauseMin": 1.0,
@@ -3096,7 +3096,59 @@
       "m_populationRampOverTime": 0.0,
       "name": "Late Trickle 1-60 B",
       "internalEnabled": true,
-      "persistentID": 501
+      "persistentID": 252
+    },
+    {
+      "m_pauseBeforeStart": 0.0,
+      "m_pauseBetweenGroups": 45.0,
+      "m_wavePauseMin_atCost": 1.0,
+      "m_wavePauseMax_atCost": 20.0,
+      "m_wavePauseMin": 1.0,
+      "m_wavePauseMax": 20.0,
+      "m_populationFilter": [
+        4
+      ],
+      "m_filterType": 0,
+      "m_chanceToRandomizeSpawnDirectionPerWave": 1.0,
+      "m_chanceToRandomizeSpawnDirectionPerGroup": 0.1,
+      "m_overrideWaveSpawnType": false,
+      "m_survivalWaveSpawnType": 0,
+      "m_populationPointsTotal": -1.0,
+      "m_populationPointsPerWaveStart": 1.0,
+      "m_populationPointsPerWaveEnd": 1.0,
+      "m_populationPointsMinPerGroup": 1.0,
+      "m_populationPointsPerGroupStart": 1.0,
+      "m_populationPointsPerGroupEnd": 1.0,
+      "m_populationRampOverTime": 0.0,
+      "name": "Late Trickle 1-60 B",
+      "internalEnabled": true,
+      "persistentID": 253
+    },
+    {
+      "m_pauseBeforeStart": 0.0,
+      "m_pauseBetweenGroups": 95.0,
+      "m_wavePauseMin_atCost": 1.0,
+      "m_wavePauseMax_atCost": 20.0,
+      "m_wavePauseMin": 1.0,
+      "m_wavePauseMax": 20.0,
+      "m_populationFilter": [
+        4
+      ],
+      "m_filterType": 0,
+      "m_chanceToRandomizeSpawnDirectionPerWave": 1.0,
+      "m_chanceToRandomizeSpawnDirectionPerGroup": 0.1,
+      "m_overrideWaveSpawnType": false,
+      "m_survivalWaveSpawnType": 0,
+      "m_populationPointsTotal": -1.0,
+      "m_populationPointsPerWaveStart": 1.0,
+      "m_populationPointsPerWaveEnd": 1.0,
+      "m_populationPointsMinPerGroup": 1.0,
+      "m_populationPointsPerGroupStart": 1.0,
+      "m_populationPointsPerGroupEnd": 1.0,
+      "m_populationRampOverTime": 0.0,
+      "name": "Late Trickle 1-60 B",
+      "internalEnabled": true,
+      "persistentID": 254
     },
     {
       "m_pauseBeforeStart": 120.0,

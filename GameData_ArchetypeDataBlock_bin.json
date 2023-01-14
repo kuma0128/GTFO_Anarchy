@@ -388,8 +388,8 @@
         "magnitude": 5.83095169,
         "sqrMagnitude": 34.0
       },
-      "PiercingBullets": false,
-      "PiercingDamageCountLimit": 5,
+      "PiercingBullets": true,
+      "PiercingDamageCountLimit": 2,
       "HipFireSpread": 2.0,
       "AimSpread": 0.0,
       "EquipTransitionTime": 0.45,
@@ -1700,7 +1700,7 @@
       "FireMode": 2,
       "RecoilDataID": 25,
       "DamageBoosterEffect": 62,
-      "Damage": 39.1,
+      "Damage": 3.91,
       "DamageFalloff": {
         "x": 15.0,
         "y": 80.0,
@@ -1796,7 +1796,7 @@
       "FireMode": 2,
       "RecoilDataID": 34,
       "DamageBoosterEffect": 62,
-      "Damage": 35.1,
+      "Damage": 3.51,
       "DamageFalloff": {
         "x": 15.0,
         "y": 80.0,

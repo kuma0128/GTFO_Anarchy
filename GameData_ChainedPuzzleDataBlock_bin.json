@@ -1455,7 +1455,7 @@
     {
       "PublicAlarmName": "Class S III Alarm ",
       "TriggerAlarmOnActivate": true,
-      "SurvivalWaveSettings": 54,
+      "SurvivalWaveSettings": 253,
       "SurvivalWavePopulation": 391,
       "SurvivalWaveAreaDistance": 2,
       "DisableSurvivalWaveOnComplete": false,
@@ -4058,7 +4058,7 @@
     {
       "PublicAlarmName": "Class S VI Alarm ",
       "TriggerAlarmOnActivate": true,
-      "SurvivalWaveSettings": 50,
+      "SurvivalWaveSettings": 254,
       "SurvivalWavePopulation": 31,
       "SurvivalWaveAreaDistance": 2,
       "DisableSurvivalWaveOnComplete": true,
@@ -4067,7 +4067,7 @@
       "WantedDistanceBetweenPuzzleComponents": 20.0,
       "ChainedPuzzle": [
         {
-          "PuzzleType": 32
+          "PuzzleType": 14
         },
         {
           "PuzzleType": 14

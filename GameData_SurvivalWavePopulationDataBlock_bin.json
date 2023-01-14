@@ -177,11 +177,11 @@
       "persistentID": 42
     },
     {
-      "WaveRoleWeakling": 11,
-      "WaveRoleStandard": 13,
-      "WaveRoleSpecial": 16,
+      "WaveRoleWeakling": 33,
+      "WaveRoleStandard": 33,
+      "WaveRoleSpecial": 33,
       "WaveRoleMiniBoss": 33,
-      "WaveRoleBoss": 39,
+      "WaveRoleBoss": 33,
       "name": "Modified Sp-Hybrid",
       "internalEnabled": true,
       "persistentID": 9

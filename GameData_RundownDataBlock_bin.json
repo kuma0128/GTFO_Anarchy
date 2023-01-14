@@ -602,19 +602,8 @@
                     "DimensionIndex": 0,
                     "LocalIndex": 0,
                     "Weights": {
-                      "Start": 100.0,
-                      "Middle": 100.0,
-                      "End": 0.0
-                    }
-                  }
-                ],
-                [
-                  {
-                    "DimensionIndex": 0,
-                    "LocalIndex": 0,
-                    "Weights": {
                       "Start": 0.0,
-                      "Middle": 100.0,
+                      "Middle": 0.0,
                       "End": 0.0
                     }
                   }

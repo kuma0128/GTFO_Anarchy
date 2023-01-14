@@ -4582,8 +4582,8 @@
         "magnitude": 5.83095169,
         "sqrMagnitude": 34.0
       },
-      "PiercingBullets": false,
-      "PiercingDamageCountLimit": 5,
+      "PiercingBullets": true,
+      "PiercingDamageCountLimit": 2,
       "HipFireSpread": 1.0,
       "AimSpread": 0.0,
       "EquipTransitionTime": 0.3,
@@ -5148,8 +5148,8 @@
         "magnitude": 5.83095169,
         "sqrMagnitude": 34.0
       },
-      "PiercingBullets": false,
-      "PiercingDamageCountLimit": 5,
+      "PiercingBullets": true,
+      "PiercingDamageCountLimit": 2,
       "HipFireSpread": 6.0,
       "AimSpread": 0.0,
       "EquipTransitionTime": 0.4,

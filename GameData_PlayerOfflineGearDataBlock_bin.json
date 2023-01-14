@@ -117,7 +117,7 @@
       "Type": 1,
       "GearJSON": "{\"Ver\":1,\"Name\":\"Malatack LX\",\"Packet\":{\"Comps\":{\"Length\":18,\"a\":{\"c\":1,\"v\":2},\"b\":{\"c\":2,\"v\":1},\"c\":{\"c\":3,\"v\":108},\"d\":{\"c\":4,\"v\":1},\"e\":{\"c\":5,\"v\":3},\"f\":{\"c\":6,\"v\":3},\"g\":{\"c\":7,\"v\":3},\"h\":{\"c\":8,\"v\":17},\"i\":{\"c\":9,\"v\":6},\"j\":{\"c\":10,\"v\":12},\"k\":{\"c\":11,\"v\":12},\"l\":{\"c\":12,\"v\":28},\"m\":{\"c\":16,\"v\":9},\"n\":{\"c\":19,\"v\":7},\"o\":{\"c\":21,\"v\":20},\"p\":{\"c\":23,\"v\":4},\"q\":{\"c\":25,\"v\":3}},\"MatTrans\":{\"tDecalA\":{\"position\":{\"x\":0.045,\"y\":0.025,\"normalized\":{\"x\":0.8741573,\"y\":0.48564294,\"magnitude\":1.0,\"sqrMagnitude\":1.00000012},\"magnitude\":0.05147815,\"sqrMagnitude\":0.00265000015},\"angle\":90.0,\"scale\":0.1},\"tDecalB\":{\"position\":{\"x\":0.05,\"y\":0.03,\"normalized\":{\"x\":0.857493,\"y\":0.51449573,\"magnitude\":1.0,\"sqrMagnitude\":1.00000012},\"magnitude\":0.0583095178,\"sqrMagnitude\":0.0034},\"angle\":90.0,\"scale\":0.1},\"tPattern\":{\"position\":{\"x\":0.05,\"y\":0.03,\"normalized\":{\"x\":0.857493,\"y\":0.51449573,\"magnitude\":1.0,\"sqrMagnitude\":1.00000012},\"magnitude\":0.0583095178,\"sqrMagnitude\":0.0034},\"angle\":-90.0,\"scale\":0.1}},\"publicName\":{\"data\":\"Malatack LX\"}}}",
       "name": "RifleAuto",
-      "internalEnabled": false,
+      "internalEnabled": true,
       "persistentID": 12
     },
     {
@@ -131,7 +131,7 @@
       "Type": 2,
       "GearJSON": "{\"Ver\":1,\"Name\":\"Malatack CH 4\",\"Packet\":{\"Comps\":{\"Length\":18,\"a\":{\"c\":1,\"v\":1},\"b\":{\"c\":2,\"v\":1},\"c\":{\"c\":3,\"v\":108},\"d\":{\"c\":4,\"v\":1},\"e\":{\"c\":5,\"v\":3},\"f\":{\"c\":6,\"v\":3},\"g\":{\"c\":7,\"v\":3},\"h\":{\"c\":8,\"v\":17},\"i\":{\"c\":9,\"v\":1},\"j\":{\"c\":10,\"v\":14},\"k\":{\"c\":11,\"v\":23},\"l\":{\"c\":12,\"v\":17},\"m\":{\"c\":16,\"v\":9},\"n\":{\"c\":19,\"v\":8},\"o\":{\"c\":21,\"v\":21},\"p\":{\"c\":23,\"v\":4},\"q\":{\"c\":25,\"v\":4}},\"MatTrans\":{\"tDecalA\":{\"position\":{\"x\":0.225,\"y\":0.003,\"normalized\":{\"x\":0.9999111,\"y\":0.013332149,\"magnitude\":1.0,\"sqrMagnitude\":1.0},\"magnitude\":0.225019991,\"sqrMagnitude\":0.0506339967},\"angle\":-90.0,\"scale\":0.05},\"tDecalB\":{\"position\":{\"x\":0.03,\"y\":-0.012,\"normalized\":{\"x\":0.9284767,\"y\":-0.371390671,\"magnitude\":1.0,\"sqrMagnitude\":1.0},\"magnitude\":0.03231099,\"sqrMagnitude\":0.00104399992},\"scale\":0.06},\"tPattern\":{\"position\":{\"x\":0.07,\"normalized\":{\"x\":1.0,\"magnitude\":1.0,\"sqrMagnitude\":1.0},\"magnitude\":0.07,\"sqrMagnitude\":0.0049},\"angle\":180.0,\"scale\":0.3}},\"publicName\":{\"data\":\"Malatack CH 4\"}}}",
       "name": "RifleBurst",
-      "internalEnabled": true,
+      "internalEnabled": false,
       "persistentID": 30
     },
     {

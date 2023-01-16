@@ -30,7 +30,7 @@
         "AllClearedSectors": 0
       },
       "StorytellingData": {
-        "Title": "Rundown - Anarchy - 0.3.0",
+        "Title": "Rundown - Anarchy - 0.3.3",
         "TextLog": 0,
         "TextLogPos": {
           "x": 0.0,
@@ -555,8 +555,7 @@
             "ArtifactData": {
               "ArtifactAmountMulti": 0.0,
               "ArtifactLayerDistributionDataID": 0,
-              "ArtifactZoneDistributions": [
-              ]
+              "ArtifactZoneDistributions": []
             }
           },
           "SecondaryLayerEnabled": false,

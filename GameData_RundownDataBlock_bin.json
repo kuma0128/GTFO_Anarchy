@@ -697,32 +697,41 @@
             ]
           },
           "UseGearPicker": false,
-          "LevelLayoutData": 319370690,
+          "LevelLayoutData": 167,
           "MainLayerData": {
             "ZonesWithBulkheadEntrance": [],
             "BulkheadDoorControllerPlacements": [],
             "BulkheadKeyPlacements": [],
             "ObjectiveData": {
-              "DataBlockId": 192,
+              "DataBlockId": 136,
               "WinCondition": 0,
               "ZonePlacementDatas": [
                 [
                   {
                     "DimensionIndex": 0,
-                    "LocalIndex": 4,
+                    "LocalIndex": 3,
                     "Weights": {
                       "Start": 0.0,
                       "Middle": 0.0,
-                      "End": 10000.0
+                      "End": 1000.0
                     }
                   },
                   {
                     "DimensionIndex": 0,
-                    "LocalIndex": 5,
+                    "LocalIndex": 6,
                     "Weights": {
                       "Start": 0.0,
+                      "Middle": 1000.0,
+                      "End": 0.0
+                    }
+                  },
+                  {
+                    "DimensionIndex": 0,
+                    "LocalIndex": 8,
+                    "Weights": {
+                      "Start": 1000.0,
                       "Middle": 0.0,
-                      "End": 10000.0
+                      "End": 0.0
                     }
                   }
                 ]

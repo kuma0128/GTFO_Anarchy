@@ -471,7 +471,7 @@
             "ExpeditionDepth": 944,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Allocate a Data Sphere to prisoner groups to salvage nFrame data.\n<color=red>Multiple error alarms have been identified.</color>",
-            "RoleplayedWardenIntel": ">.. Fire at will! \r\n<color=red>>...No time to die!</color>",
+            "RoleplayedWardenIntel": ">.. Fire at will! \r\n<color=red>>.. No time to die!</color>",
             "DevInfo": ""
           },
           "Seeds": {
@@ -642,7 +642,7 @@
           "PutIconAboveTier": false,
           "DisablePlayerVoicelines": false,
           "ExcludeFromProgression": false,
-          "Accessibility": 1,
+          "Accessibility": 0,
           "UnlockedByExpedition": {
             "Tier":2,
             "Exp": 0
@@ -718,7 +718,7 @@
                   },
                   {
                     "DimensionIndex": 0,
-                    "LocalIndex": 6,
+                    "LocalIndex": 7,
                     "Weights": {
                       "Start": 0.0,
                       "Middle": 1000.0,
@@ -788,7 +788,13 @@
               "ArtifactZoneDistributions": []
             }
           },
-          "DimensionDatas": [],
+          "DimensionDatas": [
+            {
+              "DimensionIndex": 1,
+              "DimensionData": 16,
+              "Enabled": true
+            }
+          ],
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,

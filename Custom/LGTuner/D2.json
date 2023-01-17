@@ -1,0 +1,44 @@
+{
+    "LevelLayoutID": 167,
+    "ExtraComplexResourceToLoad": [
+      "Service"
+    ],
+    "ZoneOverrides": [
+      {
+        "LocalIndex": 9,
+        "OverrideGeomorphs": true,
+        "Geomorphs": [
+            {
+                "Geomorph": "Assets/MrBroFloodwaysExpansion/mrbrofloodwayscircle.prefab",
+                "Direction": "Right"
+            }
+        ],
+        "OverridePlugs": false,
+        "Plugs": [
+          "Assets/AssetPrefabs/Complex/Generic/Plugs/env_plug_8mheight_elev6m_03_with_gate.prefab",
+          "Assets/AssetPrefabs/Complex/Generic/Plugs/env_plug_8mheight_elev6m_03_with_gate.prefab"
+        ],
+        "OverrideAltitudes": false,
+        "Altitudes": [
+          2
+        ],
+        "OverridePlugWithNoGateChance": true, 
+        "PlugWithNoGatechance": 1.0
+      }
+    ],
+  "TileOverrides": [
+    {
+        "X": 0, 
+        "Rotation": "None",
+        "Geomorph": "Assets/MrBroFloodwaysExpansion/mrbrofloodwayscircle.prefab",
+        "OverrideAltitude": false,
+        "Altitude": 0,
+        "ForwardPlug": "",
+        "BackwardPlug": "",
+        "LeftPlug": "",
+        "RightPlug": "",
+        "OverridePlugWithNoGateChance": false,
+        "PlugWithNoGateChance": 0.5
+    }  
+  ]
+}

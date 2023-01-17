@@ -7832,7 +7832,6 @@
         "LevelProgression": 0
       },
       "GeomorphTiles_1x1": [
-        
         {
           "Prefab": "Assets/AssetPrefabs/Complex/Service/Geomorphs/Maintenance/geo_64x64_service_floodways_HA_01.prefab",
           "SubComplex": 6,
@@ -8149,10 +8148,6 @@
         }
       ],
       "CustomGeomorphs_Objective_1x1": [
-        {
-          "Prefab": "Assets/MrBroFloodwaysExpansion/mrbrofloodwayscircle_lever.prefab",
-          "SubComplex": 6
-        },
         {
           "Prefab": "Assets/Custom Geo's/Floodways_I_tile_bridge/Floodways_I_tile_Bridge.prefab",
           "SubComplex": 5,

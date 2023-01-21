@@ -30,7 +30,7 @@
         "AllClearedSectors": 0
       },
       "StorytellingData": {
-        "Title": "Rundown - Anarchy - 0.3.5",
+        "Title": "Rundown - Anarchy - 0.3.7",
         "TextLog": 0,
         "TextLogPos": {
           "x": 0.0,
@@ -642,7 +642,7 @@
           "PutIconAboveTier": false,
           "DisablePlayerVoicelines": false,
           "ExcludeFromProgression": false,
-          "Accessibility": 0,
+          "Accessibility": 1,
           "UnlockedByExpedition": {
             "Tier":2,
             "Exp": 0
@@ -828,7 +828,7 @@
           "Descriptive": {
             "Prefix": "D",
             "PublicName": "Muddiness",
-            "IsExtraExpedition": false,
+            "IsExtraExpedition": true,
             "SkipExpNumberInName": false,
             "UseCustomMatchmakingTier": false,
             "CustomMatchmakingTier": 1,
@@ -1438,12 +1438,12 @@
           "Descriptive": {
             "Prefix": "ROOT",
             "PublicName": "cosmos",
-            "IsExtraExpedition": false,
+            "IsExtraExpedition": true,
             "SkipExpNumberInName": true,
             "UseCustomMatchmakingTier": false,
             "CustomMatchmakingTier": 1,
             "ProgressionVisualStyle": 0,
-            "ExpeditionDepth":1899,
+            "ExpeditionDepth":1699,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Prisoners <color=red>::ERR ###\r</color>\n",
             "RoleplayedWardenIntel": "> This place...\n<color=red>> N??*.~?޽???...</color>",

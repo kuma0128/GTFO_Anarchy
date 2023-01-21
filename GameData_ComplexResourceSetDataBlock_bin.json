@@ -8149,6 +8149,10 @@
       ],
       "CustomGeomorphs_Objective_1x1": [
         {
+          "Prefab": "Assets/MrBroFloodwaysExpansion/mrbrofloodwayscircle.prefab",
+          "SubComplex": 6
+},
+        {
           "Prefab": "Assets/Custom Geo's/Floodways_I_tile_bridge/Floodways_I_tile_Bridge.prefab",
           "SubComplex": 5,
           "Shard": 10

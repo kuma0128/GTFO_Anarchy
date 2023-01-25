@@ -52,6 +52,31 @@
       "persistentID": 15
     },
     {
+      "SpawnsPerZone": 7,
+      "ChanceToSpawnInResourceContainer": 0.9,
+      "SpawnData": [
+        {
+          "ItemID": 117,
+          "Weight": 9.0
+        },
+        {
+          "ItemID": 115,
+          "Weight": 1.0
+        },
+        {
+          "ItemID": 116,
+          "Weight": 1.0
+        },
+        {
+          "ItemID": 139,
+          "Weight": 2.0
+        }
+      ],
+      "name": "Baseline_D2",
+      "internalEnabled": true,
+      "persistentID": 111
+    },
+    {
       "SpawnsPerZone": 4,
       "ChanceToSpawnInResourceContainer": 0.7,
       "SpawnData": [
@@ -106,12 +131,38 @@
       "persistentID": 5
     },
     {
+      "SpawnsPerZone": 2,
+      "ChanceToSpawnInResourceContainer": 1.0,
+      "SpawnData": [
+        {
+          "ItemID": 139,
+          "Weight": 1.0
+        }
+      ],
+      "name": "Mine",
+      "internalEnabled": true,
+      "persistentID": 222
+    },
+    {
+      "SpawnsPerZone": 2,
+      "ChanceToSpawnInResourceContainer": 1.0,
+      "SpawnData": [
+        {
+          "ItemID": 115,
+          "Weight": 1.0
+        }
+      ],
+      "name": "Cgre",
+      "internalEnabled": true,
+      "persistentID": 223
+    },
+    {
       "SpawnsPerZone": 7,
       "ChanceToSpawnInResourceContainer": 0.9,
       "SpawnData": [
         {
           "ItemID": 117,
-          "Weight": 12.0
+          "Weight": 15.0
         }
       ],
       "name": "OnlyFogReps",
@@ -506,10 +557,6 @@
         {
           "ItemID": 114,
           "Weight": 14.0
-        },
-        {
-          "ItemID": 115,
-          "Weight": 1.0
         },
         {
           "ItemID": 116,

@@ -457,6 +457,16 @@
       "persistentID": 44
     },
     {
+      "WaveRoleWeakling": 38,
+      "WaveRoleStandard": 38,
+      "WaveRoleSpecial": 38,
+      "WaveRoleMiniBoss": 38,
+      "WaveRoleBoss": 38,
+      "name": "Baseline children",
+      "internalEnabled": true,
+      "persistentID": 210
+    },
+    {
       "WaveRoleWeakling": 11,
       "WaveRoleStandard": 11,
       "WaveRoleSpecial": 33,

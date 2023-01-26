@@ -718,7 +718,7 @@
                   },
                   {
                     "DimensionIndex": 0,
-                    "LocalIndex": 7,
+                    "LocalIndex": 8,
                     "Weights": {
                       "Start": 0.0,
                       "Middle": 1000.0,
@@ -727,7 +727,7 @@
                   },
                   {
                     "DimensionIndex": 0,
-                    "LocalIndex": 8,
+                    "LocalIndex": 9,
                     "Weights": {
                       "Start": 1000.0,
                       "Middle": 0.0,

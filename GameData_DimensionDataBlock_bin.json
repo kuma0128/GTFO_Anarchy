@@ -1089,7 +1089,7 @@
         "MultipleScattering": 19.2,
         "CloudsData": 1,
         "CloudsCoverage": 1.0,
-        "CloudsDensity": 0.8065,
+        "CloudsDensity": 0.4065,
         "CloudsSharpness": 0.0,
         "CloudsShadowOpacity": 1.0,
         "CloudsTimescale": 0.02,

@@ -126,6 +126,33 @@
       "Enabled": true,
       "FogColor": {
         "a": 0.0,
+        "r": 0.638,
+        "g": 0.544001341,
+        "b": 0.42108
+      },
+      "FogDensity": 0.0004,
+      "FogAmbience": 0.0,
+      "DensityNoiseDirection": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "DensityNoiseSpeed": 0.6,
+      "DensityNoiseScale": 0.017,
+      "DensityHeightAltitude": 2.0,
+      "DensityHeightRange": 7.0,
+      "DensityHeightMaxBoost": 0.007,
+      "Infection": 0.2,
+      "name": "desert_fog",
+      "internalEnabled": true,
+      "persistentID": 155
+    },
+    {
+      "Enabled": true,
+      "FogColor": {
+        "a": 0.0,
         "r": 0.735849,
         "g": 0.583935559,
         "b": 0.385279447

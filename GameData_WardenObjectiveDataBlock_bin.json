@@ -22133,7 +22133,7 @@
           "Layer": 0,
           "DimensionIndex": 1,
           "LocalIndex": 0,
-          "Delay": 105.0,
+          "Delay": 145.0,
           "Duration": 0.0,
           "ClearDimension": false,
           "WardenIntel": 0,
@@ -22221,7 +22221,7 @@
           "Layer": 0,
           "DimensionIndex": 0,
           "LocalIndex": 0,
-          "Delay": 112.0,
+          "Delay": 155.0,
           "Duration": 0.0,
           "ClearDimension": false,
           "WardenIntel": "Door to <color=orange>[ZONE_9]</color> unlocked",
@@ -22346,7 +22346,6 @@
           "WorldEventObjectFilter": "PlayerSpawnpoint_C"
         },
 
-
         {
           "Type": 9,
           "Condition": {
@@ -22371,54 +22370,10 @@
           "FogSetting": 0,
           "FogTransitionDuration": 0.0,
           "EnemyWaveData": {
-            "WaveSettings": 1,
-            "WavePopulation": 8,
-            "AreaDistance": 0,
+            "WaveSettings": 25,
+            "WavePopulation": 1,
+            "AreaDistance": 1,
             "SpawnDelay": 3.0,
-            "TriggerAlarm": false,
-            "IntelMessage": 0
-          },
-          "EnemyID": 0,
-          "Position": {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0,
-            "magnitude": 0.0,
-            "sqrMagnitude": 0.0
-          },
-          "Count": 0,
-          "Enabled": false,
-          "TerminalCommand": 0,
-          "TerminalCommandRule": 0
-        },
-        {
-          "Type": 9,
-          "Condition": {
-            "ConditionIndex": -1,
-            "IsTrue": false
-          },
-          "Trigger": 1,
-          "ChainPuzzle": 0,
-          "UseStaticBioscanPoints": false,
-          "Layer": 0,
-          "DimensionIndex": 0,
-          "LocalIndex": 0,
-          "Delay": 60.0,
-          "Duration": 0.0,
-          "ClearDimension": false,
-          "WardenIntel": 0,
-          "CustomSubObjectiveHeader": 0,
-          "CustomSubObjective": 0,
-          "SoundID": 0,
-          "SoundSubtitle": 0,
-          "DialogueID": 0,
-          "FogSetting": 0,
-          "FogTransitionDuration": 0.0,
-          "EnemyWaveData": {
-            "WaveSettings": 132,
-            "WavePopulation": 37,
-            "AreaDistance": 2,
-            "SpawnDelay": 0.0,
             "TriggerAlarm": false,
             "IntelMessage": 0
           },
@@ -22459,6 +22414,50 @@
           "DialogueID": 0,
           "FogSetting": 155,
           "FogTransitionDuration": 1.0,
+          "EnemyWaveData": {
+            "WaveSettings": 0,
+            "WavePopulation": 0,
+            "AreaDistance": 2,
+            "SpawnDelay": 0.0,
+            "TriggerAlarm": false,
+            "IntelMessage": 0
+          },
+          "EnemyID": 0,
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "Count": 0,
+          "Enabled": false,
+          "TerminalCommand": 0,
+          "TerminalCommandRule": 0
+        },
+        {
+          "Type": 0,
+          "Condition": {
+            "ConditionIndex": -1,
+            "IsTrue": false
+          },
+          "Trigger": 0,
+          "ChainPuzzle": 0,
+          "UseStaticBioscanPoints": false,
+          "Layer": 0,
+          "DimensionIndex": 0,
+          "LocalIndex": 0,
+          "Delay": 1.7,
+          "Duration": 0.0,
+          "ClearDimension": false,
+          "WardenIntel": "Serious contamination confirmed.",
+          "CustomSubObjectiveHeader": 0,
+          "CustomSubObjective": 0,
+          "SoundID": 0,
+          "SoundSubtitle": 0,
+          "DialogueID": 0,
+          "FogSetting": 0,
+          "FogTransitionDuration": 0.0,
           "EnemyWaveData": {
             "WaveSettings": 0,
             "WavePopulation": 0,
@@ -22525,50 +22524,6 @@
           "TerminalCommandRule": 0
         },
         {
-          "Type": 0,
-          "Condition": {
-            "ConditionIndex": -1,
-            "IsTrue": false
-          },
-          "Trigger": 0,
-          "ChainPuzzle": 0,
-          "UseStaticBioscanPoints": false,
-          "Layer": 0,
-          "DimensionIndex": 0,
-          "LocalIndex": 0,
-          "Delay": 10.0,
-          "Duration": 0.0,
-          "ClearDimension": false,
-          "WardenIntel": "Serious contamination confirmed.",
-          "CustomSubObjectiveHeader": 0,
-          "CustomSubObjective": 0,
-          "SoundID": 0,
-          "SoundSubtitle": 0,
-          "DialogueID": 0,
-          "FogSetting": 0,
-          "FogTransitionDuration": 0.0,
-          "EnemyWaveData": {
-            "WaveSettings": 0,
-            "WavePopulation": 0,
-            "AreaDistance": 2,
-            "SpawnDelay": 0.0,
-            "TriggerAlarm": false,
-            "IntelMessage": 0
-          },
-          "EnemyID": 0,
-          "Position": {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0,
-            "magnitude": 0.0,
-            "sqrMagnitude": 0.0
-          },
-          "Count": 0,
-          "Enabled": false,
-          "TerminalCommand": 0,
-          "TerminalCommandRule": 0
-        },
-        {
           "Type": 10,
           "Condition": {
             "ConditionIndex": -1,
@@ -22580,7 +22535,7 @@
           "Layer": 0,
           "DimensionIndex": 0,
           "LocalIndex": 0,
-          "Delay": 110.0,
+          "Delay": 115.0,
           "Duration": 0.0,
           "ClearDimension": false,
           "WardenIntel": 0,

@@ -642,7 +642,7 @@
           "PutIconAboveTier": false,
           "DisablePlayerVoicelines": false,
           "ExcludeFromProgression": false,
-          "Accessibility": 0,
+          "Accessibility": 1,
           "UnlockedByExpedition": {
             "Tier":2,
             "Exp": 0
@@ -1081,7 +1081,7 @@
             "ExpeditionDepth": 1412,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Extensive power is needed for a deepest level.\r\n<color=red>Prisoners deemed expendable.</color>",
-            "RoleplayedWardenIntel": ">.. There's no time! Let's spread out!\n<color=red>>.. No way!</color>",
+            "RoleplayedWardenIntel": ">.. There's no time! Let's spread out!\n<color=red>> He's coming in...</color>",
             "DevInfo": ""
           },
           "Seeds": {

@@ -22012,7 +22012,7 @@
           "FogSetting": 0,
           "FogTransitionDuration": 0.0,
           "EnemyWaveData": {
-            "WaveSettings": 139,
+            "WaveSettings": 50,
             "WavePopulation": 16,
             "AreaDistance": 1,
             "SpawnDelay": 0.0,
@@ -22370,7 +22370,7 @@
           "FogSetting": 0,
           "FogTransitionDuration": 0.0,
           "EnemyWaveData": {
-            "WaveSettings": 25,
+            "WaveSettings": 21,
             "WavePopulation": 1,
             "AreaDistance": 1,
             "SpawnDelay": 3.0,

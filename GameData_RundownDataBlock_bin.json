@@ -30,7 +30,7 @@
         "AllClearedSectors": 0
       },
       "StorytellingData": {
-        "Title": "Rundown - Anarchy - 0.3.7",
+        "Title": "Rundown - Anarchy - 0.3.10",
         "TextLog": 0,
         "TextLogPos": {
           "x": 0.0,
@@ -642,7 +642,7 @@
           "PutIconAboveTier": false,
           "DisablePlayerVoicelines": false,
           "ExcludeFromProgression": false,
-          "Accessibility": 0,
+          "Accessibility": 1,
           "UnlockedByExpedition": {
             "Tier":2,
             "Exp": 0

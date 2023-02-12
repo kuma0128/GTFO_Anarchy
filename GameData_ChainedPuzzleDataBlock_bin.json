@@ -3743,7 +3743,7 @@
       "PublicAlarmName": "Class ://ERROR! Alarm",
       "TriggerAlarmOnActivate": true,
       "SurvivalWaveSettings": 43,
-      "SurvivalWavePopulation": 9,
+      "SurvivalWavePopulation": 21,
       "SurvivalWaveAreaDistance": 2,
       "DisableSurvivalWaveOnComplete": false,
       "UseRandomPositions": false,

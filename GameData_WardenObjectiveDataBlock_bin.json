@@ -3900,7 +3900,7 @@
           "WaveSettings": 57,
           "WavePopulation": 8,
           "AreaDistance": 2,
-          "SpawnDelay": 50.0,
+          "SpawnDelay": 60.0,
           "TriggerAlarm": true,
           "IntelMessage": "Mass of bioreadings approaching, get the datasphere to extraction point immediately."
         }
@@ -4044,15 +4044,14 @@
         {
           "WaveSettings": 462,
           "WavePopulation": 13,
-          "AreaDistance": 1,
+          "AreaDistance": 2,
           "SpawnDelay": 0.0,
           "TriggerAlarm": true,
           "IntelMessage": 0
         }
       ],
       "WaveOnGotoWinTrigger": 1,
-      "EventsOnGotoWin": [
-        
+      "EventsOnGotoWin": [     
       ],
       "EventsOnGotoWinTrigger": 0,
       "FogTransitionDataOnGotoWin": 0,

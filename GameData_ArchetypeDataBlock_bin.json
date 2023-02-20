@@ -2577,7 +2577,7 @@
       "PrecisionDamageMulti": 2.0025,
       "DefaultClipSize": 3,
       "DefaultReloadTime": 3.5,
-      "CostOfBullet": 25.0,
+      "CostOfBullet": 19.0,
       "ShotDelay": 0.5,
       "ShellCasingSize": 1.0,
       "ShellCasingSpeedRange": {
@@ -2673,7 +2673,7 @@
       "PrecisionDamageMulti": 1.0,
       "DefaultClipSize": 3,
       "DefaultReloadTime": 3.5,
-      "CostOfBullet": 28.0,
+      "CostOfBullet": 19.0,
       "ShotDelay": 0.5,
       "ShellCasingSize": 1.0,
       "ShellCasingSpeedRange": {
@@ -2733,7 +2733,7 @@
       "Sentry_CostOfBulletTagMulti": 1.0,
       "Sentry_ShotDelayTagMulti": 1.0,
       "name": "GEAR_Sniper_Semi",
-      "internalEnabled": false,
+      "internalEnabled": true,
       "persistentID": 63
     },
     {

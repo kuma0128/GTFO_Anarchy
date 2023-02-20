@@ -30,7 +30,7 @@
         "AllClearedSectors": 0
       },
       "StorytellingData": {
-        "Title": "Rundown - Anarchy - 0.4.0",
+        "Title": "Rundown - Anarchy - 0.4.2",
         "TextLog": 0,
         "TextLogPos": {
           "x": 0.0,
@@ -642,7 +642,7 @@
           "PutIconAboveTier": false,
           "DisablePlayerVoicelines": false,
           "ExcludeFromProgression": false,
-          "Accessibility": 1,
+          "Accessibility": 0,
           "UnlockedByExpedition": {
             "Tier":2,
             "Exp": 0
@@ -664,7 +664,7 @@
             "ExpeditionDepth": 1021,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Use extracted coordinates to retrieve 3 Data Cubes. <color=red>Deviating energy readings detected in the related sector.</color>",
-            "RoleplayedWardenIntel": "<color=red><size=200%>>...Everyone ready?</color></size> ",
+            "RoleplayedWardenIntel": "I got fog repellers\n<color=red><size=200%>>...Everyone ready?</color></size> ",
             "DevInfo": ""
           },
           "Seeds": {
@@ -709,7 +709,7 @@
                 [
                   {
                     "DimensionIndex": 0,
-                    "LocalIndex": 3,
+                    "LocalIndex": 1,
                     "Weights": {
                       "Start": 0.0,
                       "Middle": 0.0,
@@ -718,7 +718,7 @@
                   },
                   {
                     "DimensionIndex": 0,
-                    "LocalIndex": 8,
+                    "LocalIndex": 3,
                     "Weights": {
                       "Start": 0.0,
                       "Middle": 1000.0,
@@ -727,7 +727,7 @@
                   },
                   {
                     "DimensionIndex": 0,
-                    "LocalIndex": 9,
+                    "LocalIndex": 8,
                     "Weights": {
                       "Start": 1000.0,
                       "Middle": 0.0,
@@ -1438,7 +1438,7 @@
           "Descriptive": {
             "Prefix": "ROOT",
             "PublicName": "cosmos",
-            "IsExtraExpedition": true,
+            "IsExtraExpedition": false,
             "SkipExpNumberInName": true,
             "UseCustomMatchmakingTier": false,
             "CustomMatchmakingTier": 1,

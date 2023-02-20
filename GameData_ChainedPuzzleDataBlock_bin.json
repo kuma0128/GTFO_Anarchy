@@ -1173,7 +1173,7 @@
       "persistentID": 125
     },
     {
-      "PublicAlarmName": "Class T III Alarm",
+      "PublicAlarmName": "Class T II Alarm",
       "TriggerAlarmOnActivate": true,
       "SurvivalWaveSettings": 1,
       "SurvivalWavePopulation": 13,
@@ -1185,9 +1185,6 @@
       "ChainedPuzzle": [
         {
           "PuzzleType": 31
-        },
-        {
-          "PuzzleType": 9
         },
         {
           "PuzzleType": 9
@@ -3216,7 +3213,7 @@
           "PuzzleType": 4
         },
         {
-          "PuzzleType": 13
+          "PuzzleType": 14
         }
       ],
       "OnlyShowHUDWhenPlayerIsClose": false,
@@ -4717,9 +4714,9 @@
       "SurvivalWavePopulation": 1,
       "SurvivalWaveAreaDistance": 2,
       "DisableSurvivalWaveOnComplete": true,
-      "UseRandomPositions": true,
-      "WantedDistanceFromStartPos": 8.0,
-      "WantedDistanceBetweenPuzzleComponents": 1.0,
+      "UseRandomPositions": false,
+      "WantedDistanceFromStartPos": 2.0,
+      "WantedDistanceBetweenPuzzleComponents": 0,
       "ChainedPuzzle": [
         {
           "PuzzleType": 13

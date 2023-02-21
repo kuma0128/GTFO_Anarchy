@@ -2876,7 +2876,7 @@
       "m_chanceToRandomizeSpawnDirectionPerWave": 1.0,
       "m_chanceToRandomizeSpawnDirectionPerGroup": 0.8,
       "m_overrideWaveSpawnType": false,
-      "m_survivalWaveSpawnType": 0,
+      "m_survivalWaveSpawnType": 6,
       "m_populationPointsTotal": -1.0,
       "m_populationPointsPerWaveStart": 6.0,
       "m_populationPointsPerWaveEnd": 6.0,

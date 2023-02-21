@@ -157,6 +157,27 @@
       "persistentID": 223
     },
     {
+      "SpawnsPerZone": 4,
+      "ChanceToSpawnInResourceContainer": 1.0,
+      "SpawnData": [
+        {
+          "ItemID": 115,
+          "Weight": 1.0
+        },
+        {
+          "ItemID": 139,
+          "Weight": 1.0
+        },
+        {
+          "ItemID": 144,
+          "Weight": 1.0
+        }
+      ],
+      "name": "sustain",
+      "internalEnabled": true,
+      "persistentID": 224
+    },
+    {
       "SpawnsPerZone": 7,
       "ChanceToSpawnInResourceContainer": 0.9,
       "SpawnData": [

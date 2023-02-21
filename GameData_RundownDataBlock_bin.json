@@ -30,7 +30,7 @@
         "AllClearedSectors": 0
       },
       "StorytellingData": {
-        "Title": "Rundown - Anarchy - 0.4.2",
+        "Title": "Rundown - Anarchy - 0.4.5",
         "TextLog": 0,
         "TextLogPos": {
           "x": 0.0,
@@ -471,7 +471,7 @@
             "ExpeditionDepth": 944,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Allocate a Data Sphere to prisoner groups to salvage nFrame data.\n<color=red>Multiple error alarms have been identified.</color>",
-            "RoleplayedWardenIntel": ">.. Fire at will! \r\n<color=red>>.. No time to die!</color>",
+            "RoleplayedWardenIntel": ">.. Fire at will! \r\n<color=red><size=200%>> No time to die!</size></color>",
             "DevInfo": ""
           },
           "Seeds": {
@@ -664,7 +664,7 @@
             "ExpeditionDepth": 1021,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Use extracted coordinates to retrieve 3 Data Cubes. <color=red>Deviating energy readings detected in the related sector.</color>",
-            "RoleplayedWardenIntel": "I got fog repellers\n<color=red><size=200%>>...Everyone ready?</color></size> ",
+            "RoleplayedWardenIntel": "> I got fog repellers!\n<color=red><size=200%>>...Everyone ready?</color></size> ",
             "DevInfo": ""
           },
           "Seeds": {
@@ -827,7 +827,7 @@
           },
           "Descriptive": {
             "Prefix": "D",
-            "PublicName": "Muddiness",
+            "PublicName": "Daredevil",
             "IsExtraExpedition": true,
             "SkipExpNumberInName": false,
             "UseCustomMatchmakingTier": false,
@@ -836,7 +836,7 @@
             "ExpeditionDepth": 1021,
             "EstimatedDuration": 1001,
             "ExpeditionDescription": "Prisoners will act as decoy for undisclosed parallel objective.\nSurviving prisoners will return for extraction once undisclosed objective has been completed.",
-            "RoleplayedWardenIntel": ">.. Conserve your ammo!\n<color=red>>.. Fuck that! I'm using everything I got!</color>",
+            "RoleplayedWardenIntel": "> I can hear them! I don't know how much longer we can hold out...\n<color=red>> We should have never come here! This place is a death trap...</color>",
             "DevInfo": ""
           },
           "Seeds": {
@@ -1043,9 +1043,9 @@
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
             "InfectionLevelAtExpeditionStart": 0.0,
             "HealthLevelAtExpeditionStart": 1.0,
-            "StandardAmmoAtExpeditionStart": 1.0,
-            "SpecialAmmoAtExpeditionStart": 1.0,
-            "ToolAmmoAtExpeditionStart": 1.0
+            "StandardAmmoAtExpeditionStart": 0.0,
+            "SpecialAmmoAtExpeditionStart": 0.0,
+            "ToolAmmoAtExpeditionStart": 0.0
           },
           "HasExternalStyle": false,
           "HasStoryStyle": false
@@ -1072,7 +1072,7 @@
           },
           "Descriptive": {
             "Prefix": "E",
-            "PublicName": "Fortress",
+            "PublicName": "Citadel",
             "IsExtraExpedition": false,
             "SkipExpNumberInName": false,
             "UseCustomMatchmakingTier": false,
@@ -1221,7 +1221,7 @@
           },
           "Descriptive": {
             "Prefix": "E",
-            "PublicName": "Even darker",
+            "PublicName": "Onslaught",
             "IsExtraExpedition": false,
             "SkipExpNumberInName": false,
             "UseCustomMatchmakingTier": false,
@@ -1230,7 +1230,7 @@
             "ExpeditionDepth": 1430,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Reach the deepest level and initiate Destruction Protocol.",
-            "RoleplayedWardenIntel": ">.. The toxic gas fucked them all up!\n<color=red>>.. We have to keep moving.</color>",
+            "RoleplayedWardenIntel": ">.. The toxic gas fucked them all up!\n<color=red>>.. We have to keep moving!</color>",
             "DevInfo": ""
           },
           "Seeds": {
@@ -1446,7 +1446,7 @@
             "ExpeditionDepth":1699,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Prisoners <color=red>::ERR ###\r</color>\n",
-            "RoleplayedWardenIntel": "> This place...\n<color=red>> N??*.~?޽???...</color>",
+            "RoleplayedWardenIntel": "> This place is the one...\n<color=red>> N??*.~?޽???...</color>",
             "DevInfo": ""
           },
           "Seeds": {

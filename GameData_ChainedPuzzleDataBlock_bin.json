@@ -4754,7 +4754,7 @@
     {
       "PublicAlarmName": "Class S I Surge Alarm ",
       "TriggerAlarmOnActivate": true,
-      "SurvivalWaveSettings": 25,
+      "SurvivalWaveSettings": 21,
       "SurvivalWavePopulation": 1,
       "SurvivalWaveAreaDistance": 2,
       "DisableSurvivalWaveOnComplete": true,

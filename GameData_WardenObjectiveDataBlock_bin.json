@@ -22369,7 +22369,7 @@
           "FogSetting": 0,
           "FogTransitionDuration": 0.0,
           "EnemyWaveData": {
-            "WaveSettings": 21,
+            "WaveSettings": 25,
             "WavePopulation": 1,
             "AreaDistance": 1,
             "SpawnDelay": 3.0,
@@ -22391,7 +22391,7 @@
         },
 
         {
-          "Type": 6,
+          "Type": 0,
           "Condition": {
             "ConditionIndex": -1,
             "IsTrue": false
@@ -22400,19 +22400,19 @@
           "ChainPuzzle": 0,
           "UseStaticBioscanPoints": false,
           "Layer": 0,
-          "DimensionIndex": 1,
+          "DimensionIndex": 0,
           "LocalIndex": 0,
           "Delay": 1.5,
           "Duration": 0.0,
           "ClearDimension": false,
-          "WardenIntel": 0,
+          "WardenIntel": "Serious contamination detected.",
           "CustomSubObjectiveHeader": 0,
           "CustomSubObjective": 0,
           "SoundID": 0,
           "SoundSubtitle": 0,
           "DialogueID": 0,
-          "FogSetting": 155,
-          "FogTransitionDuration": 1.0,
+          "FogSetting": 0,
+          "FogTransitionDuration": 0.0,
           "EnemyWaveData": {
             "WaveSettings": 0,
             "WavePopulation": 0,
@@ -22435,7 +22435,7 @@
           "TerminalCommandRule": 0
         },
         {
-          "Type": 0,
+          "Type": 6,
           "Condition": {
             "ConditionIndex": -1,
             "IsTrue": false
@@ -22444,19 +22444,19 @@
           "ChainPuzzle": 0,
           "UseStaticBioscanPoints": false,
           "Layer": 0,
-          "DimensionIndex": 0,
+          "DimensionIndex": 1,
           "LocalIndex": 0,
-          "Delay": 1.7,
+          "Delay": 5.0,
           "Duration": 0.0,
           "ClearDimension": false,
-          "WardenIntel": "Serious contamination confirmed.",
+          "WardenIntel": 0,
           "CustomSubObjectiveHeader": 0,
           "CustomSubObjective": 0,
           "SoundID": 0,
           "SoundSubtitle": 0,
           "DialogueID": 0,
-          "FogSetting": 0,
-          "FogTransitionDuration": 0.0,
+          "FogSetting": 155,
+          "FogTransitionDuration": 1.0,
           "EnemyWaveData": {
             "WaveSettings": 0,
             "WavePopulation": 0,
@@ -22490,7 +22490,7 @@
           "Layer": 0,
           "DimensionIndex": 0,
           "LocalIndex": 0,
-          "Delay": 5.0,
+          "Delay": 6.0,
           "Duration": 0.0,
           "ClearDimension": false,
           "WardenIntel": 1404,

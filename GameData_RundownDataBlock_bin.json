@@ -30,7 +30,7 @@
         "AllClearedSectors": 0
       },
       "StorytellingData": {
-        "Title": "Rundown - Anarchy - 0.4.5",
+        "Title": "Rundown - Anarchy - 0.4.9",
         "TextLog": 0,
         "TextLogPos": {
           "x": 0.0,
@@ -628,7 +628,7 @@
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
             "InfectionLevelAtExpeditionStart": 0.0,
             "HealthLevelAtExpeditionStart": 1.0,
-            "StandardAmmoAtExpeditionStart": 1.0,
+            "StandardAmmoAtExpeditionStart": 0.25,
             "SpecialAmmoAtExpeditionStart": 1.0,
             "ToolAmmoAtExpeditionStart": 1.0
           },

@@ -30,7 +30,7 @@
         "AllClearedSectors": 0
       },
       "StorytellingData": {
-        "Title": "Rundown - Anarchy - 0.4.9",
+        "Title": "Rundown - Anarchy - 0.4.10",
         "TextLog": 0,
         "TextLogPos": {
           "x": 0.0,
@@ -1081,7 +1081,7 @@
             "ExpeditionDepth": 1412,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Extensive power is needed for a deepest level.\r\n<color=red>Prisoners deemed expendable.</color>",
-            "RoleplayedWardenIntel": ">.. There's no time! Let's spread out!\n<color=red>> He's coming in...</color>",
+            "RoleplayedWardenIntel": ">.. There's no time! Let's spread out!\n<color=red>> Come back!! He's coming in...</color>",
             "DevInfo": ""
           },
           "Seeds": {
@@ -1230,7 +1230,7 @@
             "ExpeditionDepth": 1430,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Reach the deepest level and initiate Destruction Protocol.",
-            "RoleplayedWardenIntel": ">.. The toxic gas fucked them all up!\n<color=red>>.. We have to keep moving!</color>",
+            "RoleplayedWardenIntel": "<color=red>> Tell them not to come back</color>\n<color=red>> Tell them not to come back</color>\n<color=red>> Tell them not to come back</color>\n<color=red>> Tell them not to come back</color>",
             "DevInfo": ""
           },
           "Seeds": {

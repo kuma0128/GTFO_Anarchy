@@ -5146,7 +5146,7 @@
       "persistentID": 165
     },
     {
-      "PublicAlarmName": "Class VI Cluster Alarm",
+      "PublicAlarmName": "Class VII Cluster Alarm",
       "TriggerAlarmOnActivate": true,
       "SurvivalWaveSettings": 12,
       "SurvivalWavePopulation": 13,
@@ -5158,6 +5158,9 @@
       "ChainedPuzzle": [
         {
           "PuzzleType": 8
+        },
+        {
+          "PuzzleType": 9
         },
         {
           "PuzzleType": 9

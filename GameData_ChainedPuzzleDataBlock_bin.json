@@ -4759,7 +4759,7 @@
       "SurvivalWaveAreaDistance": 2,
       "DisableSurvivalWaveOnComplete": true,
       "UseRandomPositions": false,
-      "WantedDistanceFromStartPos": 2.0,
+      "WantedDistanceFromStartPos": 0.0,
       "WantedDistanceBetweenPuzzleComponents": 1.0,
       "ChainedPuzzle": [
         {
@@ -6114,6 +6114,34 @@
       "name": "Single Big RequireAll x3 - Alarm Surge Hybrids",
       "internalEnabled": true,
       "persistentID": 196
+    },
+    {
+      "PublicAlarmName": "Class III Surge Alarm",
+      "TriggerAlarmOnActivate": true,
+      "SurvivalWaveSettings": 21,
+      "SurvivalWavePopulation": 48,
+      "SurvivalWaveAreaDistance": 2,
+      "DisableSurvivalWaveOnComplete": true,
+      "UseRandomPositions": true,
+      "WantedDistanceFromStartPos": 0.0,
+      "WantedDistanceBetweenPuzzleComponents": 5.0,
+      "ChainedPuzzle": [
+        {
+          "PuzzleType": 6
+        },
+        {
+          "PuzzleType": 6
+        },
+        {
+          "PuzzleType": 6
+        }
+      ],
+      "OnlyShowHUDWhenPlayerIsClose": false,
+      "AlarmSoundStart": 3339129407,
+      "AlarmSoundStop": 42633153,
+      "name": "Single Big RequireAll x3 - Alarm Surge Hybrids",
+      "internalEnabled": true,
+      "persistentID": 210
     },
     {
       "PublicAlarmName": "Class III M Surge Alarm",

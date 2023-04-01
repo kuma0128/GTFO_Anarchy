@@ -30,7 +30,7 @@
         "AllClearedSectors": 0
       },
       "StorytellingData": {
-        "Title": "Rundown - Anarchy - 0.4.10",
+        "Title": "Rundown - Anarchy - 0.4.11",
         "TextLog": 0,
         "TextLogPos": {
           "x": 0.0,
@@ -1042,8 +1042,8 @@
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
             "InfectionLevelAtExpeditionStart": 0.0,
-            "HealthLevelAtExpeditionStart": 1.0,
-            "StandardAmmoAtExpeditionStart": 0.0,
+            "HealthLevelAtExpeditionStart": 0.6,
+            "StandardAmmoAtExpeditionStart": 0.1,
             "SpecialAmmoAtExpeditionStart": 0.0,
             "ToolAmmoAtExpeditionStart": 0.0
           },
@@ -1230,7 +1230,7 @@
             "ExpeditionDepth": 1430,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Reach the deepest level and initiate Destruction Protocol.",
-            "RoleplayedWardenIntel": "<color=red>> Tell them not to come back</color>\n<color=red>> Tell them not to come back</color>\n<color=red>> Tell them not to come back</color>\n<color=red>> Tell them not to come back</color>",
+            "RoleplayedWardenIntel": "<color=red>> Tell them not to come back!</color>\n<color=red>> Tell them not to come back!</color>\n<color=red>> Tell them not to come back!</color>\n<color=red>> Tell them not to come back!</color>\n<color=red>> Tell them not to come back!</color>\n<color=red>> Tell them not to come back!</color>\n<color=red>> Tell them not to come back!</color>",
             "DevInfo": ""
           },
           "Seeds": {

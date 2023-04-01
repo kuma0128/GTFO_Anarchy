@@ -48,7 +48,7 @@
       "PlayerRequirement": 1,
       "ScanRadius": 2.0,
       "PlayersInScanMulti": [0.1, 0.1, 0.1, 0.1],
-      "ReduceSpeed": 0.0,
+      "ReduceSpeed": 0.0165,
       "ReduceWhenNoPlayer": false,
       "BioScanGraphics": {
       "ScanText": "SECURITY SCAN - FULL TEAM",
@@ -178,7 +178,7 @@
       "PersistentID": 307,
       "ClusterCount": 5,
       "BioscanID": 102,
-      "DistanceBetweenScans": 10.0,
+      "DistanceBetweenScans": 15.0,
       "RevealWithHoloPath": true
     }
   ]

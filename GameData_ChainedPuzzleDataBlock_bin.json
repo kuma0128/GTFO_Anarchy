@@ -2076,6 +2076,28 @@
       "persistentID": 104
     },
     {
+      "PublicAlarmName": "Class V M Alarm",
+      "TriggerAlarmOnActivate": true,
+      "SurvivalWaveSettings": 12,
+      "SurvivalWavePopulation": 7,
+      "SurvivalWaveAreaDistance": 2,
+      "DisableSurvivalWaveOnComplete": true,
+      "UseRandomPositions": true,
+      "WantedDistanceFromStartPos": 5.0,
+      "WantedDistanceBetweenPuzzleComponents": 10.0,
+      "ChainedPuzzle": [
+        {
+          "PuzzleType": 300
+        }
+      ],
+      "OnlyShowHUDWhenPlayerIsClose": false,
+      "AlarmSoundStart": 3339129407,
+      "AlarmSoundStop": 42633153,
+      "name": "Mixed Far Bundled No Req All x5 - Alarm Reduced Shadows",
+      "internalEnabled": true,
+      "persistentID": 223
+    },
+    {
       "PublicAlarmName": "Class IV M Alarm",
       "TriggerAlarmOnActivate": true,
       "SurvivalWaveSettings": 228,

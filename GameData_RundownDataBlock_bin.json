@@ -105,7 +105,7 @@
         "SurfaceDescription": 111850346,
         "ExternalExpTitle": 0
       },
-      "VanityItemLayerDropDataBlock": 3,
+      "VanityItemLayerDropDataBlock": 0,
       "TierA": [
       ],
       "TierB": [
@@ -814,7 +814,7 @@
           "PutIconAboveTier": false,
           "DisablePlayerVoicelines": false,
           "ExcludeFromProgression": false,
-          "Accessibility": 1,
+          "Accessibility": 2,
           "UnlockedByExpedition": {
             "Tier":2,
             "Exp": 0
@@ -870,11 +870,11 @@
           "LevelLayoutData": 171,
           "MainLayerData": {
             "ZonesWithBulkheadEntrance": [
-              4
+              8
             ],
             "BulkheadDoorControllerPlacements": [
               {
-                "ZoneIndex": 2,
+                "ZoneIndex": 7,
                 "PlacementWeights": {
                   "Start": 0.0,
                   "Middle": 0.0,
@@ -884,7 +884,7 @@
                 "MarkerSeedOffset": 0
               },
               {
-                "ZoneIndex": 5,
+                "ZoneIndex": 9,
                 "PlacementWeights": {
                   "Start": 0.0,
                   "Middle": 0.0,
@@ -898,7 +898,7 @@
               [
                 {
                   "DimensionIndex": 0,
-                  "LocalIndex": 3,
+                  "LocalIndex": 15,
                   "Weights": {
                     "Start": 0.0,
                     "Middle": 0.0,
@@ -909,7 +909,7 @@
               [
                 {
                   "DimensionIndex": 0,
-                  "LocalIndex": 6,
+                  "LocalIndex": 13,
                   "Weights": {
                     "Start": 0.0,
                     "Middle": 0.0,
@@ -925,7 +925,7 @@
             },
             "ChainedObjectiveData": [],
             "ArtifactData": {
-              "ArtifactAmountMulti": 1.0,
+              "ArtifactAmountMulti": 0.0,
               "ArtifactLayerDistributionDataID": 1,
               "ArtifactZoneDistributions": [
                 {
@@ -938,10 +938,10 @@
             }
           },
           "SecondaryLayerEnabled": true,
-          "SecondaryLayout": 169,
+          "SecondaryLayout": 172,
           "BuildSecondaryFrom": {
             "LayerType": 0,
-            "Zone": 5
+            "Zone": 9
           },
           "SecondaryLayerData": {
             "ZonesWithBulkheadEntrance": [],
@@ -966,7 +966,7 @@
             },
             "ChainedObjectiveData": [],
             "ArtifactData": {
-              "ArtifactAmountMulti": 1.0,
+              "ArtifactAmountMulti": 0.0,
               "ArtifactLayerDistributionDataID": 1,
               "ArtifactZoneDistributions": [
                 {
@@ -979,10 +979,10 @@
             }
           },
           "ThirdLayerEnabled": true,
-          "ThirdLayout": 170,
+          "ThirdLayout": 179,
           "BuildThirdFrom": {
             "LayerType": 0,
-            "Zone": 2
+            "Zone": 7
           },
           "ThirdLayerData": {
             "ZonesWithBulkheadEntrance": [],

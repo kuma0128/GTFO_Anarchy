@@ -839,6 +839,11 @@
           "Shard": 2
         },
         {
+          "Prefab": "Assets/Custom Geo's/refinery/HA_1_i_tile/I_tile_V2.prefab",
+          "SubComplex": 5,
+          "Shard": "S1"
+        },
+        {
           "Prefab": "Assets/AssetPrefabs/Complex/Mining/Geomorphs/geo_64x64_mining_reactor_HA_02.prefab",
           "SubComplex": 5,
           "Shard": 4

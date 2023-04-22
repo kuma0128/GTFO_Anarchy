@@ -29904,7 +29904,7 @@
       "ActivateHSU_ObjectiveCompleteAfterInsertion": false,
       "ActivateHSU_RequireItemAfterActivationInExitScan": false,
       "ActivateHSU_Events": [],
-      "Survival_TimeToActivate": 120.0,
+      "Survival_TimeToActivate": 1200.0,
       "Survival_TimeToSurvive": 1800.0,
       "Survival_TimerTitle": 647325299,
       "Survival_TimerToActivateTitle": 573438790,

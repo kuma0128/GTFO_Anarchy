@@ -898,7 +898,7 @@
               [
                 {
                   "DimensionIndex": 0,
-                  "LocalIndex": 15,
+                  "LocalIndex": 14,
                   "Weights": {
                     "Start": 0.0,
                     "Middle": 0.0,
@@ -928,12 +928,6 @@
               "ArtifactAmountMulti": 0.0,
               "ArtifactLayerDistributionDataID": 1,
               "ArtifactZoneDistributions": [
-                {
-                  "Zone": 11,
-                  "BasicArtifactWeight": 0.0,
-                  "AdvancedArtifactWeight": 0.0,
-                  "SpecializedArtifactWeight": 0.0
-                }
               ]
             }
           },
@@ -969,12 +963,6 @@
               "ArtifactAmountMulti": 0.0,
               "ArtifactLayerDistributionDataID": 1,
               "ArtifactZoneDistributions": [
-                {
-                  "Zone": 0,
-                  "BasicArtifactWeight": 0.0,
-                  "AdvancedArtifactWeight": 0.0,
-                  "SpecializedArtifactWeight": 0.0
-                }
               ]
             }
           },
@@ -1022,18 +1010,6 @@
               "ArtifactAmountMulti": 0.0,
               "ArtifactLayerDistributionDataID": 1,
               "ArtifactZoneDistributions": [
-                {
-                  "Zone": 0,
-                  "BasicArtifactWeight": 0.0,
-                  "AdvancedArtifactWeight": 0.0,
-                  "SpecializedArtifactWeight": 0.0
-                },
-                {
-                  "Zone": 1,
-                  "BasicArtifactWeight": 0.0,
-                  "AdvancedArtifactWeight": 0.0,
-                  "SpecializedArtifactWeight": 0.0
-                }
               ]
             }
           },

@@ -2776,6 +2776,33 @@
       },
       "DensityNoiseSpeed": 0.074,
       "DensityNoiseScale": 0.131,
+      "DensityHeightAltitude": 5.0,
+      "DensityHeightRange": 5.0,
+      "DensityHeightMaxBoost": 0.007,
+      "Infection": 0.0,
+      "name": "Fog_anarchy_d3",
+      "internalEnabled": true,
+      "persistentID": 222
+    },
+    {
+      "Enabled": true,
+      "FogColor": {
+        "a": 0.03137255,
+        "r": 0.472810626,
+        "g": 0.8018868,
+        "b": 0.7076807
+      },
+      "FogDensity": 0.0003,
+      "FogAmbience": 0.0001,
+      "DensityNoiseDirection": {
+        "x": 0.0,
+        "y": -1.0,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "DensityNoiseSpeed": 0.074,
+      "DensityNoiseScale": 0.131,
       "DensityHeightAltitude": 2.0,
       "DensityHeightRange": 1.0,
       "DensityHeightMaxBoost": 0.007,

@@ -1242,7 +1242,7 @@
       "persistentID": 143
     },
     {
-      "PublicAlarmName": "Class V S Alarm",
+      "PublicAlarmName": "Alarm",
       "TriggerAlarmOnActivate": true,
       "SurvivalWaveSettings": 1,
       "SurvivalWavePopulation": 24,

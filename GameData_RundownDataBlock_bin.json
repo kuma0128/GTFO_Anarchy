@@ -919,11 +919,30 @@
               ]
             ],
             "ObjectiveData": {
-              "DataBlockId": 116,
-              "WinCondition": 1,
-              "ZonePlacementDatas": []
+              "DataBlockId": 240,
+              "WinCondition": 0,
+              "ZonePlacementDatas": [
+                [
+                  {
+                    "DimensionIndex": 0,
+                    "LocalIndex": 3,
+                    "Weights": {
+                      "Start": 100.0,
+                      "Middle": 0.0,
+                      "End": 0.0
+                    }
+                  }
+                ]
+              ]
             },
-            "ChainedObjectiveData": [],
+            "ChainedObjectiveData": [
+              {
+                "DataBlockId": 116,
+                "WinCondition": 0,
+                "ZonePlacementDatas": [
+                ]
+              }
+            ],
             "ArtifactData": {
               "ArtifactAmountMulti": 0.0,
               "ArtifactLayerDistributionDataID": 1,
@@ -995,7 +1014,7 @@
                 [
                   {
                     "DimensionIndex": 0,
-                    "LocalIndex": 0,
+                    "LocalIndex": 1,
                     "Weights": {
                       "Start": 0.0,
                       "Middle": 0.0,

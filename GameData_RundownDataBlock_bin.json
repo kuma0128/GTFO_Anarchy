@@ -835,7 +835,7 @@
             "ProgressionVisualStyle": 0,
             "ExpeditionDepth": 1021,
             "EstimatedDuration": 1001,
-            "ExpeditionDescription": "Prisoners will act as decoy for undisclosed parallel objective.\n<color=red> Security breaches is detected.</color>",
+            "ExpeditionDescription": "Prisoners will act as decoy for undisclosed parallel objective.\n<color=red> Security breaches detected.</color>",
             "RoleplayedWardenIntel": "> I can hear them! I don't know how much longer we can hold out...\n<color=red>> We should have never come here! This place is a death trap...</color>",
             "DevInfo": ""
           },

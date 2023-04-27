@@ -834,6 +834,21 @@
       ],
       "CustomGeomorphs_Objective_1x1": [
         {
+          "Prefab": "Assets/Prefabs/Geomorph/Mining/geo_storage_FA_dead_end_01.prefab",
+          "SubComplex": "Storage",
+          "Shard": "S1"
+        },
+        {
+          "Prefab": "Assets/Asset bundles/geo_64x64_mining_refinery_I_GA_HIDDENCUBE_01.prefab",
+          "SubComplex": 5,
+          "Shard": 2
+        },
+        {
+          "Prefab": "Assets/Asset bundles/geo_64x64_mining_refinery_L_GA_CUBES_01.prefab",
+          "SubComplex": 5,
+          "Shard": 2
+        },
+        {
           "Prefab": "Assets/AssetPrefabs/Complex/Mining/Geomorphs/geo_64x64_mining_reactor_open_HA_01.prefab",
           "SubComplex": 5,
           "Shard": 2

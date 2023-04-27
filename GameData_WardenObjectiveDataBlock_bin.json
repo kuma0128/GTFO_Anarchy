@@ -44400,21 +44400,21 @@
       "WaveOnGotoWinTrigger": 0,
       "EventsOnGotoWin": [
         {
-          "Type": 3,
+          "Type": 2,
           "Condition": {
             "ConditionIndex": -1,
             "IsTrue": false
           },
-          "Trigger": 2,
+          "Trigger": 0,
           "ChainPuzzle": 0,
           "UseStaticBioscanPoints": false,
           "Layer": 0,
           "DimensionIndex": 0,
-          "LocalIndex": 0,
+          "LocalIndex": 12,
           "Delay": 0.0,
           "Duration": 0.0,
           "ClearDimension": false,
-          "WardenIntel": 1164,
+          "WardenIntel": "Unlocking Security door to [ZONE 12]",
           "CustomSubObjectiveHeader": 0,
           "CustomSubObjective": 0,
           "SoundID": 0,

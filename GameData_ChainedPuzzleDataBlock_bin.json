@@ -3114,6 +3114,85 @@
       "persistentID": 187
     },
     {
+      "PublicAlarmName": "Class S XX Alarm",
+      "TriggerAlarmOnActivate": true,
+      "SurvivalWaveSettings": 1,
+      "SurvivalWavePopulation": 5,
+      "SurvivalWaveAreaDistance": 1,
+      "DisableSurvivalWaveOnComplete": true,
+      "UseRandomPositions": true,
+      "WantedDistanceFromStartPos": 22.0,
+      "WantedDistanceBetweenPuzzleComponents": 13.0,
+      "ChainedPuzzle": [
+        {
+          "PuzzleType": 14
+        },
+        {
+          "PuzzleType": 4
+        },
+        {
+          "PuzzleType": 2
+        },
+        {
+          "PuzzleType": 14
+        },
+        {
+          "PuzzleType": 2
+        },
+        {
+          "PuzzleType": 4
+        },
+        {
+          "PuzzleType": 14
+        },
+        {
+          "PuzzleType": 4
+        },
+        {
+          "PuzzleType": 2
+        },
+        {
+          "PuzzleType": 14
+        },
+        {
+          "PuzzleType": 2
+        },
+        {
+          "PuzzleType": 4
+        },
+        {
+          "PuzzleType": 14
+        },
+        {
+          "PuzzleType": 4
+        },
+        {
+          "PuzzleType": 2
+        },
+        {
+          "PuzzleType": 14
+        },
+        {
+          "PuzzleType": 2
+        },
+        {
+          "PuzzleType": 4
+        },
+        {
+          "PuzzleType": 14
+        },
+        {
+          "PuzzleType": 14
+        }
+      ],
+      "OnlyShowHUDWhenPlayerIsClose": false,
+      "AlarmSoundStart": 3339129407,
+      "AlarmSoundStop": 42633153,
+      "name": "Mixed Separated Far x10 - Alarm_BullRush",
+      "internalEnabled": true,
+      "persistentID": 249
+    },
+    {
       "PublicAlarmName": "Class X Alarm",
       "TriggerAlarmOnActivate": true,
       "SurvivalWaveSettings": 1,

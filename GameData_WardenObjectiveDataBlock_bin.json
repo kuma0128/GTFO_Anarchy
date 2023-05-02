@@ -35845,8 +35845,8 @@
           "SoundID": 3206896766,
           "SoundSubtitle": 0,
           "DialogueID": 0,
-          "FogSetting": 85,
-          "FogTransitionDuration": 440.0,
+          "FogSetting":222,
+          "FogTransitionDuration": 60.0,
           "EnemyWaveData": {
             "WaveSettings": 0,
             "WavePopulation": 0,

@@ -834,6 +834,11 @@
       ],
       "CustomGeomorphs_Objective_1x1": [
         {
+          "Prefab": "Assets/Custom Geo's/Mining exit/Mining_exit_V1.prefab",
+          "SubComplex": 5,
+          "Shard": 18
+        },
+        {
           "Prefab": "Assets/Prefabs/Geomorph/Mining/geo_storage_FA_dead_end_01.prefab",
           "SubComplex": "Storage",
           "Shard": "S1"

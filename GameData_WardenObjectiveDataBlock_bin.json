@@ -36111,7 +36111,7 @@
     {
       "Type": 5,
       "Header": "Backdoor Command",
-      "MainObjective": "Initiate containment zone purge on terminal [ITEM_SERIAL]. Use the following security command: [SPECIAL_COMMAND]",
+      "MainObjective": "Initiate ventilation on terminal [ITEM_SERIAL]. Use the following security command: [SPECIAL_COMMAND]",
       "WardenObjectiveSpecialUpdateType": 0,
       "GenericItemFromStart": 0,
       "DoNotMarkPickupItemsAsWardenObjectives": false,
@@ -36138,138 +36138,6 @@
       "OnActivateOnSolveItem": false,
       "WavesOnActivate": [],
       "EventsOnActivate": [
-        {
-          "Type": 5,
-          "Condition": {
-            "ConditionIndex": -1,
-            "IsTrue": false
-          },
-          "Trigger": 3,
-          "ChainPuzzle": 124,
-          "UseStaticBioscanPoints": false,
-          "Layer": 0,
-          "DimensionIndex": 0,
-          "LocalIndex": 0,
-          "Delay": 3.0,
-          "Duration": 0.0,
-          "ClearDimension": false,
-          "WardenIntel": 0,
-          "CustomSubObjectiveHeader": 0,
-          "CustomSubObjective": 0,
-          "SoundID": 2134610730,
-          "SoundSubtitle": 0,
-          "DialogueID": 0,
-          "FogSetting": 0,
-          "FogTransitionDuration": 0.0,
-          "EnemyWaveData": {
-            "WaveSettings": 0,
-            "WavePopulation": 0,
-            "AreaDistance": 2,
-            "SpawnDelay": 0.0,
-            "TriggerAlarm": false,
-            "IntelMessage": 0
-          },
-          "EnemyID": 0,
-          "Position": {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0,
-            "magnitude": 0.0,
-            "sqrMagnitude": 0.0
-          },
-          "Count": 0,
-          "Enabled": false,
-          "TerminalCommand": 0,
-          "TerminalCommandRule": 0
-        },
-        {
-          "Type": 0,
-          "Condition": {
-            "ConditionIndex": -1,
-            "IsTrue": false
-          },
-          "Trigger": 0,
-          "ChainPuzzle": 0,
-          "UseStaticBioscanPoints": false,
-          "Layer": 0,
-          "DimensionIndex": 0,
-          "LocalIndex": 0,
-          "Delay": 1080.0,
-          "Duration": 0.0,
-          "ClearDimension": false,
-          "WardenIntel": 0,
-          "CustomSubObjectiveHeader": 0,
-          "CustomSubObjective": 0,
-          "SoundID": 2134610730,
-          "SoundSubtitle": 0,
-          "DialogueID": 0,
-          "FogSetting": 0,
-          "FogTransitionDuration": 0.0,
-          "EnemyWaveData": {
-            "WaveSettings": 0,
-            "WavePopulation": 0,
-            "AreaDistance": 2,
-            "SpawnDelay": 0.0,
-            "TriggerAlarm": false,
-            "IntelMessage": 0
-          },
-          "EnemyID": 0,
-          "Position": {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0,
-            "magnitude": 0.0,
-            "sqrMagnitude": 0.0
-          },
-          "Count": 0,
-          "Enabled": false,
-          "TerminalCommand": 0,
-          "TerminalCommandRule": 0
-        },
-        {
-          "Type": 5,
-          "Condition": {
-            "ConditionIndex": -1,
-            "IsTrue": false
-          },
-          "Trigger": 0,
-          "ChainPuzzle": 0,
-          "UseStaticBioscanPoints": false,
-          "Layer": 0,
-          "DimensionIndex": 0,
-          "LocalIndex": 0,
-          "Delay": 1880.0,
-          "Duration": 0.0,
-          "ClearDimension": false,
-          "WardenIntel": 0,
-          "CustomSubObjectiveHeader": 0,
-          "CustomSubObjective": 0,
-          "SoundID": 1641625378,
-          "SoundSubtitle": 0,
-          "DialogueID": 0,
-          "FogSetting": 0,
-          "FogTransitionDuration": 0.0,
-          "EnemyWaveData": {
-            "WaveSettings": 0,
-            "WavePopulation": 0,
-            "AreaDistance": 2,
-            "SpawnDelay": 0.0,
-            "TriggerAlarm": false,
-            "IntelMessage": 0
-          },
-          "EnemyID": 0,
-          "Position": {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0,
-            "magnitude": 0.0,
-            "sqrMagnitude": 0.0
-          },
-          "Count": 0,
-          "Enabled": false,
-          "TerminalCommand": 0,
-          "TerminalCommandRule": 0
-        }
       ],
       "StopAllWavesBeforeGotoWin": false,
       "WavesOnGotoWin": [
@@ -36291,7 +36159,7 @@
         },
         {
           "WaveSettings": 80,
-          "WavePopulation": 16,
+          "WavePopulation": 31,
           "AreaDistance": 2,
           "SpawnDelay": 600.0,
           "TriggerAlarm": false,
@@ -36299,7 +36167,7 @@
         },
         {
           "WaveSettings": 80,
-          "WavePopulation": 16,
+          "WavePopulation": 31,
           "AreaDistance": 2,
           "SpawnDelay": 1400.0,
           "TriggerAlarm": false,
@@ -36308,50 +36176,6 @@
       ],
       "WaveOnGotoWinTrigger": 0,
       "EventsOnGotoWin": [
-        {
-          "Type": 2,
-          "Condition": {
-            "ConditionIndex": -1,
-            "IsTrue": false
-          },
-          "Trigger": 3,
-          "ChainPuzzle": 0,
-          "UseStaticBioscanPoints": false,
-          "Layer": 2,
-          "DimensionIndex": 0,
-          "LocalIndex": 1,
-          "Delay": 0.0,
-          "Duration": 0.0,
-          "ClearDimension": false,
-          "WardenIntel": 0,
-          "CustomSubObjectiveHeader": 0,
-          "CustomSubObjective": 0,
-          "SoundID": 0,
-          "SoundSubtitle": 0,
-          "DialogueID": 0,
-          "FogSetting": 0,
-          "FogTransitionDuration": 0.0,
-          "EnemyWaveData": {
-            "WaveSettings": 0,
-            "WavePopulation": 0,
-            "AreaDistance": 2,
-            "SpawnDelay": 0.0,
-            "TriggerAlarm": false,
-            "IntelMessage": 0
-          },
-          "EnemyID": 0,
-          "Position": {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0,
-            "magnitude": 0.0,
-            "sqrMagnitude": 0.0
-          },
-          "Count": 0,
-          "Enabled": false,
-          "TerminalCommand": 0,
-          "TerminalCommandRule": 0
-        }
       ],
       "EventsOnGotoWinTrigger": 0,
       "FogTransitionDataOnGotoWin": 0,
@@ -36370,10 +36194,10 @@
       "LightsOnDuringIntro": false,
       "LightsOnWhenStartupComplete": false,
       "DoNotSolveObjectiveOnReactorComplete": false,
-      "SpecialTerminalCommand": "SCP_ZONE_PURGE",
-      "SpecialTerminalCommandDesc": "Initiate purge of connecting drainage areas.",
+      "SpecialTerminalCommand": "Init_ventilation_sequence",
+      "SpecialTerminalCommandDesc": "Initiate ventilation areas.",
       "PostCommandOutput": [
-        "PURGE initiated... Hold for program completion... WARNING large biomorphs in drainage system detected.. "
+        "WARNING fog rising system detected.. "
       ],
       "SpecialCommandRule": 1,
       "PowerCellsToDistribute": 0,
@@ -36411,7 +36235,7 @@
       "TimedTerminalSequence_EventsOnSequenceStart": [],
       "TimedTerminalSequence_EventsOnSequenceDone": [],
       "TimedTerminalSequence_EventsOnSequenceFail": [],
-      "name": "SpecialTerminalCommand_R6_C3",
+      "name": "SpecialTerminalCommand_ana_D3_ov",
       "internalEnabled": true,
       "persistentID": 115
     },
@@ -40020,7 +39844,7 @@
     {
       "Type": 5,
       "Header": "Backdoor Command",
-      "MainObjective": "Initiate containment zone purge on terminal [ITEM_SERIAL]. Use the following security command: [SPECIAL_COMMAND]",
+      "MainObjective": "Initiate escape protocol on terminal [ITEM_SERIAL]. Use the following security command: [SPECIAL_COMMAND]",
       "WardenObjectiveSpecialUpdateType": 0,
       "GenericItemFromStart": 0,
       "DoNotMarkPickupItemsAsWardenObjectives": false,
@@ -40047,225 +39871,17 @@
       "OnActivateOnSolveItem": false,
       "WavesOnActivate": [],
       "EventsOnActivate": [
-        {
-          "Type": 5,
-          "Condition": {
-            "ConditionIndex": -1,
-            "IsTrue": false
-          },
-          "Trigger": 3,
-          "ChainPuzzle": 124,
-          "UseStaticBioscanPoints": false,
-          "Layer": 0,
-          "DimensionIndex": 0,
-          "LocalIndex": 0,
-          "Delay": 3.0,
-          "Duration": 0.0,
-          "ClearDimension": false,
-          "WardenIntel": 0,
-          "CustomSubObjectiveHeader": 0,
-          "CustomSubObjective": 0,
-          "SoundID": 2134610730,
-          "SoundSubtitle": 0,
-          "DialogueID": 0,
-          "FogSetting": 0,
-          "FogTransitionDuration": 0.0,
-          "EnemyWaveData": {
-            "WaveSettings": 0,
-            "WavePopulation": 0,
-            "AreaDistance": 2,
-            "SpawnDelay": 0.0,
-            "TriggerAlarm": false,
-            "IntelMessage": 0
-          },
-          "EnemyID": 0,
-          "Position": {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0,
-            "magnitude": 0.0,
-            "sqrMagnitude": 0.0
-          },
-          "Count": 0,
-          "Enabled": false,
-          "TerminalCommand": 0,
-          "TerminalCommandRule": 0
-        },
-        {
-          "Type": 0,
-          "Condition": {
-            "ConditionIndex": -1,
-            "IsTrue": false
-          },
-          "Trigger": 0,
-          "ChainPuzzle": 0,
-          "UseStaticBioscanPoints": false,
-          "Layer": 0,
-          "DimensionIndex": 0,
-          "LocalIndex": 0,
-          "Delay": 1080.0,
-          "Duration": 0.0,
-          "ClearDimension": false,
-          "WardenIntel": 0,
-          "CustomSubObjectiveHeader": 0,
-          "CustomSubObjective": 0,
-          "SoundID": 2134610730,
-          "SoundSubtitle": 0,
-          "DialogueID": 0,
-          "FogSetting": 0,
-          "FogTransitionDuration": 0.0,
-          "EnemyWaveData": {
-            "WaveSettings": 0,
-            "WavePopulation": 0,
-            "AreaDistance": 2,
-            "SpawnDelay": 0.0,
-            "TriggerAlarm": false,
-            "IntelMessage": 0
-          },
-          "EnemyID": 0,
-          "Position": {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0,
-            "magnitude": 0.0,
-            "sqrMagnitude": 0.0
-          },
-          "Count": 0,
-          "Enabled": false,
-          "TerminalCommand": 0,
-          "TerminalCommandRule": 0
-        },
-        {
-          "Type": 5,
-          "Condition": {
-            "ConditionIndex": -1,
-            "IsTrue": false
-          },
-          "Trigger": 0,
-          "ChainPuzzle": 0,
-          "UseStaticBioscanPoints": false,
-          "Layer": 0,
-          "DimensionIndex": 0,
-          "LocalIndex": 0,
-          "Delay": 1880.0,
-          "Duration": 0.0,
-          "ClearDimension": false,
-          "WardenIntel": 0,
-          "CustomSubObjectiveHeader": 0,
-          "CustomSubObjective": 0,
-          "SoundID": 1641625378,
-          "SoundSubtitle": 0,
-          "DialogueID": 0,
-          "FogSetting": 0,
-          "FogTransitionDuration": 0.0,
-          "EnemyWaveData": {
-            "WaveSettings": 0,
-            "WavePopulation": 0,
-            "AreaDistance": 2,
-            "SpawnDelay": 0.0,
-            "TriggerAlarm": false,
-            "IntelMessage": 0
-          },
-          "EnemyID": 0,
-          "Position": {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0,
-            "magnitude": 0.0,
-            "sqrMagnitude": 0.0
-          },
-          "Count": 0,
-          "Enabled": false,
-          "TerminalCommand": 0,
-          "TerminalCommandRule": 0
-        }
       ],
       "StopAllWavesBeforeGotoWin": false,
       "WavesOnGotoWin": [
-        {
-          "WaveSettings": 96,
-          "WavePopulation": 28,
-          "AreaDistance": 2,
-          "SpawnDelay": 180.0,
-          "TriggerAlarm": false,
-          "IntelMessage": 0
-        },
-        {
-          "WaveSettings": 97,
-          "WavePopulation": 20,
-          "AreaDistance": 2,
-          "SpawnDelay": 180.0,
-          "TriggerAlarm": false,
-          "IntelMessage": 0
-        },
-        {
-          "WaveSettings": 80,
-          "WavePopulation": 16,
-          "AreaDistance": 2,
-          "SpawnDelay": 600.0,
-          "TriggerAlarm": false,
-          "IntelMessage": 0
-        },
-        {
-          "WaveSettings": 80,
-          "WavePopulation": 16,
-          "AreaDistance": 2,
-          "SpawnDelay": 1400.0,
-          "TriggerAlarm": false,
-          "IntelMessage": 0
-        }
       ],
       "WaveOnGotoWinTrigger": 0,
       "EventsOnGotoWin": [
-        {
-          "Type": 2,
-          "Condition": {
-            "ConditionIndex": -1,
-            "IsTrue": false
-          },
-          "Trigger": 3,
-          "ChainPuzzle": 0,
-          "UseStaticBioscanPoints": false,
-          "Layer": 2,
-          "DimensionIndex": 0,
-          "LocalIndex": 1,
-          "Delay": 0.0,
-          "Duration": 0.0,
-          "ClearDimension": false,
-          "WardenIntel": 0,
-          "CustomSubObjectiveHeader": 0,
-          "CustomSubObjective": 0,
-          "SoundID": 0,
-          "SoundSubtitle": 0,
-          "DialogueID": 0,
-          "FogSetting": 0,
-          "FogTransitionDuration": 0.0,
-          "EnemyWaveData": {
-            "WaveSettings": 0,
-            "WavePopulation": 0,
-            "AreaDistance": 2,
-            "SpawnDelay": 0.0,
-            "TriggerAlarm": false,
-            "IntelMessage": 0
-          },
-          "EnemyID": 0,
-          "Position": {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0,
-            "magnitude": 0.0,
-            "sqrMagnitude": 0.0
-          },
-          "Count": 0,
-          "Enabled": false,
-          "TerminalCommand": 0,
-          "TerminalCommandRule": 0
-        }
       ],
       "EventsOnGotoWinTrigger": 0,
       "FogTransitionDataOnGotoWin": 0,
       "FogTransitionDurationOnGotoWin": 0.0,
-      "ChainedPuzzleToActive": 124,
+      "ChainedPuzzleToActive": 0,
       "ChainedPuzzleMidObjective": 0,
       "ChainedPuzzleAtExit": 11,
       "ChainedPuzzleAtExitScanSpeedMultiplier": 1.0,
@@ -40279,10 +39895,10 @@
       "LightsOnDuringIntro": false,
       "LightsOnWhenStartupComplete": false,
       "DoNotSolveObjectiveOnReactorComplete": false,
-      "SpecialTerminalCommand": "SCP_ZONE_PURGE",
-      "SpecialTerminalCommandDesc": "Initiate purge of connecting drainage areas.",
+      "SpecialTerminalCommand": "EMERGENCY_ESCAPE_PROTOCOL",
+      "SpecialTerminalCommandDesc": "%4K>ddti)d0-0",
       "PostCommandOutput": [
-        "PURGE initiated... Hold for program completion... WARNING large biomorphs in drainage system detected.. "
+        "Hold for program completion... WARNING large biomorphs in drainage system detected.. "
       ],
       "SpecialCommandRule": 1,
       "PowerCellsToDistribute": 0,

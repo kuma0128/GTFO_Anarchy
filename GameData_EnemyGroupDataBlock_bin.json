@@ -1033,10 +1033,10 @@
     },
     {
       "Type": 2,
-      "Difficulty": 3,
+      "Difficulty": 6,
       "SpawnPlacementType": 0,
       "MaxScore": 4.0,
-      "ScoreInAreaPaddingMulti": 1.0,
+      "ScoreInAreaPaddingMulti": 3.0,
       "RelativeWeight": 1.0,
       "Roles": [
         {
@@ -1044,9 +1044,9 @@
           "Distribution": 5
         }
       ],
-      "name": "Detect Lurker Miniboss ",
-      "internalEnabled": false,
-      "persistentID": 53
+      "name": "Striker Berserks",
+      "internalEnabled": true,
+      "persistentID": 80
     },
     {
       "Type": 2,

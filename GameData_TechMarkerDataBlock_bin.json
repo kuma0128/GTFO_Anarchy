@@ -41,6 +41,7 @@
           [],
           [],
           [],
+          [],
           []
         ],
         "Compositions": [
@@ -71,6 +72,7 @@
     {
       "CommonData": {
         "FunctionComponentLinks": [
+          [],
           [],
           [],
           [],
@@ -141,6 +143,7 @@
           [],
           [],
           [],
+          [],
           []
         ],
         "Compositions": [
@@ -165,6 +168,7 @@
     {
       "CommonData": {
         "FunctionComponentLinks": [
+          [],
           [],
           [],
           [],
@@ -266,7 +270,8 @@
           [],
           [
             7
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -386,6 +391,7 @@
           [],
           [],
           [],
+          [],
           []
         ],
         "Compositions": [
@@ -455,6 +461,7 @@
           [
             4
           ],
+          [],
           [],
           [],
           [],
@@ -541,6 +548,7 @@
           [
             10
           ],
+          [],
           [],
           [],
           [],
@@ -654,6 +662,7 @@
           [],
           [],
           [],
+          [],
           []
         ],
         "Compositions": [
@@ -690,6 +699,7 @@
           [
             0
           ],
+          [],
           [],
           [],
           [],
@@ -753,6 +763,7 @@
           [],
           [],
           [],
+          [],
           []
         ],
         "Compositions": [
@@ -783,6 +794,7 @@
     {
       "CommonData": {
         "FunctionComponentLinks": [
+          [],
           [],
           [],
           [],
@@ -877,6 +889,7 @@
           [],
           [],
           [],
+          [],
           []
         ],
         "Compositions": [
@@ -959,6 +972,7 @@
           [],
           [],
           [],
+          [],
           []
         ],
         "Compositions": [
@@ -1011,6 +1025,7 @@
           [],
           [],
           [],
+          [],
           []
         ],
         "Compositions": [
@@ -1046,6 +1061,7 @@
           [
             0
           ],
+          [],
           [],
           [],
           [],
@@ -1128,7 +1144,8 @@
           [],
           [
             12
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -1257,7 +1274,8 @@
           [],
           [
             4
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -1340,7 +1358,8 @@
           [],
           [
             5
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -1576,7 +1595,8 @@
             10,
             11,
             12
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -1676,6 +1696,59 @@
           [],
           [],
           [],
+          [],
+          [],
+          [],
+          [],
+          [],
+          [
+            0
+          ],
+          [],
+          [],
+          [],
+          [],
+          [],
+          [],
+          [],
+          [],
+          [],
+          [],
+          [],
+          [],
+          []
+        ],
+        "Compositions": [
+          {
+            "weight": 1.0,
+            "prefab": "Assets/AssetPrefabs/Complex/Generic/FunctionMarkers/Pickup_Item.prefab",
+            "function": 8,
+            "Shard": 19
+          },
+          {
+            "weight": 1.0,
+            "function": 0,
+            "Shard": 19
+          }
+        ],
+        "AssetBundleName": 3,
+        "Group": 9,
+        "FunctionPotential": 1.0,
+        "RotationSnap": 0,
+        "RotationNoise": 11.0,
+        "EditorMesh": "Markerproducers/Mining/SM_mining_submarker_60x30x60",
+        "BoundingVolume": 108.0
+      },
+      "name": "DataCenter_function_pickup_60x60x30",
+      "internalEnabled": true,
+      "persistentID": 79
+    },
+    {
+      "CommonData": {
+        "FunctionComponentLinks": [
+          [],
+          [],
+          [],
           [
             5,
             1,
@@ -1768,7 +1841,8 @@
             4,
             5,
             6
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -1964,7 +2038,8 @@
             5,
             6,
             7
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -2139,7 +2214,8 @@
             2,
             3,
             4
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -2301,7 +2377,8 @@
             3,
             4,
             5
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -2463,7 +2540,8 @@
             1,
             3,
             5
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -2584,7 +2662,8 @@
           [
             1,
             0
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -2692,6 +2771,7 @@
           [
             5
           ],
+          [],
           [],
           [],
           [],
@@ -2820,6 +2900,7 @@
             1,
             2
           ],
+          [],
           [],
           [],
           [],
@@ -2989,7 +3070,8 @@
             3,
             4,
             6
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -3070,6 +3152,7 @@
           [],
           [],
           [],
+          [],
           []
         ],
         "Compositions": [
@@ -3124,6 +3207,7 @@
     {
       "CommonData": {
         "FunctionComponentLinks": [
+          [],
           [],
           [],
           [],
@@ -3224,6 +3308,7 @@
           [],
           [],
           [],
+          [],
           []
         ],
         "Compositions": [
@@ -3284,6 +3369,7 @@
     {
       "CommonData": {
         "FunctionComponentLinks": [
+          [],
           [],
           [],
           [],
@@ -3366,6 +3452,7 @@
           [
             6
           ],
+          [],
           [],
           [],
           [],
@@ -3454,6 +3541,7 @@
     {
       "CommonData": {
         "FunctionComponentLinks": [
+          [],
           [],
           [],
           [],
@@ -3630,7 +3718,8 @@
             6,
             3,
             4
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -3709,6 +3798,7 @@
     {
       "CommonData": {
         "FunctionComponentLinks": [
+          [],
           [],
           [],
           [],
@@ -3841,7 +3931,8 @@
           [],
           [
             7
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -3980,7 +4071,8 @@
           [],
           [
             6
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -4116,7 +4208,8 @@
           [],
           [
             0
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -4181,6 +4274,7 @@
           [
             4
           ],
+          [],
           [],
           [],
           [],
@@ -4344,6 +4438,7 @@
           [],
           [],
           [],
+          [],
           []
         ],
         "Compositions": [
@@ -4435,6 +4530,7 @@
           [
             6
           ],
+          [],
           [],
           [],
           [],
@@ -4556,7 +4652,8 @@
           [],
           [
             1
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -4642,7 +4739,8 @@
             2,
             1,
             0
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -4722,6 +4820,7 @@
             2,
             4
           ],
+          [],
           [],
           [],
           [],
@@ -4896,7 +4995,8 @@
             5,
             6,
             7
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -5058,7 +5158,8 @@
             3,
             4,
             5
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -5109,6 +5210,96 @@
       "name": "Lab_large_open_2600x2000x800",
       "internalEnabled": true,
       "persistentID": 59
+    },
+    {
+      "CommonData": {
+        "FunctionComponentLinks": [
+          [],
+          [],
+          [],
+          [
+            0
+          ],
+          [],
+          [],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          [],
+          [],
+          [],
+          [
+            0
+          ],
+          [
+            0
+          ],
+          []
+        ],
+        "Compositions": [
+          {
+            "weight": 1.0,
+            "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_large_open_2600x2000x800/Lab_large_open_2600x2000x800_V06.prefab",
+            "function": 19,
+            "Shard": 6
+          }
+        ],
+        "AssetBundleName": 3,
+        "Group": 11,
+        "FunctionPotential": 6.0,
+        "RotationSnap": 180,
+        "RotationNoise": 0.0,
+        "EditorMesh": "Markerproducers/Tech/M_Lab_large_open_2600x2000x800",
+        "BoundingVolume": 4160000.0
+      },
+      "name": "Lab_large_open_2600x2000x800_GC",
+      "internalEnabled": true,
+      "persistentID": 78
+    },
+    {
+      "CommonData": {
+        "Compositions": [
+          {
+            "weight": 1.0,
+            "prefab": "Assets/AssetPrefabs/Complex/Tech/Markers/MarkerCompositions/Lab_large_open_2600x2000x800/Lab_Custom_GC_V01.prefab",
+            "function": 19,
+            "Shard": 6
+          }
+        ],
+        "AssetBundleName": 3,
+        "Group": 11,
+        "FunctionPotential": 6.0,
+        "RotationSnap": 0,
+        "RotationNoise": 0.0,
+        "EditorMesh": "",
+        "BoundingVolume": 0.0
+      },
+      "name": "Lab_Custom_GC",
+      "internalEnabled": true,
+      "persistentID": 80
     },
     {
       "CommonData": {
@@ -5208,7 +5399,8 @@
             4,
             5,
             0
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -5381,7 +5573,8 @@
             6,
             7,
             8
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -5483,6 +5676,7 @@
           [
             6
           ],
+          [],
           [],
           [],
           [],
@@ -5623,7 +5817,8 @@
             6,
             0,
             1
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -5721,6 +5916,7 @@
           [],
           [],
           [],
+          [],
           []
         ],
         "Compositions": [
@@ -5790,7 +5986,8 @@
           [],
           [
             6
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -5851,6 +6048,7 @@
     {
       "CommonData": {
         "FunctionComponentLinks": [
+          [],
           [],
           [],
           [],
@@ -5951,6 +6149,7 @@
           [],
           [],
           [],
+          [],
           []
         ],
         "Compositions": [
@@ -6028,6 +6227,7 @@
           [],
           [],
           [],
+          [],
           []
         ],
         "Compositions": [
@@ -6088,6 +6288,7 @@
           [
             13
           ],
+          [],
           [],
           [],
           [],
@@ -6243,6 +6444,7 @@
           [],
           [],
           [],
+          [],
           []
         ],
         "Compositions": [
@@ -6390,7 +6592,8 @@
             3,
             4,
             8
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -6474,6 +6677,7 @@
     {
       "CommonData": {
         "FunctionComponentLinks": [
+          [],
           [],
           [],
           [],
@@ -6682,7 +6886,8 @@
             4,
             5,
             6
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -6824,7 +7029,8 @@
             6,
             7,
             8
-          ]
+          ],
+          []
         ],
         "Compositions": [
           {
@@ -6906,5 +7112,5 @@
       "persistentID": 58
     }
   ],
-  "LastPersistentID": 77
+  "LastPersistentID": 80
 }

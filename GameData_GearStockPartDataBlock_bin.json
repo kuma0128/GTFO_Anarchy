@@ -259,12 +259,10 @@
     {
       "General": {
         "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Stocks/Stock_Revolver_1.prefab",
-        "Children": [
-          "Assets/AssetPrefabs/Items/Gear/Parts/Stocks/Stock_Revolver_1_GripAlign.prefab"
-        ],
+        "Children": [],
         "GearCategoryFilter": 0,
         "LeftHandGripAnim": "Front_Revolver_1",
-        "RightHandGripAnim": "Short_Shotgun_2_Player_Idle",
+        "RightHandGripAnim": "Front_Revolver_1",
         "AssetBundle": 40,
         "BundleShard": 2
       },
@@ -278,7 +276,17 @@
           "AlignName": "LeftHand"
         }
       ],
-      "FireSequence": [],
+      "FireSequence": [
+        {
+          "TriggerTime": 0.0,
+          "Type": 8,
+          "StringData": "Stock_Revolver_1_fire"
+        },
+        {
+          "TriggerTime": 0.2,
+          "Type": 7
+        }
+      ],
       "ReloadSequence": [],
       "name": "Stock_Revolver_1",
       "internalEnabled": true,
@@ -587,6 +595,110 @@
     },
     {
       "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Stocks/Stock_Pistol_2.prefab",
+        "Children": [],
+        "GearCategoryFilter": 0,
+        "LeftHandGripAnim": "Stock_Pistol_1",
+        "RightHandGripAnim": "Stock_Pistol_1",
+        "AssetBundle": 40,
+        "BundleShard": 6
+      },
+      "Aligns": [
+        {
+          "AlignType": 8,
+          "AlignName": "RightHand"
+        },
+        {
+          "AlignType": 2,
+          "AlignName": "a_mag"
+        },
+        {
+          "AlignType": 7,
+          "AlignName": "LeftHand"
+        }
+      ],
+      "FireSequence": [],
+      "ReloadSequence": [
+        {
+          "TriggerTime": 0.0,
+          "Type": 0,
+          "StringData": "PistolReload_Stock_Pistol_1_anim"
+        },
+        {
+          "TriggerTime": 0.0,
+          "Type": 8,
+          "StringData": "Stock_Pistol_1_reload"
+        },
+        {
+          "TriggerTime": 0.0,
+          "Type": 2,
+          "StringData": "Stock_Pistol_1_reload"
+        },
+        {
+          "TriggerTime": 0.0,
+          "Type": 9,
+          "StringData": "Stock_Pistol_1_reload"
+        },
+        {
+          "TriggerTime": 0.0,
+          "Type": 5,
+          "StringData": "generic_reload_foley_quick"
+        },
+        {
+          "TriggerTime": 0.1,
+          "Type": 5,
+          "StringData": "pistol_reload_1_mag_out"
+        },
+        {
+          "TriggerTime": 0.3,
+          "Type": 5,
+          "StringData": "pistol_reload_3_grab_mag"
+        },
+        {
+          "TriggerTime": 0.3,
+          "Type": 10,
+          "StringData": "drop"
+        },
+        {
+          "TriggerTime": 0.5,
+          "Type": 5,
+          "StringData": "generic_reload_foley_quick"
+        },
+        {
+          "TriggerTime": 0.6,
+          "Type": 10,
+          "StringData": "show"
+        },
+        {
+          "TriggerTime": 1.2,
+          "Type": 5,
+          "StringData": "pistol_reload_2_mag_in"
+        },
+        {
+          "TriggerTime": 1.35,
+          "Type": 5,
+          "StringData": "pistol_reload_4_pat_mag"
+        },
+        {
+          "TriggerTime": 1.35,
+          "Type": 6
+        },
+        {
+          "TriggerTime": 1.4,
+          "Type": 5,
+          "StringData": "generic_reload_grab_heavy_weapon_soft"
+        },
+        {
+          "TriggerTime": 2.0,
+          "Type": 7
+        }
+      ],
+      "name": "Stock_Pistol_2",
+      "internalEnabled": true,
+      "persistentID": 22
+    },
+    {
+      "General": {
         "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Stocks/Stock_UZI_2.prefab",
         "Children": [
           "Assets/AssetPrefabs/Items/Gear/Parts/Stocks/Stock_UZI_2_GripAlign.fbx"
@@ -675,5 +787,5 @@
       "persistentID": 4
     }
   ],
-  "LastPersistentID": 21
+  "LastPersistentID": 22
 }

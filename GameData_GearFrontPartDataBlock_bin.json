@@ -1005,11 +1005,6 @@
         },
         {
           "TriggerTime": 0.0,
-          "Type": 9,
-          "StringData": "Front_Rifle_3_reload_animation"
-        },
-        {
-          "TriggerTime": 0.0,
           "Type": 5,
           "StringData": "CARBINE_RELOAD_3_FOLEY"
         },
@@ -1019,16 +1014,26 @@
           "StringData": "CARBINE_RELOAD_1_MAG_OUT"
         },
         {
-          "TriggerTime": 0.8,
+          "TriggerTime": 0.7,
+          "Type": 10,
+          "StringData": "drop"
+        },
+        {
+          "TriggerTime": 1.0,
+          "Type": 10,
+          "StringData": "show"
+        },
+        {
+          "TriggerTime": 1.66,
           "Type": 5,
           "StringData": "CARBINE_RELOAD_2_MAG_IN"
         },
         {
-          "TriggerTime": 0.85,
+          "TriggerTime": 2.0,
           "Type": 6
         },
         {
-          "TriggerTime": 2.0,
+          "TriggerTime": 2.7,
           "Type": 7
         }
       ],
@@ -1128,7 +1133,7 @@
         "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Fronts/Front_MachineGun_1.prefab",
         "Children": [],
         "GearCategoryFilter": 0,
-        "LeftHandGripAnim": "Front_MachineGun_1",
+        "LeftHandGripAnim": "Machinegun_1_idle",
         "AssetBundle": 20,
         "BundleShard": 14
       },
@@ -1143,7 +1148,7 @@
         },
         {
           "AlignType": 2,
-          "AlignName": "a_Mag"
+          "AlignName": "rig:a_Mag"
         },
         {
           "AlignType": 5,
@@ -1158,7 +1163,7 @@
         {
           "TriggerTime": 0.0,
           "Type": 1,
-          "StringData": "Front_Rifle_fire"
+          "StringData": "Machinegun_1_fire"
         },
         {
           "TriggerTime": 0.0,
@@ -1173,17 +1178,17 @@
         {
           "TriggerTime": 0.0,
           "Type": 0,
-          "StringData": "MachineGunReload_Front_Machinegun_1_anim"
+          "StringData": "Machinegun_1_reload"
         },
         {
           "TriggerTime": 0.0,
           "Type": 2,
-          "StringData": "Front_MachineGun_1_reload"
+          "StringData": "Machinegun_1_reload"
         },
         {
           "TriggerTime": 0.0,
           "Type": 1,
-          "StringData": "Front_Rifle_Reload"
+          "StringData": "Machinegun_1_reload"
         },
         {
           "TriggerTime": 0.0,
@@ -1196,9 +1201,9 @@
           "StringData": "cannon_reload_mag_out"
         },
         {
-          "TriggerTime": 0.7,
-          "Type": 5,
-          "StringData": "cannon_reload_grab_mag"
+          "TriggerTime": 0.6,
+          "Type": 10,
+          "StringData": "drop"
         },
         {
           "TriggerTime": 0.8,
@@ -1206,26 +1211,36 @@
           "StringData": "generic_reload_foley_quick"
         },
         {
-          "TriggerTime": 1.0,
+          "TriggerTime": 0.95,
+          "Type": 5,
+          "StringData": "cannon_reload_grab_mag"
+        },
+        {
+          "TriggerTime": 0.96,
+          "Type": 10,
+          "StringData": "show"
+        },
+        {
+          "TriggerTime": 1.7,
           "Type": 5,
           "StringData": "cannon_reload_mag_in"
         },
         {
-          "TriggerTime": 1.05,
+          "TriggerTime": 1.81,
           "Type": 6
         },
         {
-          "TriggerTime": 1.35,
+          "TriggerTime": 2.15,
           "Type": 5,
           "StringData": "generic_reload_grab_heavy_weapon"
         },
         {
-          "TriggerTime": 1.4,
+          "TriggerTime": 2.3,
           "Type": 5,
           "StringData": "cannon_reload_foley_move"
         },
         {
-          "TriggerTime": 2.0,
+          "TriggerTime": 2.66,
           "Type": 7
         }
       ],
@@ -1457,26 +1472,26 @@
           "StringData": "generic_reload_foley_quick"
         },
         {
-          "TriggerTime": 1.7,
+          "TriggerTime": 1.95,
           "Type": 5,
           "StringData": "carbine_mag_bump"
         },
         {
-          "TriggerTime": 2.0,
+          "TriggerTime": 2.4,
           "Type": 5,
           "StringData": "cannon_reload_mag_in"
         },
         {
-          "TriggerTime": 2.0,
+          "TriggerTime": 2.4,
           "Type": 6
         },
         {
-          "TriggerTime": 2.2,
+          "TriggerTime": 2.6,
           "Type": 5,
           "StringData": "cannon_reload_foley_move"
         },
         {
-          "TriggerTime": 2.6,
+          "TriggerTime": 2.7,
           "Type": 5,
           "StringData": "generic_reload_grab_heavy_weapon"
         },
@@ -1879,7 +1894,7 @@
         "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Fronts/Front_Shotgun_2.prefab",
         "Children": [],
         "GearCategoryFilter": 0,
-        "LeftHandGripAnim": "Front_Shotgun_1",
+        "LeftHandGripAnim": "Shotgun_front_2_idle",
         "AssetBundle": 20,
         "BundleShard": 19
       },
@@ -1909,13 +1924,32 @@
         {
           "TriggerTime": 0.0,
           "Type": 11
+        },
+        {
+          "TriggerTime": 0.0,
+          "Type": 1,
+          "StringData": "Shotgun_front_2_fire"
+        },
+        {
+          "TriggerTime": 0.1,
+          "Type": 7
         }
       ],
       "ReloadSequence": [
         {
           "TriggerTime": 0.0,
           "Type": 0,
-          "StringData": "ShotgunReload_bump"
+          "StringData": "Shotgun_front_2_reloadPump"
+        },
+        {
+          "TriggerTime": 0.0,
+          "Type": 2,
+          "StringData": "Shotgun_front_2_reloadPump"
+        },
+        {
+          "TriggerTime": 0.0,
+          "Type": 1,
+          "StringData": "Shotgun_front_2_reloadPump"
         },
         {
           "TriggerTime": 0.0,
@@ -1923,9 +1957,9 @@
           "StringData": "carbine_reload_3_foley"
         },
         {
-          "TriggerTime": 0.0,
-          "Type": 1,
-          "StringData": "Front_Rifle_Reload"
+          "TriggerTime": 0.4,
+          "Type": 5,
+          "StringData": "generic_reload_foley_quick_soft"
         },
         {
           "TriggerTime": 0.95,
@@ -1933,16 +1967,16 @@
           "StringData": "shotgun_reload_1_shell_in"
         },
         {
-          "TriggerTime": 1.0,
+          "TriggerTime": 1.1,
           "Type": 6
         },
         {
-          "TriggerTime": 1.5,
+          "TriggerTime": 2.0,
           "Type": 5,
           "StringData": "shotgun_reload_2_cock"
         },
         {
-          "TriggerTime": 2.0,
+          "TriggerTime": 2.5,
           "Type": 7
         }
       ],
@@ -2150,21 +2184,21 @@
           "StringData": "carbine_reload_3_foley"
         },
         {
-          "TriggerTime": 0.85,
+          "TriggerTime": 1.1,
           "Type": 6
         },
         {
-          "TriggerTime": 0.8,
+          "TriggerTime": 1.1,
           "Type": 5,
           "StringData": "carbine_reload_3_grab_mag "
         },
         {
-          "TriggerTime": 0.8,
+          "TriggerTime": 1.2,
           "Type": 10,
           "StringData": "show"
         },
         {
-          "TriggerTime": 1.3,
+          "TriggerTime": 1.4,
           "Type": 5,
           "StringData": "carbine_reload_2_mag_in"
         },
@@ -2253,7 +2287,7 @@
           "StringData": "CARBINE_RELOAD_1_MAG_OUT"
         },
         {
-          "TriggerTime": 0.7,
+          "TriggerTime": 0.5,
           "Type": 10,
           "StringData": "drop"
         },
@@ -2268,7 +2302,7 @@
           "StringData": "carbine_reload_3_grab_mag"
         },
         {
-          "TriggerTime": 0.0,
+          "TriggerTime": 0.9,
           "Type": 10,
           "StringData": "show"
         },
@@ -2601,7 +2635,12 @@
         {
           "TriggerTime": 0.0,
           "Type": 0,
-          "StringData": "RevolverReload_Revolver_1_anim"
+          "StringData": "Revolver_Front_1_Reload"
+        },
+        {
+          "TriggerTime": 0.0,
+          "Type": 4,
+          "StringData": "Front_Revolver_1_reload"
         },
         {
           "TriggerTime": 0.0,
@@ -2611,11 +2650,6 @@
         {
           "TriggerTime": 0.0,
           "Type": 2,
-          "StringData": "Front_Revolver_1_reload"
-        },
-        {
-          "TriggerTime": 0.0,
-          "Type": 4,
           "StringData": "Front_Revolver_1_reload"
         },
         {
@@ -2778,21 +2812,21 @@
           "StringData": "revolver_reload_foley"
         },
         {
-          "TriggerTime": 0.85,
+          "TriggerTime": 1.1,
           "Type": 6
         },
         {
-          "TriggerTime": 1.1,
+          "TriggerTime": 1.2,
           "Type": 5,
           "StringData": "revolver_mag_in"
         },
         {
-          "TriggerTime": 1.4,
+          "TriggerTime": 1.5,
           "Type": 5,
           "StringData": "generic_reload_foley_subtle"
         },
         {
-          "TriggerTime": 1.6,
+          "TriggerTime": 1.65,
           "Type": 5,
           "StringData": "revolver_close"
         },
@@ -2994,12 +3028,12 @@
           "StringData": "generic_reload_foley_quick_soft"
         },
         {
-          "TriggerTime": 1.6,
+          "TriggerTime": 1.7,
           "Type": 5,
           "StringData": "generic_reload_foley_quick"
         },
         {
-          "TriggerTime": 1.7,
+          "TriggerTime": 2.0,
           "Type": 5,
           "StringData": "shotgun_reload_break_close"
         },

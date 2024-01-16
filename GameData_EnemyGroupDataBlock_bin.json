@@ -896,6 +896,57 @@
       "persistentID": 54
     },
     {
+      "Type": 3,
+      "Difficulty": 5,
+      "SpawnPlacementType": 0,
+      "MaxScore": 6.0,
+      "ScoreInAreaPaddingMulti": 3.0,
+      "RelativeWeight": 1.0,
+      "Roles": [
+        {
+          "Role": 5,
+          "Distribution": 5
+        }
+      ],
+      "name": "Pure Detect MegaBoss Scout R8B1",
+      "internalEnabled": true,
+      "persistentID": 82
+    },
+    {
+      "Type": 3,
+      "Difficulty": 6,
+      "SpawnPlacementType": 0,
+      "MaxScore": 6.0,
+      "ScoreInAreaPaddingMulti": 10.0,
+      "RelativeWeight": 1.0,
+      "Roles": [
+        {
+          "Role": 5,
+          "Distribution": 5
+        }
+      ],
+      "name": "Pure Detect Biss Nightmare Scout",
+      "internalEnabled": true,
+      "persistentID": 83
+    },
+    {
+      "Type": 3,
+      "Difficulty": 7,
+      "SpawnPlacementType": 2,
+      "MaxScore": 6.0,
+      "ScoreInAreaPaddingMulti": 10.0,
+      "RelativeWeight": 1.0,
+      "Roles": [
+        {
+          "Role": 5,
+          "Distribution": 5
+        }
+      ],
+      "name": "Pure Detect Buss Nightmare Scout",
+      "internalEnabled": true,
+      "persistentID": 85
+    },
+    {
       "Type": 2,
       "Difficulty": 0,
       "SpawnPlacementType": 0,
@@ -1127,6 +1178,23 @@
       "name": "Hunter Boss Tank",
       "internalEnabled": true,
       "persistentID": 46
+    },
+    {
+      "Type": 6,
+      "Difficulty": 5,
+      "SpawnPlacementType": 2,
+      "MaxScore": 10.0,
+      "ScoreInAreaPaddingMulti": 1.0,
+      "RelativeWeight": 1.0,
+      "Roles": [
+        {
+          "Role": 0,
+          "Distribution": 5
+        }
+      ],
+      "name": "Hunter Boss Tank_R4C3_L3",
+      "internalEnabled": true,
+      "persistentID": 79
     },
     {
       "Type": 6,

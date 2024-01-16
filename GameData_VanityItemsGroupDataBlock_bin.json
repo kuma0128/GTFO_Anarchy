@@ -127,10 +127,28 @@
       "persistentID": 34
     },
     {
-      "Items": [],
+      "Items": [
+        70
+      ],
       "name": "ChineseNewYear2023 DONOTDELETE",
       "internalEnabled": true,
       "persistentID": 35
+    },
+    {
+      "Items": [
+        121
+      ],
+      "name": "ALT R4 Timed Drop 2023 DONOTDELETE",
+      "internalEnabled": true,
+      "persistentID": 41
+    },
+    {
+      "Items": [
+        149
+      ],
+      "name": "Halloween2023 DONOTDELETE",
+      "internalEnabled": true,
+      "persistentID": 44
     },
     {
       "Items": [
@@ -386,7 +404,57 @@
         52,
         68,
         69,
-        80
+        80,
+        67,
+        73,
+        77,
+        100,
+        71,
+        75,
+        78,
+        101,
+        74,
+        76,
+        81,
+        93,
+        123,
+        111,
+        112,
+        113,
+        119,
+        118,
+        115,
+        114,
+        116,
+        122,
+        117,
+        124,
+        120,
+        135,
+        142,
+        134,
+        141,
+        140,
+        136,
+        137,
+        131,
+        132,
+        139,
+        126,
+        128,
+        133,
+        154,
+        150,
+        155,
+        152,
+        157,
+        153,
+        158,
+        143,
+        138,
+        127,
+        129,
+        159
       ],
       "name": "MainDrops",
       "internalEnabled": true,
@@ -399,7 +467,55 @@
       "name": "R1Completion",
       "internalEnabled": true,
       "persistentID": 37
+    },
+    {
+      "Items": [
+        79
+      ],
+      "name": "R2Completion",
+      "internalEnabled": true,
+      "persistentID": 38
+    },
+    {
+      "Items": [
+        72
+      ],
+      "name": "R3Completion",
+      "internalEnabled": true,
+      "persistentID": 39
+    },
+    {
+      "Items": [
+        110
+      ],
+      "name": "R4Completion",
+      "internalEnabled": true,
+      "persistentID": 40
+    },
+    {
+      "Items": [
+        125
+      ],
+      "name": "R5Completion",
+      "internalEnabled": true,
+      "persistentID": 42
+    },
+    {
+      "Items": [
+        66
+      ],
+      "name": "R6Completion",
+      "internalEnabled": true,
+      "persistentID": 43
+    },
+    {
+      "Items": [
+        151
+      ],
+      "name": "R8Completion",
+      "internalEnabled": true,
+      "persistentID": 45
     }
   ],
-  "LastPersistentID": 37
+  "LastPersistentID": 45
 }

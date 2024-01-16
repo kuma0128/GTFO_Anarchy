@@ -936,24 +936,24 @@
       },
       "bodyOffsetLocal": {
         "x": 0.0,
-        "y": -0.1,
-        "z": 0.0,
-        "normalized": {
-          "x": 0.0,
-          "y": -1.0,
-          "z": 0.0,
-          "magnitude": 1.0,
-          "sqrMagnitude": 1.0
-        },
-        "magnitude": 0.1,
-        "sqrMagnitude": 0.0100000007
-      },
-      "bodyRotationOffsetLocal": {
-        "x": 0.0,
         "y": 0.0,
         "z": 0.0,
         "magnitude": 0.0,
         "sqrMagnitude": 0.0
+      },
+      "bodyRotationOffsetLocal": {
+        "x": 0.0,
+        "y": 0.1,
+        "z": 0.1,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.707106769,
+          "z": 0.707106769,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.141421363,
+        "sqrMagnitude": 0.0200000014
       },
       "ItemCameraFOVDefault": 33,
       "ItemCameraFOVZoom": 31,
@@ -1911,6 +1911,147 @@
       "name": "SMG",
       "internalEnabled": true,
       "persistentID": 2
+    },
+    {
+      "localPosHip": {
+        "x": 0.062,
+        "y": -0.1,
+        "z": 0.33,
+        "normalized": {
+          "x": 0.1769667,
+          "y": -0.285430163,
+          "z": 0.9419195,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.3503484,
+        "sqrMagnitude": 0.122744009
+      },
+      "localRotHip": {
+        "x": -2.15,
+        "y": 0.0,
+        "z": -1.71,
+        "normalized": {
+          "x": -0.782641351,
+          "y": 0.0,
+          "z": -0.6224729,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 2.74710774,
+        "sqrMagnitude": 7.54660034
+      },
+      "SwayAmount": 1.0,
+      "crouchTiltAngle": 10.0,
+      "localPosRelaxed": {
+        "x": 0.046,
+        "y": -0.11,
+        "z": 0.32,
+        "normalized": {
+          "x": 0.134703472,
+          "y": -0.322117,
+          "z": 0.937067568,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.341490835,
+        "sqrMagnitude": 0.116615996
+      },
+      "localRotRelaxed": {
+        "x": 5.0,
+        "y": -12.0,
+        "z": -25.0,
+        "normalized": {
+          "x": 0.177443355,
+          "y": -0.425864071,
+          "z": -0.8872168,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 28.1780052,
+        "sqrMagnitude": 794.0
+      },
+      "localPosZoom": {
+        "x": 0.0,
+        "y": -0.154,
+        "z": 0.38,
+        "normalized": {
+          "x": 0.0,
+          "y": -0.375591874,
+          "z": 0.9267851,
+          "normalized": {
+            "x": 0.0,
+            "y": -0.3755919,
+            "z": 0.9267852,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.9999999
+        },
+        "magnitude": 0.410019517,
+        "sqrMagnitude": 0.168116
+      },
+      "localRotZoom": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "bodyOffsetLocal": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.1,
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.1,
+        "sqrMagnitude": 0.0100000007
+      },
+      "bodyRotationOffsetLocal": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "ItemCameraFOVDefault": 36,
+      "ItemCameraFOVZoom": 20,
+      "LookCameraFOVZoom": 53,
+      "canAim": true,
+      "onlyStartAimOnPressed": false,
+      "canRelax": true,
+      "customDelayUntilRelax": 0.0,
+      "allowRotToAimPos": true,
+      "rotToAimPosMinDis": 1.0,
+      "transitionToAim": 0,
+      "RecoilAnimation": 35,
+      "IdleAnimation": 21,
+      "WalkAnimation": 12,
+      "RunAnimation": 23,
+      "JumpAnimation": 7,
+      "LandAnimation": 8,
+      "ChargeCancelAnimation": 0,
+      "DofDefault": {
+        "enabled": true,
+        "focusDistance": 1.0,
+        "aperture": 1.0,
+        "focalLength": 5.5
+      },
+      "DofAim": {
+        "enabled": true,
+        "focusDistance": 1.0,
+        "aperture": 1.0,
+        "focalLength": 7.7
+      },
+      "name": "SMG_Semi",
+      "internalEnabled": true,
+      "persistentID": 49
     },
     {
       "localPosHip": {
@@ -5575,5 +5716,5 @@
       "persistentID": 37
     }
   ],
-  "LastPersistentID": 48
+  "LastPersistentID": 49
 }

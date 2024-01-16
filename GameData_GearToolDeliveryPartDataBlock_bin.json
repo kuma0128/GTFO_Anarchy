@@ -199,6 +199,10 @@
         {
           "AlignType": 15,
           "AlignName": "a_targeting"
+        },
+        {
+          "AlignType": 0,
+          "AlignName": "a_Muzzle"
         }
       ],
       "name": "Delivery_Glue",

@@ -1036,7 +1036,7 @@
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
-            "InfectionLevelAtExpeditionStart": 0.0,
+            "InfectionLevelAtExpeditionStart": 0.09,
             "HealthLevelAtExpeditionStart": 0.6,
             "StandardAmmoAtExpeditionStart": 0.1,
             "SpecialAmmoAtExpeditionStart": 0.0,

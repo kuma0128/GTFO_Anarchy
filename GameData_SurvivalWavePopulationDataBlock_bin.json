@@ -377,9 +377,9 @@
       "persistentID": 28
     },
     {
-      "WaveRoleWeakling": 30,
-      "WaveRoleStandard": 16,
-      "WaveRoleSpecial": 16,
+      "WaveRoleWeakling": 39,
+      "WaveRoleStandard": 39,
+      "WaveRoleSpecial": 39,
       "WaveRoleMiniBoss": 39,
       "WaveRoleBoss": 39,
       "name": "BullrushBigs_C1",
@@ -387,9 +387,9 @@
       "persistentID": 2828
     },
     {
-      "WaveRoleWeakling": 30,
-      "WaveRoleStandard": 16,
-      "WaveRoleSpecial": 16,
+      "WaveRoleWeakling": 333,
+      "WaveRoleStandard": 333,
+      "WaveRoleSpecial": 333,
       "WaveRoleMiniBoss": 333,
       "WaveRoleBoss": 39,
       "name": "ShadowHybrid_C1",

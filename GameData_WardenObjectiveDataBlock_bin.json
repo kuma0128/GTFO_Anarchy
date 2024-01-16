@@ -29149,7 +29149,7 @@
       "OnActivateOnSolveItem": true,
       "WavesOnActivate": [
         {
-          "WaveSettings": 81,
+          "WaveSettings": 250,
           "WavePopulation": 1,
           "AreaDistance": 2,
           "SpawnDelay": 0.0,
@@ -29165,31 +29165,31 @@
           "IntelMessage": 2736927834
         },
         {
-          "WaveSettings": 85,
-          "WavePopulation": 1,
+          "WaveSettings": 251,
+          "WavePopulation": 47,
           "AreaDistance": 2,
           "SpawnDelay": 400.0,
           "TriggerAlarm": false,
           "IntelMessage": 828704543
         },
         {
-          "WaveSettings": 65,
-          "WavePopulation": 22,
+          "WaveSettings": 91,
+          "WavePopulation": 2929,
           "AreaDistance": 2,
           "SpawnDelay": 625.0,
           "TriggerAlarm": false,
           "IntelMessage": 2736927834
         },
         {
-          "WaveSettings": 82,
-          "WavePopulation": 23,
+          "WaveSettings": 91,
+          "WavePopulation": 2828,
           "AreaDistance": 2,
           "SpawnDelay": 840.0,
           "TriggerAlarm": false,
           "IntelMessage": 747291007
         },
         {
-          "WaveSettings": 65,
+          "WaveSettings": 91,
           "WavePopulation": 22,
           "AreaDistance": 2,
           "SpawnDelay": 1105.0,
@@ -29198,12 +29198,13 @@
         },
         {
           "WaveSettings": 86,
-          "WavePopulation": 8,
+          "WavePopulation": 47,
           "AreaDistance": 2,
           "SpawnDelay": 1160.0,
           "TriggerAlarm": false,
           "IntelMessage": 3398203610
         },
+        
         {
           "WaveSettings": 84,
           "WavePopulation": 22,

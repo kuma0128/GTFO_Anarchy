@@ -4322,6 +4322,13 @@
               "SpawnType": 0
             },
             {
+              "WaveSettings": 9,
+              "WavePopulation": 2929,
+              "AreaDistance": 1,
+              "SpawnTimeRel": 0.25,
+              "SpawnType": 0
+            },
+            {
               "WaveSettings": 233,
               "WavePopulation": 53,
               "AreaDistance": 2,
@@ -4644,12 +4651,56 @@
             {
               "WaveSettings": 9,
               "WavePopulation": 2929,
-              "AreaDistance": 2,
+              "AreaDistance": 1,
               "SpawnTimeRel": 0.8,
               "SpawnType": 0
             }
           ],
           "Events": [
+            {
+              "Type": 0,
+              "Condition": {
+                "ConditionIndex": -1,
+                "IsTrue": false
+              },
+              "Trigger": 2,
+              "ChainPuzzle": 0,
+              "UseStaticBioscanPoints": false,
+              "Layer": 0,
+              "DimensionIndex": 0,
+              "LocalIndex": 0,
+              "Delay": 0.0,
+              "Duration": 0.0,
+              "ClearDimension": false,
+              "WardenIntel": "Unexplained power shortage",
+              "CustomSubObjectiveHeader": 0,
+              "CustomSubObjective": 0,
+              "SoundID": 0,
+              "SoundSubtitle": 0,
+              "DialogueID": 0,
+              "FogSetting": 0,
+              "FogTransitionDuration": 0.0,
+              "EnemyWaveData": {
+                "WaveSettings": 0,
+                "WavePopulation": 0,
+                "AreaDistance": 2,
+                "SpawnDelay": 0.0,
+                "TriggerAlarm": false,
+                "IntelMessage": 0
+              },
+              "EnemyID": 0,
+              "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "magnitude": 0.0,
+                "sqrMagnitude": 0.0
+              },
+              "Count": 0,
+              "Enabled": false,
+              "TerminalCommand": 0,
+              "TerminalCommandRule": 0
+            }
           ]
         },
         {
@@ -4678,7 +4729,7 @@
             {
               "WaveSettings": 9,
               "WavePopulation": 2929,
-              "AreaDistance": 2,
+              "AreaDistance": 1,
               "SpawnTimeRel": 0.8,
               "SpawnType": 0
             },
@@ -4686,7 +4737,7 @@
               "WaveSettings": 9,
               "WavePopulation": 2828,
               "AreaDistance": 2,
-              "SpawnTimeRel": 0.8,
+              "SpawnTimeRel": 0.9,
               "SpawnType": 0
             }
           ],
@@ -4713,14 +4764,14 @@
               "WaveSettings": 233,
               "WavePopulation": 35,
               "AreaDistance": 2,
-              "SpawnTimeRel": 0.25,
+              "SpawnTimeRel": 0.2,
               "SpawnType": 0
             },
             {
               "WaveSettings": 9,
               "WavePopulation": 37,
               "AreaDistance": 2,
-              "SpawnTimeRel": 0.25,
+              "SpawnTimeRel": 0.3,
               "SpawnType": 0
             },
             {
@@ -4734,7 +4785,7 @@
               "WaveSettings": 9,
               "WavePopulation": 37,
               "AreaDistance": 2,
-              "SpawnTimeRel": 0.65,
+              "SpawnTimeRel": 0.7,
               "SpawnType": 0
             },
             {

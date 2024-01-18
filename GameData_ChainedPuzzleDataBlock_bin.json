@@ -4849,7 +4849,7 @@
       "DisableSurvivalWaveOnComplete": true,
       "UseRandomPositions": true,
       "WantedDistanceFromStartPos": 20.0,
-      "WantedDistanceBetweenPuzzleComponents": 15.0,
+      "WantedDistanceBetweenPuzzleComponents": 18.0,
       "ChainedPuzzle": [
         {
           "PuzzleType": 14

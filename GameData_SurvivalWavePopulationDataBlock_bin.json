@@ -391,7 +391,7 @@
       "WaveRoleStandard": 333,
       "WaveRoleSpecial": 333,
       "WaveRoleMiniBoss": 333,
-      "WaveRoleBoss": 39,
+      "WaveRoleBoss": 333,
       "name": "ShadowHybrid_C1",
       "internalEnabled": true,
       "persistentID": 2929

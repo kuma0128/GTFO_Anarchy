@@ -30,7 +30,7 @@
         "AllClearedSectors": 0
       },
       "StorytellingData": {
-        "Title": "Rundown - Anarchy - 0.5.0",
+        "Title": "Rundown - Anarchy - 0.4.12",
         "TextLog": 0,
         "TextLogPos": {
           "x": 0.0,
@@ -471,7 +471,7 @@
             "ExpeditionDepth": 1021,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Use extracted coordinates to retrieve 3 Data Cubes. <color=red>Deviating energy readings detected in the related sector.</color>",
-            "RoleplayedWardenIntel": "> I got fog repellers!\n<color=red><size=200%>>...Everyone ready?</color></size> ",
+            "RoleplayedWardenIntel": "<color=red><size=200%>>...Everyone ready?</color></size> ",
             "DevInfo": ""
           },
           "Seeds": {
@@ -1225,7 +1225,7 @@
             "ExpeditionDepth": 1430,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Reach the deepest level and initiate Destruction Protocol.",
-            "RoleplayedWardenIntel": "<color=red>> Tell them not to come back!</color>\n<color=red>> Tell them not to come back!</color>\n<color=red>> Tell them not to come back!</color>\n<color=red>> Tell them not to come back!</color>\n<color=red>> Tell them not to come back!</color>\n<color=red>> Tell them not to come back!</color>\n<color=red>> Tell them not to come back!</color>",
+            "RoleplayedWardenIntel": "<color=red>> Tell them not to come back!</color>\n<color=red>> Tell them not to come back!</color>\n<color=red>> Tell them not to come back!</color>\n<color=red>> Tell them not to come back!</color>\n<color=red>> Tell them not to come back!</color>\n<color=red>> Tell them not to come back!</color>\n<color=red>> Tell them not to come back!</color>\n<color=red>> Tell them not to come back!</color>\n<color=red>> Tell them not to come back!</color>",
             "DevInfo": ""
           },
           "Seeds": {

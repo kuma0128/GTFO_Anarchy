@@ -282,7 +282,7 @@
           "PutIconAboveTier": false,
           "DisablePlayerVoicelines": false,
           "ExcludeFromProgression": false,
-          "Accessibility": 0,
+          "Accessibility": 1,
           "UnlockedByExpedition": {
             "Tier": 1,
             "Exp": 0

@@ -1271,13 +1271,13 @@
       "DisableSurvivalWaveOnComplete": true,
       "UseRandomPositions": false,
       "WantedDistanceFromStartPos": 0.0,
-      "WantedDistanceBetweenPuzzleComponents": 1.0,
+      "WantedDistanceBetweenPuzzleComponents": 15.0,
       "ChainedPuzzle": [
         {
           "PuzzleType": 31
         },
         {
-          "PuzzleType": 9
+          "PuzzleType": 61
         }
       ],
       "OnlyShowHUDWhenPlayerIsClose": false,

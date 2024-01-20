@@ -47,6 +47,16 @@
       "persistentID": 1
     },
     {
+      "WaveRoleWeakling": 52,
+      "WaveRoleStandard": 53,
+      "WaveRoleSpecial": 52,
+      "WaveRoleMiniBoss": 53,
+      "WaveRoleBoss": 53,
+      "name": "Baseline_Corrupted",
+      "internalEnabled": true,
+      "persistentID": 57
+    },
+    {
       "WaveRoleWeakling": 13,
       "WaveRoleStandard": 11,
       "WaveRoleSpecial": 16,

@@ -8952,6 +8952,11 @@
       "CustomGeomorphs_Exit_1x1": [],
       "CustomGeomorphs_Objective_1x1": [
         {
+          "Prefab": "Assets/AssetPrefabs/Complex/Dimensions/Desert/Dimension_Desert_R8B1_Arena_01.prefab",
+          "SubComplex": 5,
+          "Shard": 7
+        },
+        {
           "Prefab": "Assets/AssetPrefabs/Complex/Dimensions/Desert/Dimension_Desert_Boss_Arena.prefab",
           "SubComplex": 5,
           "Shard": 7

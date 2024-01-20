@@ -2166,7 +2166,7 @@
       "persistentID": 104
     },
     {
-      "PublicAlarmName": "Class V M Alarm",
+      "PublicAlarmName": "Class I Cluster Alarm",
       "TriggerAlarmOnActivate": true,
       "SurvivalWaveSettings": 12,
       "SurvivalWavePopulation": 7,

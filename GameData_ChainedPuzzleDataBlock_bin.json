@@ -1511,7 +1511,7 @@
     {
       "PublicAlarmName": "Class VI Alarm",
       "TriggerAlarmOnActivate": true,
-      "SurvivalWaveSettings": 130,
+      "SurvivalWaveSettings": 1,
       "SurvivalWavePopulation": 8,
       "SurvivalWaveAreaDistance": 2,
       "DisableSurvivalWaveOnComplete": false,

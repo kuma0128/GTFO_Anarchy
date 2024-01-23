@@ -917,7 +917,7 @@
         "StaticConsumableDistributionInZone": 0,
         "StaticBigPickupDistributionInZone": 0,
         "StaticGroundSpawnersInZone": 0,
-        "StaticHealthMulti": 3.0,
+        "StaticHealthMulti": 2.0,
         "StaticToolAmmoMulti": 0.0,
         "StaticWeaponAmmoMulti": 3.2,
         "StaticDisinfectionMulti": 0.0,

@@ -1,0 +1,65 @@
+{
+  "MainLevelLayout": 202,
+  "Definitions": [
+    {
+      "SensorGroup": [
+        {
+          "Position": {
+            "x": -245.89,
+            "y": -3.06,
+            "z": 385.93
+          },
+          "Radius": 3
+        },
+        {
+          "Position": {
+            "x": -233.4255,
+            "y": -3.0663,
+            "z": 383.75
+          },
+          "Radius": 3.5
+        }
+      ],
+      "EventsOnTrigger": [
+        {
+          "Type": 400,
+          "Count": 0,
+          "Delay": 0.0,
+          "Enabled": false
+        },
+        {
+          "Type": 3,
+          "SoundID": 1479064690
+        },
+        {
+            "Trigger": 0,
+            "Type": 9,
+            "Delay": 0.0,
+            "DimensionIndex": 0,
+            "Layer": 0,
+            "LocalIndex": 0,
+            "Count": 0,
+            "WorldEventObjectFilter": "",
+            "EnemyWaveData": {
+              "WaveSettings": 255,
+              "WavePopulation": 15,
+              "AreaDistance": 2,
+              "SpawnDelay": 0.0,
+              "TriggerAlarm": false,
+              "IntelMessage": ""
+            }
+        },
+        {
+          "Type": 4,
+          "Delay": 20
+        },
+        {
+          "Type": 400,
+          "Delay": 20,
+          "Count": 0,
+          "Enabled": true
+        }
+      ]
+    }
+  ]
+}

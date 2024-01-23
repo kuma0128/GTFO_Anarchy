@@ -1,0 +1,20 @@
+{
+  "MainLevelLayout": 0,
+  "Definitions": [
+    {
+      "DimensionIndex": "Reality",
+      "LayerType": "MainLayer",
+      "LocalIndex": "Zone_0",
+      "ApplyToHibernate": true,
+      "ApplyToHibernateCount": 2147483647,
+      "ApplyToWave": false,
+      "ApplyToWaveCount": 2147483647,
+      "BossIDs": [
+        29,
+        36,
+        37
+      ],
+      "EventsOnBossDeath": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "MainLevelLayout": 0,
+  "Definitions": [
+    {
+      "DimensionIndex": "Reality",
+      "LayerType": "MainLayer",
+      "LocalIndex": "Zone_0",
+      "InstanceIndex": 4294967295,
+      "DisplayUplinkWarning": true,
+      "SetupAsCorruptedUplink": false,
+      "CorruptedUplinkReceiver": {
+        "DimensionIndex": "Reality",
+        "LayerType": "MainLayer",
+        "LocalIndex": "Zone_0",
+        "InstanceIndex": 4294967295
+      },
+      "UseUplinkAddress": true,
+      "UplinkAddressLogPosition": {
+        "DimensionIndex": "Reality",
+        "LayerType": "MainLayer",
+        "LocalIndex": "Zone_0",
+        "InstanceIndex": 4294967295
+      },
+      "ChainedPuzzleToStartUplink": 0,
+      "NumberOfVerificationRounds": 1,
+      "DefaultTimeSettings": {
+        "TimeToStartVerify": 5,
+        "TimeToCompleteVerify": 6,
+        "TimeToRestoreFromFail": 6
+      },
+      "RoundOverrides": [
+        {
+          "RoundIndex": -1,
+          "ChainedPuzzleToEndRound": 0,
+          "BuildChainedPuzzleOn": "SENDER",
+          "OverrideTimeSettings": {
+            "TimeToStartVerify": -1,
+            "TimeToCompleteVerify": -1,
+            "TimeToRestoreFromFail": -1
+          },
+          "EventsOnRound": []
+        }
+      ],
+      "EventsOnCommence": [],
+      "EventsOnComplete": []
+    }
+  ]
+}

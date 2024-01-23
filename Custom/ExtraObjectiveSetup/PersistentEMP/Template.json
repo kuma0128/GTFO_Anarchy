@@ -1,0 +1,22 @@
+{
+  "MainLevelLayout": 0,
+  "Definitions": [
+    {
+      "pEMPIndex": 0,
+      "Position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Range": 0,
+      "ItemToDisable": {
+        "BioTracker": true,
+        "PlayerHUD": true,
+        "PlayerFlashLight": true,
+        "EnvLight": true,
+        "GunSight": true,
+        "Sentry": true
+      }
+    }
+  ]
+}

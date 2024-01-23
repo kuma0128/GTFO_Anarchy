@@ -1,0 +1,18 @@
+{
+  "MainLevelLayout": 0,
+  "ExpeditionGears": {
+    "Mode": "DISALLOW",
+    "GearIds": [
+      0
+    ]
+  },
+  "GeneratorGroups": [
+    {
+      "Generators": [],
+      "PlayEndSequenceOnGroupComplete": false,
+      "EventsOnInsertCell": [
+        []
+      ]
+    }
+  ]
+}

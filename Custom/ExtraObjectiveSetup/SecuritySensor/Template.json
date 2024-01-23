@@ -1,0 +1,27 @@
+{
+  "MainLevelLayout": 0,
+  "Definitions": [
+    {
+      "SensorGroup": [
+        {
+          "Position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "Radius": 2.3,
+          "SensorType": "BASIC",
+          "MovingSpeedMulti": 1,
+          "MovingPosition": [
+            {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            }
+          ]
+        }
+      ],
+      "EventsOnTrigger": []
+    }
+  ]
+}

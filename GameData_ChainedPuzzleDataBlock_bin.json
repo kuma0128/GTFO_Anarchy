@@ -5364,7 +5364,7 @@
       "SurvivalWaveSettings": 12,
       "SurvivalWavePopulation": 13,
       "SurvivalWaveAreaDistance": 2,
-      "DisableSurvivalWaveOnComplete": true,
+      "DisableSurvivalWaveOnComplete": false,
       "UseRandomPositions": true,
       "WantedDistanceFromStartPos": 0.0,
       "WantedDistanceBetweenPuzzleComponents": 10.0,

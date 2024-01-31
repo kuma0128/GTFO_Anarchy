@@ -11323,6 +11323,18 @@
               "GroupType": 2,
               "Difficulty": 2,
               "Distribution": 1,
+              "DistributionValue": 2.0
+            },
+            {
+              "GroupType": 3,
+              "Difficulty": 3,
+              "Distribution": 1,
+              "DistributionValue": 1.0
+            },
+            {
+              "GroupType": 3,
+              "Difficulty": 3,
+              "Distribution": 1,
               "DistributionValue": 1.0
             }
           ],
@@ -11538,6 +11550,18 @@
             {
               "GroupType": 1,
               "Difficulty": 5,
+              "Distribution": 1,
+              "DistributionValue": 1.0
+            },
+            {
+              "GroupType": 3,
+              "Difficulty": 3,
+              "Distribution": 1,
+              "DistributionValue": 1.0
+            },
+            {
+              "GroupType": 3,
+              "Difficulty": 3,
               "Distribution": 1,
               "DistributionValue": 1.0
             }
@@ -12009,7 +12033,7 @@
               "WardenIntel": 0,
               "CustomSubObjectiveHeader": 0,
               "CustomSubObjective": 0,
-              "SoundID": 0,
+              "SoundID": 1479064690,
               "SoundSubtitle": 0,
               "DialogueID": 0,
               "FogSetting": 0,
@@ -12155,7 +12179,7 @@
               "WardenIntel": 0,
               "CustomSubObjectiveHeader": 0,
               "CustomSubObjective": 0,
-              "SoundID": 0,
+              "SoundID": 533913761,
               "SoundSubtitle": 0,
               "DialogueID": 0,
               "FogSetting": 0,
@@ -12304,7 +12328,7 @@
             "Middle": 0.0,
             "End": 0.0
           },
-          "ToolAmmoMulti": 1.0,
+          "ToolAmmoMulti": 0.6,
           "ToolAmmoPlacement": {
             "Start": 0.0,
             "Middle": 0.0,
@@ -13193,50 +13217,6 @@
           ],
           "EventsOnPortalWarp": [],
           "EventsOnApproachDoor": [
-            {
-              "Type": 0,
-              "Condition": {
-                "ConditionIndex": -1,
-                "IsTrue": false
-              },
-              "Trigger": 0,
-              "ChainPuzzle": 0,
-              "UseStaticBioscanPoints": false,
-              "Layer": 0,
-              "DimensionIndex": 0,
-              "LocalIndex": 0,
-              "Delay": 0.0,
-              "Duration": 0.0,
-              "ClearDimension": false,
-              "WardenIntel": "Pull a lever in [ZONE_9]",
-              "CustomSubObjectiveHeader": 0,
-              "CustomSubObjective": 0,
-              "SoundID": 0,
-              "SoundSubtitle": 0,
-              "DialogueID": 0,
-              "FogSetting": 0,
-              "FogTransitionDuration": 0.0,
-              "EnemyWaveData": {
-                "WaveSettings": 0,
-                "WavePopulation": 0,
-                "AreaDistance": 2,
-                "SpawnDelay": 0.0,
-                "TriggerAlarm": false,
-                "IntelMessage": 0
-              },
-              "EnemyID": 0,
-              "Position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "magnitude": 0.0,
-                "sqrMagnitude": 0.0
-              },
-              "Count": 0,
-              "Enabled": false,
-              "TerminalCommand": 0,
-              "TerminalCommandRule": 0
-            }
           ],
           "EventsOnUnlockDoor": [],
           "EventsOnOpenDoor": [],
@@ -13363,13 +13343,13 @@
             "Middle": 0.0,
             "End": 0.0
           },
-          "WeaponAmmoMulti": 3.2,
+          "WeaponAmmoMulti": 3.0,
           "WeaponAmmoPlacement": {
             "Start": 0.0,
             "Middle": 0.0,
             "End": 0.0
           },
-          "ToolAmmoMulti": 1.2,
+          "ToolAmmoMulti": 1.0,
           "ToolAmmoPlacement": {
             "Start": 0.0,
             "Middle": 0.0,
@@ -13536,19 +13516,19 @@
           "PowerGeneratorPlacements": [],
           "DisinfectionStationPlacements": [],
           "DumbwaiterPlacements": [],
-          "HealthMulti": 1.0,
+          "HealthMulti": 0.8,
           "HealthPlacement": {
             "Start": 0.0,
             "Middle": 0.0,
             "End": 0.0
           },
-          "WeaponAmmoMulti": 2.4,
+          "WeaponAmmoMulti": 2.0,
           "WeaponAmmoPlacement": {
             "Start": 0.0,
             "Middle": 0.0,
             "End": 0.0
           },
-          "ToolAmmoMulti": 0.6,
+          "ToolAmmoMulti": 0.4,
           "ToolAmmoPlacement": {
             "Start": 0.0,
             "Middle": 0.0,

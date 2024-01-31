@@ -159,9 +159,7 @@
             "DustTurbulence": 1.0
           },
           "VanityItemsDropData": {
-            "Groups": [
-              36
-            ]
+            "Groups": []
           },
           "UseGearPicker": false,
           "LevelLayoutData": 3250379969,
@@ -478,9 +476,7 @@
             "DustTurbulence": 1.0
           },
           "VanityItemsDropData": {
-            "Groups": [
-              36
-            ]
+            "Groups": []
           },
           "UseGearPicker": false,
           "LevelLayoutData": 167,
@@ -647,9 +643,7 @@
             "DustTurbulence": 1.0
           },
           "VanityItemsDropData": {
-            "Groups": [
-              36
-            ]
+            "Groups": []
           },
           "UseGearPicker": false,
           "LevelLayoutData": 3718356978,
@@ -1278,9 +1272,6 @@
             "DustTurbulence": 1.0
           },
           "VanityItemsDropData": {
-            "Groups": [
-              36
-            ]
           },
           "UseGearPicker": false,
           "LevelLayoutData": 1574517326,
@@ -1422,9 +1413,7 @@
             "DustTurbulence": 1.0
           },
           "VanityItemsDropData": {
-            "Groups": [
-              36
-            ]
+            "Groups": []
           },
           "UseGearPicker": false,
           "LevelLayoutData": 1574517326,

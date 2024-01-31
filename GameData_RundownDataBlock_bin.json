@@ -30,7 +30,7 @@
         "AllClearedSectors": 0
       },
       "StorytellingData": {
-        "Title": "Rundown Anarchy 0.4.17",
+        "Title": "Rundown Anarchy 0.4.19",
         "TextLog": "Development: waiwaichan",
         "TextLogPos": {
           "x": 0.0,
@@ -810,7 +810,7 @@
             "ExpeditionDepth": 1021,
             "EstimatedDuration": "Unknown",
             "ExpeditionDescription": "Prisoners will act as decoy for undisclosed parallel objective.\n<color=red>Security breaches detected.</color>",
-            "RoleplayedWardenIntel": "> I can hear them! I don't know how much longer we can hold out...\n<color=red>> We should have never come here! This place is a death trap...</color>",
+            "RoleplayedWardenIntel": "> They are coming and there is nothing you can stop them. \n<color=red>> We should have never come here! This place is a death trap...</color>",
             "DevInfo": ""
           },
           "Seeds": {
@@ -1023,149 +1023,6 @@
       "TierD": [
         {
           "Enabled": true,
-          "IsSinglePlayer": false,
-          "ExcludeFromProgression": false,
-          "Accessibility": 1,
-          "UnlockedByExpedition": {
-            "Tier": 2,
-            "Exp": 0
-          },
-          "CustomProgressionLock": {
-            "MainSectors": 0,
-            "SecondarySectors": 0,
-            "ThirdSectors": 0,
-            "AllClearedSectors": 0
-          },
-          "Descriptive": {
-            "Prefix": "AY-E",
-            "PublicName": "Citadel",
-            "IsExtraExpedition": false,
-            "ProgressionVisualStyle": 1,
-            "ExpeditionDepth": 1412,
-            "EstimatedDuration": "Unknown",
-            "ExpeditionDescription": "Extensive power is needed for a deepest level.\r\n<color=red>Prisoners deemed expendable.</color>",
-            "RoleplayedWardenIntel": ">.. There's no time! Let's spread out!\n<color=red>> Come back!! He's coming in...</color>",
-            "DevInfo": ""
-          },
-          "Seeds": {
-            "BuildSeed": 333444333,
-            "FunctionMarkerOffset": 0,
-            "StandardMarkerOffset": 0,
-            "LightJobSeedOffset": 1100
-          },
-          "Expedition": {
-            "ComplexResourceData": 37,
-            "MLSLevelKit": 0,
-            "LightSettings": 28,
-            "FogSettings": 28,
-            "EnemyPopulation": 1,
-            "ExpeditionBalance": 1,
-            "ScoutWaveSettings": 3,
-            "ScoutWavePopulation": 1,
-            "EnvironmentWetness": 0.0,
-            "DustColor": {
-              "a": 1.0,
-              "r": 0.5,
-              "g": 0.5,
-              "b": 0.5
-            },
-            "DustTurbulence": 1.0
-          },
-          "VanityItemsDropData": {
-            "Groups": [
-              36
-            ]
-          },
-          "UseGearPicker": false,
-          "LevelLayoutData": 1574517326,
-          "MainLayerData": {
-            "ZonesWithBulkheadEntrance": [],
-            "BulkheadDoorControllerPlacements": [],
-            "BulkheadKeyPlacements": [],
-            "ObjectiveData": {
-              "DataBlockId": 164,
-              "WinCondition": 0,
-              "ZonePlacementDatas": [
-                [
-                  {
-                    "DimensionIndex": 0,
-                    "LocalIndex": 4,
-                    "Weights": {
-                      "Start": 0.0,
-                      "Middle": 0.0,
-                      "End": 0.0
-                    }
-                  }
-                ]
-              ]
-            },
-            "ChainedObjectiveData": [],
-            "ArtifactData": {
-              "ArtifactAmountMulti": 0.0,
-              "ArtifactLayerDistributionDataID": 0,
-              "ArtifactZoneDistributions": [
-              ]
-            }
-          },
-          "SecondaryLayerEnabled": false,
-          "SecondaryLayout": 0,
-          "BuildSecondaryFrom": {
-            "LayerType": 0,
-            "Zone": 0
-          },
-          "SecondaryLayerData": {
-            "ZonesWithBulkheadEntrance": [],
-            "BulkheadDoorControllerPlacements": [],
-            "BulkheadKeyPlacements": [],
-            "ObjectiveData": {
-              "DataBlockId": 0,
-              "WinCondition": 0,
-              "ZonePlacementDatas": []
-            },
-            "ChainedObjectiveData": [],
-            "ArtifactData": {
-              "ArtifactAmountMulti": 1.0,
-              "ArtifactLayerDistributionDataID": 0,
-              "ArtifactZoneDistributions": []
-            }
-          },
-          "ThirdLayerEnabled": false,
-          "ThirdLayout": 0,
-          "BuildThirdFrom": {
-            "LayerType": 0,
-            "Zone": 0
-          },
-          "ThirdLayerData": {
-            "ZonesWithBulkheadEntrance": [],
-            "BulkheadDoorControllerPlacements": [],
-            "BulkheadKeyPlacements": [],
-            "ObjectiveData": {
-              "DataBlockId": 0,
-              "WinCondition": 0,
-              "ZonePlacementDatas": []
-            },
-            "ChainedObjectiveData": [],
-            "ArtifactData": {
-              "ArtifactAmountMulti": 1.0,
-              "ArtifactLayerDistributionDataID": 0,
-              "ArtifactZoneDistributions": []
-            }
-          },
-          "DimensionDatas": [],
-          "SoundEventOnWarpToReality": 0,
-          "SpecialOverrideData": {
-            "WeakResourceContainerWithPackChanceForLocked": -1.0,
-            "InfectionLevelAtExpeditionStart": 0.0,
-            "HealthLevelAtExpeditionStart": 1.0,
-            "StandardAmmoAtExpeditionStart": 1.0,
-            "SpecialAmmoAtExpeditionStart": 1.0,
-            "ToolAmmoAtExpeditionStart": 1.0
-          },
-          "HasExternalStyle": false,
-          "HasStoryStyle": false
-        },
-        {
-          "Enabled": true,
           "ExcludeFromProgression": false,
           "Accessibility": 1,
           "UnlockedByExpedition": {
@@ -1369,6 +1226,149 @@
           },
           "HasExternalStyle": false,
           "HasStoryStyle": false
+        },
+        {
+          "Enabled": true,
+          "IsSinglePlayer": false,
+          "ExcludeFromProgression": false,
+          "Accessibility": 1,
+          "UnlockedByExpedition": {
+            "Tier": 2,
+            "Exp": 0
+          },
+          "CustomProgressionLock": {
+            "MainSectors": 0,
+            "SecondarySectors": 0,
+            "ThirdSectors": 0,
+            "AllClearedSectors": 0
+          },
+          "Descriptive": {
+            "Prefix": "AY-E",
+            "PublicName": "<color=purple>死神永生</color>",
+            "IsExtraExpedition": true,
+            "ProgressionVisualStyle": 1,
+            "ExpeditionDepth": 1812,
+            "EstimatedDuration": "Unknown",
+            "ExpeditionDescription": "Extensive power is needed for a deepest level.\r\n<color=red>Prisoners deemed expendable.</color>",
+            "RoleplayedWardenIntel": "> We don't know what they are.\r\n<color=red>> Maybe we can't know they are.</color>",
+            "DevInfo": ""
+          },
+          "Seeds": {
+            "BuildSeed": 333444333,
+            "FunctionMarkerOffset": 0,
+            "StandardMarkerOffset": 0,
+            "LightJobSeedOffset": 1100
+          },
+          "Expedition": {
+            "ComplexResourceData": 37,
+            "MLSLevelKit": 0,
+            "LightSettings": 28,
+            "FogSettings": 28,
+            "EnemyPopulation": 1,
+            "ExpeditionBalance": 1,
+            "ScoutWaveSettings": 3,
+            "ScoutWavePopulation": 1,
+            "EnvironmentWetness": 0.0,
+            "DustColor": {
+              "a": 1.0,
+              "r": 0.5,
+              "g": 0.5,
+              "b": 0.5
+            },
+            "DustTurbulence": 1.0
+          },
+          "VanityItemsDropData": {
+            "Groups": [
+              36
+            ]
+          },
+          "UseGearPicker": false,
+          "LevelLayoutData": 1574517326,
+          "MainLayerData": {
+            "ZonesWithBulkheadEntrance": [],
+            "BulkheadDoorControllerPlacements": [],
+            "BulkheadKeyPlacements": [],
+            "ObjectiveData": {
+              "DataBlockId": 164,
+              "WinCondition": 0,
+              "ZonePlacementDatas": [
+                [
+                  {
+                    "DimensionIndex": 0,
+                    "LocalIndex": 4,
+                    "Weights": {
+                      "Start": 0.0,
+                      "Middle": 0.0,
+                      "End": 0.0
+                    }
+                  }
+                ]
+              ]
+            },
+            "ChainedObjectiveData": [],
+            "ArtifactData": {
+              "ArtifactAmountMulti": 0.0,
+              "ArtifactLayerDistributionDataID": 0,
+              "ArtifactZoneDistributions": [
+              ]
+            }
+          },
+          "SecondaryLayerEnabled": false,
+          "SecondaryLayout": 0,
+          "BuildSecondaryFrom": {
+            "LayerType": 0,
+            "Zone": 0
+          },
+          "SecondaryLayerData": {
+            "ZonesWithBulkheadEntrance": [],
+            "BulkheadDoorControllerPlacements": [],
+            "BulkheadKeyPlacements": [],
+            "ObjectiveData": {
+              "DataBlockId": 0,
+              "WinCondition": 0,
+              "ZonePlacementDatas": []
+            },
+            "ChainedObjectiveData": [],
+            "ArtifactData": {
+              "ArtifactAmountMulti": 1.0,
+              "ArtifactLayerDistributionDataID": 0,
+              "ArtifactZoneDistributions": []
+            }
+          },
+          "ThirdLayerEnabled": false,
+          "ThirdLayout": 0,
+          "BuildThirdFrom": {
+            "LayerType": 0,
+            "Zone": 0
+          },
+          "ThirdLayerData": {
+            "ZonesWithBulkheadEntrance": [],
+            "BulkheadDoorControllerPlacements": [],
+            "BulkheadKeyPlacements": [],
+            "ObjectiveData": {
+              "DataBlockId": 0,
+              "WinCondition": 0,
+              "ZonePlacementDatas": []
+            },
+            "ChainedObjectiveData": [],
+            "ArtifactData": {
+              "ArtifactAmountMulti": 1.0,
+              "ArtifactLayerDistributionDataID": 0,
+              "ArtifactZoneDistributions": []
+            }
+          },
+          "DimensionDatas": [],
+          "SoundEventOnWarpToReality": 0,
+          "SpecialOverrideData": {
+            "WeakResourceContainerWithPackChanceForLocked": -1.0,
+            "InfectionLevelAtExpeditionStart": 0.0,
+            "HealthLevelAtExpeditionStart": 1.0,
+            "StandardAmmoAtExpeditionStart": 1.0,
+            "SpecialAmmoAtExpeditionStart": 1.0,
+            "ToolAmmoAtExpeditionStart": 1.0
+          },
+          "HasExternalStyle": false,
+          "HasStoryStyle": false
         }
       ],
       "TierE": [
@@ -1391,10 +1391,10 @@
             "PublicName": "Cosmos",
             "SkipExpNumberInName": true,
             "ProgressionVisualStyle": 1,
-            "ExpeditionDepth":1699,
-            "EstimatedDuration": 930,
+            "ExpeditionDepth":3333,
+            "EstimatedDuration": "Unknown",
             "ExpeditionDescription": "Prisoners <color=red>::ERR ###\r</color>\n",
-            "RoleplayedWardenIntel": "> This place is the one...\n<color=red>> N??*.~?޽???...</color>",
+            "RoleplayedWardenIntel": "> This place is the one...\n<color=red>> Do you believe in God?</color>",
             "DevInfo": ""
           },
           "Seeds": {

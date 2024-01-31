@@ -10697,7 +10697,7 @@
             "Middle": 0.0,
             "End": 0.0
           },
-          "ToolAmmoMulti": 1.0,
+          "ToolAmmoMulti": 0.8,
           "ToolAmmoPlacement": {
             "Start": 0.0,
             "Middle": 0.0,
@@ -10881,7 +10881,7 @@
             "PlacementCount": 1,
             "ZonePlacementData": []
           },
-          "ChainedPuzzleToEnter": 0,
+          "ChainedPuzzleToEnter": 4,
           "IsCheckpointDoor": false,
           "PlayScannerVoiceAudio": true,
           "SkipAutomaticProgressionObjective": false,
@@ -13690,7 +13690,7 @@
           ]
         }
       ],
-      "name": "Anarchy_D2",
+      "name": "Anarchy_D1",
       "internalEnabled": true,
       "persistentID": 167
     },
@@ -14834,7 +14834,7 @@
           ]
         }
       ],
-      "name": "Anarchy_D1_OV",
+      "name": "Anarchy_D2_OV",
       "internalEnabled": true,
       "persistentID": 3510199334
     },
@@ -15521,7 +15521,7 @@
             "Middle": 0.0,
             "End": 0.0
           },
-          "ToolAmmoMulti": 1.6,
+          "ToolAmmoMulti": 1.0,
           "ToolAmmoPlacement": {
             "Start": 0.0,
             "Middle": 0.0,
@@ -15777,7 +15777,7 @@
             "Middle": 0.0,
             "End": 0.0
           },
-          "ToolAmmoMulti": 1.0,
+          "ToolAmmoMulti": 0.4,
           "ToolAmmoPlacement": {
             "Start": 0.0,
             "Middle": 0.0,
@@ -16375,7 +16375,7 @@
             "Middle": 0.0,
             "End": 0.0
           },
-          "ToolAmmoMulti": 1.0,
+          "ToolAmmoMulti": 0.4,
           "ToolAmmoPlacement": {
             "Start": 100.0,
             "Middle": 0.0,
@@ -16805,7 +16805,7 @@
             "Middle": 0.0,
             "End": 0.0
           },
-          "ToolAmmoMulti": 1.6,
+          "ToolAmmoMulti": 1.0,
           "ToolAmmoPlacement": {
             "Start": 0.0,
             "Middle": 0.0,
@@ -17186,7 +17186,7 @@
             "Middle": 0.0,
             "End": 0.0
           },
-          "ToolAmmoMulti": 0.6,
+          "ToolAmmoMulti": 0.4,
           "ToolAmmoPlacement": {
             "Start": 0.0,
             "Middle": 0.0,
@@ -17868,7 +17868,7 @@
           "StaticSpawnDataContainers": []
         }
       ],
-      "name": "Anarchy_D1",
+      "name": "Anarchy_D2",
       "internalEnabled": true,
       "persistentID": 3718356978
     },

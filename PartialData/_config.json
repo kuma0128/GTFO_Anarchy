@@ -1,12 +1,17 @@
 [
   {
     "TypeName": "SurvivalWavePopulationDataBlock",
-    "StartFromID": 1,
+    "StartFromID": 54,
     "IncrementMode": 0
   },
   {
     "TypeName": "SurvivalWaveSettingsDataBlock",
-    "StartFromID": 1, 
+    "StartFromID": 235,
+    "IncrementMode": 0
+  },
+  {
+    "TypeName": "TextDataBlock",
+    "StartFromID": 4294967295,
     "IncrementMode": 0
   }
 ]

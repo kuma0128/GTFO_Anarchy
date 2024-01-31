@@ -3302,7 +3302,7 @@
       },
       "StaggerDamageMulti": 2.0,
       "PrecisionDamageMulti": 0.7413,
-      "DefaultClipSize": 12,
+      "DefaultClipSize": 11,
       "DefaultReloadTime": 3.0,
       "CostOfBullet": 5.5,
       "ShotDelay": 0.2625,

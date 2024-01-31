@@ -18885,6 +18885,7 @@
           "LightsSubSeed": 2004998412,
           "BulkheadDCScanSeed": 1304150707,
           "SubComplex": 4,
+          "CustomGeomorph": "Assets/AssetPrefabs/Complex/Mining/Geomorphs/Storage/geo_64x64_mining_storage_I_HA_AW.prefab",
           "IgnoreRandomGeomorphRotation": false,
           "CoverageMinMax": {
             "x": 20.0,
@@ -18999,6 +19000,7 @@
           "LightsSubSeed": 2004998412,
           "BulkheadDCScanSeed": 1304150707,
           "SubComplex": 4,
+          "CustomGeomorph": "Assets/AssetPrefabs/Complex/Mining/Geomorphs/Storage/geo_64x64_mining_storage_I_HA_AW.prefab",
           "IgnoreRandomGeomorphRotation": false,
           "CoverageMinMax": {
             "x": 20.0,

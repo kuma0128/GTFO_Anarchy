@@ -118,7 +118,7 @@
       "DensityHeightRange": 7.0,
       "DensityHeightMaxBoost": 0.001,
       "Infection": 0.0,
-      "name": "desert_fog",
+      "name": "desert_fog1",
       "internalEnabled": true,
       "persistentID": 87
     },
@@ -145,7 +145,7 @@
       "DensityHeightRange": 7.0,
       "DensityHeightMaxBoost": 0.007,
       "Infection": 0.06,
-      "name": "desert_fog",
+      "name": "desert_fog2",
       "internalEnabled": true,
       "persistentID": 155
     },
@@ -172,7 +172,7 @@
       "DensityHeightRange": 6.0,
       "DensityHeightMaxBoost": 0.007,
       "Infection": 0.0,
-      "name": "desert_fog_sand",
+      "name": "desert_fog_sand1",
       "internalEnabled": true,
       "persistentID": 92
     },
@@ -199,7 +199,7 @@
       "DensityHeightRange": 6.0,
       "DensityHeightMaxBoost": 0.007,
       "Infection": 0.0025,
-      "name": "desert_fog_sand",
+      "name": "desert_fog_sand2",
       "internalEnabled": true,
       "persistentID": 921
     },

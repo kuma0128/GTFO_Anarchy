@@ -1504,7 +1504,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 3339129407,
       "AlarmSoundStop": 42633153,
-      "name": "Mixed x6 alarm",
+      "name": "Mixed x6 alarm1",
       "internalEnabled": true,
       "persistentID": 150
     },
@@ -1541,7 +1541,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 3339129407,
       "AlarmSoundStop": 42633153,
-      "name": "Mixed x6 alarm",
+      "name": "Mixed x6 alarm2",
       "internalEnabled": true,
       "persistentID": 1515
     },
@@ -2161,7 +2161,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 3339129407,
       "AlarmSoundStop": 42633153,
-      "name": "Mixed Far Bundled No Req All x5 - Alarm Reduced Shadows",
+      "name": "Mixed Far Bundled No Req All x5 - Alarm Reduced Shadows1",
       "internalEnabled": true,
       "persistentID": 104
     },
@@ -2183,7 +2183,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 3339129407,
       "AlarmSoundStop": 42633153,
-      "name": "Mixed Far Bundled No Req All x5 - Alarm Reduced Shadows",
+      "name": "Mixed Far Bundled No Req All x5 - Alarm Reduced Shadows2",
       "internalEnabled": true,
       "persistentID": 223
     },
@@ -3199,7 +3199,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 3339129407,
       "AlarmSoundStop": 42633153,
-      "name": "Mixed Separated Far x10 - Alarm_BullRush",
+      "name": "Mixed Separated Far x10 - Alarm_BullRush1",
       "internalEnabled": true,
       "persistentID": 187
     },
@@ -3278,7 +3278,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 3339129407,
       "AlarmSoundStop": 42633153,
-      "name": "Mixed Separated Far x10 - Alarm_BullRush",
+      "name": "Mixed Separated Far x10 - Alarm_BullRush2",
       "internalEnabled": true,
       "persistentID": 249
     },
@@ -3327,7 +3327,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 3339129407,
       "AlarmSoundStop": 42633153,
-      "name": "Mixed Separated Far x10 - Alarm_Shadows",
+      "name": "Mixed Separated Far x10 - Alarm_Shadows1",
       "internalEnabled": true,
       "persistentID": 188
     },
@@ -3376,7 +3376,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 3339129407,
       "AlarmSoundStop": 42633153,
-      "name": "Mixed Separated Far x10 - Alarm_Shadows",
+      "name": "Mixed Separated Far x10 - Alarm_Shadows2",
       "internalEnabled": true,
       "persistentID": 1882
     },
@@ -3410,7 +3410,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 3339129407,
       "AlarmSoundStop": 42633153,
-      "name": "Mixed Separated Far x10 - Alarm_BullRush",
+      "name": "Mixed Separated Far x10 - Alarm_BullRush3",
       "internalEnabled": true,
       "persistentID": 1883
     },
@@ -3791,7 +3791,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 3339129407,
       "AlarmSoundStop": 42633153,
-      "name": "Single x1 - Error Alarm Apex Wave From Elevator",
+      "name": "Single x1 - Error Alarm Apex Wave From Elevator1",
       "internalEnabled": true,
       "persistentID": 138
     },
@@ -3813,7 +3813,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 3339129407,
       "AlarmSoundStop": 42633153,
-      "name": "Single x1 - Error Alarm Apex Wave From Elevator",
+      "name": "Single x1 - Error Alarm Apex Wave From Elevator2",
       "internalEnabled": true,
       "persistentID": 209
     },
@@ -3967,7 +3967,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 2200133294,
       "AlarmSoundStop": 2200133294,
-      "name": "Single x1 - Error Alarm Trickle 6-30 Shadows",
+      "name": "Single x1 - Error Alarm Trickle 6-30 Shadows1",
       "internalEnabled": true,
       "persistentID": 155
     },
@@ -4011,7 +4011,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 2200133294,
       "AlarmSoundStop": 2200133294,
-      "name": "Single x1 - Error Alarm Trickle 6-30 Shadows",
+      "name": "Single x1 - Error Alarm Trickle 6-30 Shadows2",
       "internalEnabled": true,
       "persistentID": 1551
     },
@@ -4055,7 +4055,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 2200133294,
       "AlarmSoundStop": 2200133294,
-      "name": "Single x1 - Error Alarm Trickle 6-30 Shadows",
+      "name": "Single x1 - Error Alarm Trickle 6-30 Shadows3",
       "internalEnabled": true,
       "persistentID": 1553
     },
@@ -4372,7 +4372,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 3339129407,
       "AlarmSoundStop": 42633153,
-      "name": "Single Sustained Defend Far x1 - Alarm Diminished",
+      "name": "Single Sustained Defend Far x1 - Alarm Diminished1",
       "internalEnabled": true,
       "persistentID": 121
     },
@@ -4409,7 +4409,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 3339129407,
       "AlarmSoundStop": 42633153,
-      "name": "Single Sustained Defend Far x1 - Alarm Diminished",
+      "name": "Single Sustained Defend Far x1 - Alarm Diminished2",
       "internalEnabled": true,
       "persistentID": 1211
     },
@@ -4960,7 +4960,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 3339129407,
       "AlarmSoundStop": 42633153,
-      "name": "Single Sustained Defend Far x1 - Alarm Surge",
+      "name": "Single Sustained Defend Far x1 - Alarm Surge1",
       "internalEnabled": true,
       "persistentID": 240
     },
@@ -4982,7 +4982,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 3339129407,
       "AlarmSoundStop": 42633153,
-      "name": "Single Sustained Defend Far x1 - Alarm Surge",
+      "name": "Single Sustained Defend Far x1 - Alarm Surge2",
       "internalEnabled": true,
       "persistentID": 241
     },
@@ -5616,7 +5616,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 3339129407,
       "AlarmSoundStop": 42633153,
-      "name": "Cluster x5 - Alarm Far",
+      "name": "Cluster x5 - Alarm Far1",
       "internalEnabled": true,
       "persistentID": 163
     },
@@ -5653,7 +5653,7 @@
       "OnlyShowHUDWhenPlayerIsClose": false,
       "AlarmSoundStart": 3339129407,
       "AlarmSoundStop": 42633153,
-      "name": "Cluster x5 - Alarm Far",
+      "name": "Cluster x5 - Alarm Far2",
       "internalEnabled": true,
       "persistentID": 234
     },
@@ -6361,34 +6361,6 @@
       "name": "Single Far Separated More x3 - Alarm Surge Hybrids",
       "internalEnabled": true,
       "persistentID": 37
-    },
-    {
-      "PublicAlarmName": "Class III Surge Alarm",
-      "TriggerAlarmOnActivate": true,
-      "SurvivalWaveSettings": 21,
-      "SurvivalWavePopulation": 48,
-      "SurvivalWaveAreaDistance": 2,
-      "DisableSurvivalWaveOnComplete": true,
-      "UseRandomPositions": true,
-      "WantedDistanceFromStartPos": 30.0,
-      "WantedDistanceBetweenPuzzleComponents": 30.0,
-      "ChainedPuzzle": [
-        {
-          "PuzzleType": 6
-        },
-        {
-          "PuzzleType": 6
-        },
-        {
-          "PuzzleType": 6
-        }
-      ],
-      "OnlyShowHUDWhenPlayerIsClose": false,
-      "AlarmSoundStart": 3339129407,
-      "AlarmSoundStop": 42633153,
-      "name": "Single Big RequireAll x3 - Alarm Surge Hybrids",
-      "internalEnabled": true,
-      "persistentID": 196
     },
     {
       "PublicAlarmName": "Class III Surge Alarm",

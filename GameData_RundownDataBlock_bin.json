@@ -1238,12 +1238,12 @@
           },
           "Descriptive": {
             "Prefix": "AY-E",
-            "PublicName": "<color=purple>死神永生</color>",
+            "PublicName": "死神永生",
             "IsExtraExpedition": true,
             "ProgressionVisualStyle": 1,
             "ExpeditionDepth": 1812,
             "EstimatedDuration": "Unknown",
-            "ExpeditionDescription": "Extensive power is needed for a deepest level.\r\n<color=red>Prisoners deemed expendable.</color>",
+            "ExpeditionDescription": "Recovery of disks for surplus dimension analysis is necessary.\r\n<color=red>Prisoners deemed expendable.</color>",
             "RoleplayedWardenIntel": "> We don't know what they are.\r\n<color=red>> Maybe we can't know they are.</color>",
             "DevInfo": ""
           },

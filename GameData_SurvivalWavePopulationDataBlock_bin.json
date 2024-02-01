@@ -562,7 +562,7 @@
       "WaveRoleSpecial": 11,
       "WaveRoleMiniBoss": 46,
       "WaveRoleBoss": 16,
-      "name": "Wave_Pouncer",
+      "name": "Wave_Pouncer1",
       "internalEnabled": true,
       "persistentID": 39
     },
@@ -572,7 +572,7 @@
       "WaveRoleSpecial": 46,
       "WaveRoleMiniBoss": 46,
       "WaveRoleBoss": 46,
-      "name": "Wave_Pouncer",
+      "name": "Wave_Pouncer2",
       "internalEnabled": true,
       "persistentID": 391
     },

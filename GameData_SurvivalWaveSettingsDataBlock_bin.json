@@ -172,7 +172,7 @@
       "m_populationPointsPerGroupStart": 5.0,
       "m_populationPointsPerGroupEnd": 10.0,
       "m_populationRampOverTime": 200.0,
-      "name": "Apex_SpawnPoints",
+      "name": "Apex_SpawnPoints1",
       "internalEnabled": true,
       "persistentID": 130
     },
@@ -198,7 +198,7 @@
       "m_populationPointsPerGroupStart": 1.0,
       "m_populationPointsPerGroupEnd": 1.0,
       "m_populationRampOverTime": 0.0,
-      "name": "Apex_SpawnPoints",
+      "name": "Apex_SpawnPoints2",
       "internalEnabled": true,
       "persistentID": 1301
     },
@@ -414,7 +414,7 @@
       "m_populationPointsPerGroupStart": 4.0,
       "m_populationPointsPerGroupEnd": 8.0,
       "m_populationRampOverTime": 100.0,
-      "name": "Apex Diminished SSp",
+      "name": "Apex Diminished SSp1",
       "internalEnabled": true,
       "persistentID": 57
     },
@@ -442,7 +442,7 @@
       "m_populationPointsPerGroupStart": 15.0,
       "m_populationPointsPerGroupEnd": 15.0,
       "m_populationRampOverTime": 100.0,
-      "name": "Apex Diminished SSp",
+      "name": "Apex2",
       "internalEnabled": true,
       "persistentID": 236
     },
@@ -2910,7 +2910,7 @@
       "m_populationPointsPerGroupStart": 6.0,
       "m_populationPointsPerGroupEnd": 6.0,
       "m_populationRampOverTime": 0.0,
-      "name": "Trickle_6-160 S",
+      "name": "Trickle_6-160 S1",
       "internalEnabled": true,
       "persistentID": 46
     },
@@ -2936,7 +2936,7 @@
       "m_populationPointsPerGroupStart": 6.0,
       "m_populationPointsPerGroupEnd": 6.0,
       "m_populationRampOverTime": 0.0,
-      "name": "Trickle_6-160 S",
+      "name": "Trickle_6-160 S2",
       "internalEnabled": true,
       "persistentID": 462
     },
@@ -3122,7 +3122,7 @@
       "m_populationPointsPerGroupStart": 1.0,
       "m_populationPointsPerGroupEnd": 1.0,
       "m_populationRampOverTime": 0.0,
-      "name": "Late Trickle 1-60 B",
+      "name": "Late Trickle 1-60 B1",
       "internalEnabled": true,
       "persistentID": 50
     },
@@ -3148,7 +3148,7 @@
       "m_populationPointsPerGroupStart": 1.0,
       "m_populationPointsPerGroupEnd": 1.0,
       "m_populationRampOverTime": 0.0,
-      "name": "Late Trickle 1-60 B",
+      "name": "Late Trickle 1-60 B2",
       "internalEnabled": true,
       "persistentID": 252
     },
@@ -3174,7 +3174,7 @@
       "m_populationPointsPerGroupStart": 1.0,
       "m_populationPointsPerGroupEnd": 1.0,
       "m_populationRampOverTime": 0.0,
-      "name": "Late Trickle 1-60 B",
+      "name": "Late Trickle 1-60 B3",
       "internalEnabled": true,
       "persistentID": 253
     },
@@ -3200,7 +3200,7 @@
       "m_populationPointsPerGroupStart": 1.0,
       "m_populationPointsPerGroupEnd": 1.0,
       "m_populationRampOverTime": 0.0,
-      "name": "Late Trickle 1-60 B",
+      "name": "Late Trickle 1-60 B4",
       "internalEnabled": true,
       "persistentID": 254
     },
@@ -4143,7 +4143,7 @@
       "m_populationPointsPerGroupStart": 13.0,
       "m_populationPointsPerGroupEnd": 13.0,
       "m_populationRampOverTime": 1000.0,
-      "name": "Mainframerush_Standard_wave_Defence_1st",
+      "name": "Mainframerush_Standard_wave_Defence_1st1",
       "internalEnabled": true,
       "persistentID": 174
     },
@@ -4169,7 +4169,7 @@
       "m_populationPointsPerGroupStart": 13.0,
       "m_populationPointsPerGroupEnd": 13.0,
       "m_populationRampOverTime": 1000.0,
-      "name": "Mainframerush_Standard_wave_Defence_1st",
+      "name": "Mainframerush_Standard_wave_Defence_1st2",
       "internalEnabled": true,
       "persistentID": 1741
     },
@@ -4795,7 +4795,7 @@
       "m_populationPointsPerGroupStart": 13.0,
       "m_populationPointsPerGroupEnd": 13.0,
       "m_populationRampOverTime": 100.0,
-      "name": "Survival phase1_6R_C3",
+      "name": "Survival phase1_6R_C31",
       "internalEnabled": true,
       "persistentID": 81
     },
@@ -4822,7 +4822,7 @@
       "m_populationPointsPerGroupStart": 15.0,
       "m_populationPointsPerGroupEnd": 13.0,
       "m_populationRampOverTime": 100.0,
-      "name": "Survival phase1_6R_C3",
+      "name": "Survival phase1_6R_C32",
       "internalEnabled": true,
       "persistentID": 250
     },
@@ -5520,7 +5520,7 @@
       "m_populationPointsPerGroupStart": 6.0,
       "m_populationPointsPerGroupEnd": 6.0,
       "m_populationRampOverTime": 0.0,
-      "name": "Survival phase1-5_boss_6R_B3",
+      "name": "Survival phase1-5_boss_6R_B31",
       "internalEnabled": true,
       "persistentID": 91
     },
@@ -5547,7 +5547,7 @@
       "m_populationPointsPerGroupStart": 15.0,
       "m_populationPointsPerGroupEnd": 15.0,
       "m_populationRampOverTime": 0.0,
-      "name": "Survival phase1-5_boss_6R_B3",
+      "name": "Survival phase1-5_boss_6R_B32",
       "internalEnabled": true,
       "persistentID": 251
     },

@@ -15710,7 +15710,7 @@
           "PowerGeneratorPlacements": [],
           "DisinfectionStationPlacements": [],
           "DumbwaiterPlacements": [],
-          "HealthMulti": 0.8,
+          "HealthMulti": 0.4,
           "HealthPlacement": {
             "Start": 0.0,
             "Middle": 0.0,
@@ -16738,7 +16738,7 @@
           "PowerGeneratorPlacements": [],
           "DisinfectionStationPlacements": [],
           "DumbwaiterPlacements": [],
-          "HealthMulti": 1.6,
+          "HealthMulti": 1.2,
           "HealthPlacement": {
             "Start": 0.0,
             "Middle": 0.0,

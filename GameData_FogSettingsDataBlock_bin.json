@@ -198,7 +198,7 @@
       "DensityHeightAltitude": 2.0,
       "DensityHeightRange": 6.0,
       "DensityHeightMaxBoost": 0.007,
-      "Infection": 0.0025,
+      "Infection": 0.003,
       "name": "desert_fog_sand2",
       "internalEnabled": true,
       "persistentID": 921

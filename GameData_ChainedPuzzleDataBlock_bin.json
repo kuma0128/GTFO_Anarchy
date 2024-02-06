@@ -3383,7 +3383,7 @@
     {
       "PublicAlarmName": "Class V Alarm",
       "TriggerAlarmOnActivate": true,
-      "SurvivalWaveSettings": 1,
+      "SurvivalWaveSettings": 276,
       "SurvivalWavePopulation": 5,
       "SurvivalWaveAreaDistance": 2,
       "DisableSurvivalWaveOnComplete": false,

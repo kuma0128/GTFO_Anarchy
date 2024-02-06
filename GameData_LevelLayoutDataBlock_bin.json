@@ -4858,7 +4858,7 @@
               "GroupType": 2,
               "Difficulty": 2,
               "Distribution": 2,
-              "DistributionValue": 0.5
+              "DistributionValue": 1.0
             },
             {
               "GroupType": 1,
@@ -5019,7 +5019,7 @@
               "GroupType": 0,
               "Difficulty": 0,
               "Distribution": 2,
-              "DistributionValue": 0.5
+              "DistributionValue": 1.0
             },
             {
               "GroupType": 1,
@@ -5031,13 +5031,13 @@
               "GroupType": 0,
               "Difficulty": 6,
               "Distribution": 1,
-              "DistributionValue": 0.64
+              "DistributionValue": 1.0
             },
             {
               "GroupType": 0,
               "Difficulty": 7,
               "Distribution": 1,
-              "DistributionValue": 0.64
+              "DistributionValue": 1.0
             }
           ],
           "EnemyRespawning": false,
@@ -5091,19 +5091,19 @@
           "PowerGeneratorPlacements": [],
           "DisinfectionStationPlacements": [],
           "DumbwaiterPlacements": [],
-          "HealthMulti": 1.0,
+          "HealthMulti": 0.6,
           "HealthPlacement": {
             "Start": 100.0,
             "Middle": 100.0,
             "End": 100.0
           },
-          "WeaponAmmoMulti": 1.4,
+          "WeaponAmmoMulti": 1.0,
           "WeaponAmmoPlacement": {
             "Start": 0.0,
             "Middle": 100.0,
             "End": 100.0
           },
-          "ToolAmmoMulti": 1.0,
+          "ToolAmmoMulti": 0.6,
           "ToolAmmoPlacement": {
             "Start": 100.0,
             "Middle": 100.0,
@@ -10545,7 +10545,7 @@
             "Middle": 0.0,
             "End": 0.0
           },
-          "ToolAmmoMulti": 0.4,
+          "ToolAmmoMulti": 0.0,
           "ToolAmmoPlacement": {
             "Start": 0.0,
             "Middle": 0.0,
@@ -10662,7 +10662,7 @@
           "AllowSmallPickupsAllocation": true,
           "AllowResourceContainerAllocation": true,
           "ForceBigPickupsAllocation": true,
-          "ConsumableDistributionInZone": 20,
+          "ConsumableDistributionInZone": 202,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
             {
@@ -14920,7 +14920,7 @@
           "AllowSmallPickupsAllocation": true,
           "AllowResourceContainerAllocation": true,
           "ForceBigPickupsAllocation": false,
-          "ConsumableDistributionInZone": 20,
+          "ConsumableDistributionInZone": 202,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
           ],
@@ -17119,7 +17119,7 @@
           "PowerGeneratorPlacements": [],
           "DisinfectionStationPlacements": [],
           "DumbwaiterPlacements": [],
-          "HealthMulti": 0.4,
+          "HealthMulti": 1.0,
           "HealthPlacement": {
             "Start": 0.0,
             "Middle": 0.0,
@@ -17422,7 +17422,7 @@
           "PowerGeneratorPlacements": [],
           "DisinfectionStationPlacements": [],
           "DumbwaiterPlacements": [],
-          "HealthMulti": 0.4,
+          "HealthMulti": 1.0,
           "HealthPlacement": {
             "Start": 100.0,
             "Middle": 0.0,

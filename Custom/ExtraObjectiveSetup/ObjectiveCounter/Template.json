@@ -1,0 +1,15 @@
+{
+  "MainLevelLayout": 0,
+  "Definitions": [
+    {
+      "WorldEventObjectFilter": "",
+      "StartingCount": 0,
+      "OnReached": [
+        {
+          "Count": -1,
+          "EventsOnReached": []
+        }
+      ]
+    }
+  ]
+}

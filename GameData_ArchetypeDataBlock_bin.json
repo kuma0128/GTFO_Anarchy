@@ -1477,7 +1477,7 @@
         "sqrMagnitude": 34.0
       },
       "PiercingBullets": true,
-      "PiercingDamageCountLimit": 4,
+      "PiercingDamageCountLimit": 2 ,
       "HipFireSpread": 1.7,
       "AimSpread": 0.0,
       "EquipTransitionTime": 0.6,
@@ -2126,7 +2126,7 @@
       },
       "StaggerDamageMulti": 1.0,
       "PrecisionDamageMulti": 0.9,
-      "DefaultClipSize": 14,
+      "DefaultClipSize": 12,
       "DefaultReloadTime": 2.15,
       "CostOfBullet": 3.8,
       "ShotDelay": 0.08,
@@ -3888,7 +3888,7 @@
         "sqrMagnitude": 34.0
       },
       "PiercingBullets": true,
-      "PiercingDamageCountLimit": 6,
+      "PiercingDamageCountLimit": 2,
       "HipFireSpread": 2.0,
       "AimSpread": 0.0,
       "EquipTransitionTime": 0.8,

@@ -834,6 +834,21 @@
       ],
       "CustomGeomorphs_Objective_1x1": [
         {
+          "Prefab": "Assets/Bundles/RLC_Mining/geo_64x64_mining_storage_I_RLC_01.prefab",
+          "SubComplex": 5,
+          "Shard": "S1"
+        },
+        {
+          "Prefab": "Assets/CustomGeo_Mining_Prelude/geo_64x64_mining_refinery_hub_DE_01.prefab",
+          "SubComplex": 1,
+          "Shard": 2
+        },
+        {
+          "Prefab": "Assets/CustomGeo_Mining_Prelude/geo_32x32_mining_refinery_exit_DE_01.prefab",
+          "SubComplex": 1,
+          "Shard": 14
+        },
+        {
           "Prefab": "Assets/Custom Geo's/Mining exit/Mining_exit_V1.prefab",
           "SubComplex": 5,
           "Shard": 18
@@ -842,16 +857,6 @@
           "Prefab": "Assets/Prefabs/Geomorph/Mining/geo_storage_FA_dead_end_01.prefab",
           "SubComplex": "Storage",
           "Shard": "S1"
-        },
-        {
-          "Prefab": "Assets/Asset bundles/geo_64x64_mining_refinery_I_GA_HIDDENCUBE_01.prefab",
-          "SubComplex": 5,
-          "Shard": 2
-        },
-        {
-          "Prefab": "Assets/Asset bundles/geo_64x64_mining_refinery_L_GA_CUBES_01.prefab",
-          "SubComplex": 5,
-          "Shard": 2
         },
         {
           "Prefab": "Assets/AssetPrefabs/Complex/Mining/Geomorphs/geo_64x64_mining_reactor_open_HA_01.prefab",

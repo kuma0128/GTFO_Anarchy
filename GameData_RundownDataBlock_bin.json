@@ -30,7 +30,7 @@
         "AllClearedSectors": 0
       },
       "StorytellingData": {
-        "Title": "Rundown Anarchy 0.4.22",
+        "Title": "Rundown Anarchy 0.4.23",
         "TextLog": "Development: waiwaichan",
         "TextLogPos": {
           "x": 0.0,
@@ -410,6 +410,11 @@
               "DimensionIndex": 1,
               "DimensionData": 20,
               "Enabled": true
+            },
+            {
+              "DimensionIndex": 22,
+              "DimensionData": 14,
+              "Enabled": true
             }
           ],
           "SoundEventOnWarpToReality": 0,
@@ -763,6 +768,11 @@
               "DimensionIndex": 1,
               "DimensionData": 17,
               "Enabled": true
+            },
+            {
+              "DimensionIndex": 22,
+              "DimensionData": 14,
+              "Enabled": true
             }
           ],
           "SoundEventOnWarpToReality": 231201012,
@@ -782,7 +792,7 @@
           "IsSinglePlayer": false,
           "SkipLobby": false,
           "ExcludeFromProgression": false,
-          "Accessibility": 1,
+          "Accessibility": 0,
           "UnlockedByExpedition": {
             "Tier":2,
             "Exp": 0
@@ -1000,11 +1010,17 @@
               ]
             }
           },
-          "DimensionDatas": [],
+          "DimensionDatas": [
+            {
+              "DimensionIndex": 22,
+              "DimensionData": 14,
+              "Enabled": true
+            }
+          ],
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
-            "InfectionLevelAtExpeditionStart": 0.09,
+            "InfectionLevelAtExpeditionStart": 0.2,
             "HealthLevelAtExpeditionStart": 0.6,
             "StandardAmmoAtExpeditionStart": 0.1,
             "SpecialAmmoAtExpeditionStart": 0.0,
@@ -1208,7 +1224,13 @@
               "ArtifactZoneDistributions": []
             }
           },
-          "DimensionDatas": [],
+          "DimensionDatas": [
+            {
+              "DimensionIndex": 22,
+              "DimensionData": 14,
+              "Enabled": true
+            }
+          ],
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
@@ -1244,7 +1266,7 @@
             "ExpeditionDepth": 1812,
             "EstimatedDuration": "Unknown",
             "ExpeditionDescription": "Recovery of disks for surplus dimension analysis is necessary.\r\n<color=red>Prisoners deemed expendable.</color>",
-            "RoleplayedWardenIntel": "> We don't know what they are.\r\n<color=red>> Maybe we can't know they are.</color>",
+            "RoleplayedWardenIntel": "> We don't know what they are.\r\n<color=red>> We can't know what they are.</color>",
             "DevInfo": ""
           },
           "Seeds": {
@@ -1348,7 +1370,13 @@
               "ArtifactZoneDistributions": []
             }
           },
-          "DimensionDatas": [],
+          "DimensionDatas": [
+            {
+              "DimensionIndex": 22,
+              "DimensionData": 14,
+              "Enabled": true
+            }
+          ],
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
@@ -1490,7 +1518,13 @@
               "ArtifactZoneDistributions": []
             }
           },
-          "DimensionDatas": [],
+          "DimensionDatas": [
+            {
+              "DimensionIndex": 22,
+              "DimensionData": 14,
+              "Enabled": true
+            }
+          ],
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,

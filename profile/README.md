@@ -2,7 +2,7 @@
 
 - Hey there! Anarchy is a vanilla rundown featuring various dimensions, demanding excellent teamwork and gaming skills. True to its name, you'll need to combat anarchy and disadvantages. I've crafted unique and challenging levels based on my experiences with Rundowns 6 and 7. It has been adjusted to a difficulty higher than R8.
 
-- For the complete Anarchy experience, I suggest playing without the use of any boosters, bugs, cheats or other mods.
+- For the complete Anarchy experience, I suggest playing without the use of any bugs, cheats or other mods.
 
 - Keep in mind that this rundown is still in BETA, so its content may undergo frequent adjustments, with both nerfs and buffs.
 
@@ -16,8 +16,8 @@ Special thanks to my team(Scotch, Jonino, Cross) and friends.
 
 - Fixed pouncer bugs
 - Adjusted some weapons
-- AY-C2
-  - Adjusted enemy distributions
+- AY-D3
+  - If someone requests it, I will complite.
 
 ```0.4.22```
 
@@ -64,7 +64,7 @@ Almost weapons is based on R8.
 
 ## Collaborator
 
-Special thanks ^ ^
+Special thanks
 
 D1 geos assistant: Mr.bro  
 D3 LevelLayout assistant: Allets  

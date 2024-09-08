@@ -59,11 +59,11 @@
         },
         {
           "Type": 4,
-          "Delay": 20
+          "Delay": 120
         },
         {
           "Type": 400,
-          "Delay": 20,
+          "Delay": 25,
           "Count": 0,
           "Enabled": true
         }

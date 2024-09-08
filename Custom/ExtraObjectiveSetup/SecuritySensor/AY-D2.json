@@ -114,12 +114,8 @@
             }
         },
         {
-          "Type": 4,
-          "Delay": 20
-        },
-        {
           "Type": 400,
-          "Delay": 20,
+          "Delay": 30,
           "Count": 0,
           "Enabled": true
         }

@@ -434,7 +434,7 @@
         {
           "Enabled": true,
           "ExcludeFromProgression": false,
-          "Accessibility": 0,
+          "Accessibility": 1,
           "UnlockedByExpedition": {
             "Tier":2,
             "Exp": 0
@@ -792,7 +792,7 @@
           "IsSinglePlayer": false,
           "SkipLobby": false,
           "ExcludeFromProgression": false,
-          "Accessibility": 0,
+          "Accessibility": 1,
           "UnlockedByExpedition": {
             "Tier":2,
             "Exp": 0

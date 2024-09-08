@@ -1,17 +1,9 @@
 {
   "Configs": [
     {
-      "RundownID": 0,
-      "EnableNoBoosterUsedProgressionForRundown": false,
-      "AlwaysShowIcon": true,
-      "Expeditions": [
-        {
-          "Tier": 0,
-          "ExpeditionIndex": 0,
-          "EnableNoBoosterUsedProgression": false,
-          "AlwaysShowIcon": true
-        }
-      ]
+      "RundownID": 1,
+      "EnableNoBoosterUsedProgressionForRundown": true,
+      "Expeditions": []
     }
   ]
 }

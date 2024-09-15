@@ -3332,7 +3332,7 @@
       "persistentID": 188
     },
     {
-      "PublicAlarmName": "Class X Alarm",
+      "PublicAlarmName": "Class V Alarm",
       "TriggerAlarmOnActivate": true,
       "SurvivalWaveSettings": 1,
       "SurvivalWavePopulation": 7,
@@ -3340,7 +3340,7 @@
       "DisableSurvivalWaveOnComplete": true,
       "UseRandomPositions": true,
       "WantedDistanceFromStartPos": 22.0,
-      "WantedDistanceBetweenPuzzleComponents": 13.0,
+      "WantedDistanceBetweenPuzzleComponents": 18.0,
       "ChainedPuzzle": [
         {
           "PuzzleType": 8
@@ -3356,21 +3356,6 @@
         },
         {
           "PuzzleType": 4
-        },
-        {
-          "PuzzleType": 5
-        },
-        {
-          "PuzzleType": 6
-        },
-        {
-          "PuzzleType": 4
-        },
-        {
-          "PuzzleType": 5
-        },
-        {
-          "PuzzleType": 6
         }
       ],
       "OnlyShowHUDWhenPlayerIsClose": false,
@@ -3383,13 +3368,13 @@
     {
       "PublicAlarmName": "Class V Alarm",
       "TriggerAlarmOnActivate": true,
-      "SurvivalWaveSettings": 276,
+      "SurvivalWaveSettings": 21,
       "SurvivalWavePopulation": 5,
       "SurvivalWaveAreaDistance": 2,
       "DisableSurvivalWaveOnComplete": false,
       "UseRandomPositions": true,
-      "WantedDistanceFromStartPos": 18.0,
-      "WantedDistanceBetweenPuzzleComponents": 10.0,
+      "WantedDistanceFromStartPos": 20.0,
+      "WantedDistanceBetweenPuzzleComponents": 15.0,
       "ChainedPuzzle": [
         {
           "PuzzleType": 4

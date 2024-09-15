@@ -8179,6 +8179,16 @@
       ],
       "CustomGeomorphs_Objective_1x1": [
         {
+          "Prefab": "Assets/Custom Geo's/Floodways_x_tile_5/Floodways_x_tile_5.prefab",
+          "SubComplex": 5,
+          "Shard": 10
+        },
+        {
+          "Prefab": "Assets/AssetPrefabs/Complex/Service/Geomorphs/Maintenance/geo_64x64_service_floodways_hub_HA_03_V2.prefab",
+          "SubComplex": 6,
+          "Shard": 3
+        },
+        {
           "Prefab": "Assets/AssetPrefabs/Complex/Service/Geomorphs/Maintenance/geo_64x64_service_floodways_dead_end_HA_01.prefab",
           "SubComplex": 6,
           "Shard": 4

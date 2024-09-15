@@ -1,0 +1,48 @@
+// {
+//     "MainLevelLayout": 167,
+//     "Definitions": [
+//       {
+//         "WorldEventObjectFilter": "AY_D1_LAST_WARP",
+//         "DimensionIndex": 1,
+//         "OnWarp": {
+//           "WarpTeam_WarpAllWarpableBigPickupItems": true,
+//           "WarpRange_WarpDeployedSentryOutsideRange": true,
+//           "WarpItemsInZone_OnlyWarpWarpable": true
+//         },
+//         "Locations": [
+//           {
+//             "Position": {
+//               "x": 5.6699,
+//               "y": 162.2070,
+//               "z": -18.1017  
+//             },
+//             "LookDir": 0
+//           },
+//           {
+//             "Position": {
+//               "x": 2.3954,
+//               "y": 162.1486,
+//               "z": -18.6702 
+//             },
+//             "LookDir": 0
+//           },
+//           {
+//             "Position": {
+//               "x": 2.8810,
+//               "y": 161.4058,
+//               "z": 24.9308  
+//             },
+//             "LookDir": 1
+//           },
+//           {
+//             "Position": {
+//               "x": 5.6801,
+//               "y": 161.4506,
+//               "z": 25.0002  
+//             },
+//             "LookDir": 1
+//           }
+//         ]
+//       }
+//     ]
+//   }

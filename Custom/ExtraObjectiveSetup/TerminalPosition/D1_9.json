@@ -1,0 +1,21 @@
+{
+  "MainLevelLayout": 167,
+  "Definitions": [
+    {
+      "DimensionIndex": "Reality",
+      "LayerType": "MainLayer",
+      "LocalIndex": "Zone_9",
+      "InstanceIndex": 0,
+      "Position": {
+        "x": -2.3562,
+        "y": 2.5185,
+        "z": 274.4662
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    }
+  ]
+}

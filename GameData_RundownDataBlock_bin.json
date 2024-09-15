@@ -30,7 +30,7 @@
         "AllClearedSectors": 0
       },
       "StorytellingData": {
-        "Title": "Rundown Anarchy 0.4.23",
+        "Title": "Rundown Anarchy 0.4.26",
         "TextLog": "Development: waiwaichan",
         "TextLogPos": {
           "x": 0.0,
@@ -257,7 +257,7 @@
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
-            "InfectionLevelAtExpeditionStart": 0.7,
+            "InfectionLevelAtExpeditionStart": 0.6,
             "HealthLevelAtExpeditionStart": 1.0,
             "StandardAmmoAtExpeditionStart": 1.0,
             "SpecialAmmoAtExpeditionStart": 1.0,

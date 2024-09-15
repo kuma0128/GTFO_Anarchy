@@ -3895,7 +3895,7 @@
             "Middle": 0.0,
             "End": 0.0
           },
-          "WeaponAmmoMulti": 0.8,
+          "WeaponAmmoMulti": 1.2,
           "WeaponAmmoPlacement": {
             "Start": 0.0,
             "Middle": 100.0,
@@ -4534,7 +4534,7 @@
           "PowerGeneratorPlacements": [],
           "DisinfectionStationPlacements": [],
           "DumbwaiterPlacements": [],
-          "HealthMulti": 1.2,
+          "HealthMulti": 1.0,
           "HealthPlacement": {
             "Start": 0.0,
             "Middle": 0.0,
@@ -11881,7 +11881,7 @@
           "PowerGeneratorPlacements": [],
           "DisinfectionStationPlacements": [],
           "DumbwaiterPlacements": [],
-          "HealthMulti": 0.4,
+          "HealthMulti": 0.8,
           "HealthPlacement": {
             "Start": 0.0,
             "Middle": 0.0,
@@ -12693,13 +12693,13 @@
             
           ],
           "DumbwaiterPlacements": [],
-          "HealthMulti": 1.2,
+          "HealthMulti": 2.4,
           "HealthPlacement": {
             "Start": 0.0,
             "Middle": 0.0,
             "End": 0.0
           },
-          "WeaponAmmoMulti": 2.4,
+          "WeaponAmmoMulti": 3.2,
           "WeaponAmmoPlacement": {
             "Start": 0.0,
             "Middle": 0.0,
@@ -12809,7 +12809,7 @@
           "AllowSmallPickupsAllocation": true,
           "AllowResourceContainerAllocation": true,
           "ForceBigPickupsAllocation": false,
-          "ConsumableDistributionInZone": 202,
+          "ConsumableDistributionInZone": 20,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
           ],
@@ -16197,7 +16197,7 @@
             "Middle": 100.0,
             "End": 100.0
           },
-          "WeaponAmmoMulti": 5.0,
+          "WeaponAmmoMulti": 5.4,
           "WeaponAmmoPlacement": {
             "Start": 0.0,
             "Middle": 150.0,
@@ -16367,13 +16367,13 @@
             "Middle": 100.0,
             "End": 0.0
           },
-          "WeaponAmmoMulti": 5.2,
+          "WeaponAmmoMulti": 5.8,
           "WeaponAmmoPlacement": {
             "Start": 0.0,
             "Middle": 100.0,
             "End": 0.0
           },
-          "ToolAmmoMulti": 1.2,
+          "ToolAmmoMulti": 1.4,
           "ToolAmmoPlacement": {
             "Start": 100.0,
             "Middle": 0.0,

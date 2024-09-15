@@ -161,9 +161,9 @@
       "persistentID": 13
     },
     {
-      "EnemyType": 1,
-      "AssetBundle": 300,
-      "BundleShard": 0,
+      "EnemyType": "Standard",
+      "AssetBundle": "Enemies",
+      "BundleShard": "S1",
       "BasePrefabs": [
         "Assets/AssetPrefabs/Characters/Enemies/Bases/EnemyBase.prefab",
         "Assets/AssetPrefabs/Characters/Enemies/Bases/StrikerBase.prefab"
@@ -175,84 +175,41 @@
           "PositionOffset": {
             "x": 0.0,
             "y": 0.0,
-            "z": 0.0,
-            "magnitude": 0.0,
-            "sqrMagnitude": 0.0
+            "z": 0.0
           },
           "RotationOffset": {
             "x": 0.0,
             "y": 0.0,
-            "z": 0.0,
-            "magnitude": 0.0,
-            "sqrMagnitude": 0.0
+            "z": 0.0
           },
           "NeckScale": {
             "x": 0.0,
             "y": 0.0,
-            "z": 0.0,
-            "magnitude": 0.0,
-            "sqrMagnitude": 0.0
+            "z": 0.0
           },
           "HeadScale": {
             "x": 0.0,
             "y": 0.0,
-            "z": 0.0,
-            "magnitude": 0.0,
-            "sqrMagnitude": 0.0
+            "z": 0.0
           },
           "ChestScale": {
             "x": 1.05,
             "y": 1.05,
-            "z": 1.05,
-            "normalized": {
-              "x": 0.577350259,
-              "y": 0.577350259,
-              "z": 0.577350259,
-              "magnitude": 1.0,
-              "sqrMagnitude": 0.99999994
-            },
-            "magnitude": 1.81865323,
-            "sqrMagnitude": 3.30749965
+            "z": 1.05
           },
           "ArmScale": {
             "x": 1.2,
             "y": 1.2,
-            "z": 1.2,
-            "normalized": {
-              "x": 0.577350259,
-              "y": 0.577350259,
-              "z": 0.577350259,
-              "magnitude": 1.0,
-              "sqrMagnitude": 0.99999994
-            },
-            "magnitude": 2.07846117,
-            "sqrMagnitude": 4.32
+            "z": 1.2
           },
           "LegScale": {
             "x": 0.97,
             "y": 0.97,
-            "z": 0.97,
-            "normalized": {
-              "x": 0.577350259,
-              "y": 0.577350259,
-              "z": 0.577350259,
-              "magnitude": 1.0,
-              "sqrMagnitude": 0.99999994
-            },
-            "magnitude": 1.68008935,
-            "sqrMagnitude": 2.82270026
+            "z": 0.97
           },
           "SizeRange": {
             "x": 1.1,
-            "y": 1.2,
-            "normalized": {
-              "x": 0.6757246,
-              "y": 0.7371541,
-              "magnitude": 1.0,
-              "sqrMagnitude": 1.0
-            },
-            "magnitude": 1.62788212,
-            "sqrMagnitude": 2.65
+            "y": 1.2
           }
         }
       ],
@@ -270,19 +227,19 @@
         {
           "Enabled": true,
           "AbilityPrefab": "Assets/AssetPrefabs/Characters/Enemies/Abilities/EAB_StrikerMelee.prefab",
-          "AbilityType": 1,
+          "AbilityType": "Melee",
           "Cooldown": 7.0
         },
         {
           "Enabled": true,
           "AbilityPrefab": "Assets/AssetPrefabs/Characters/Enemies/Abilities/EAB_DoorBreakerStriker.prefab",
-          "AbilityType": 8,
+          "AbilityType": "DoorBreaker",
           "Cooldown": 1.0
         },
         {
           "Enabled": true,
           "AbilityPrefab": "Assets/AssetPrefabs/Characters/Enemies/Abilities/EAB_StrikerTentacle.prefab",
-          "AbilityType": 2,
+          "AbilityType": "Ranged",
           "Cooldown": 9.0
         }
       ],
@@ -3187,9 +3144,9 @@
       "persistentID": 37
     },
     {
-      "EnemyType": 4,
-      "AssetBundle": 300,
-      "BundleShard": 0,
+      "EnemyType": "Boss",
+      "AssetBundle": "Enemies",
+      "BundleShard": "S1",
       "BasePrefabs": [
         "Assets/AssetPrefabs/Characters/Enemies/Bases/EnemyBase.prefab",
         "Assets/AssetPrefabs/Characters/Enemies/Bases/BossBase.prefab"
@@ -3201,111 +3158,41 @@
           "PositionOffset": {
             "x": 0.0,
             "y": 0.0,
-            "z": 0.0,
-            "magnitude": 0.0,
-            "sqrMagnitude": 0.0
+            "z": 0.0
           },
           "RotationOffset": {
             "x": 0.0,
             "y": 180.0,
-            "z": 0.0,
-            "normalized": {
-              "x": 0.0,
-              "y": 1.0,
-              "z": 0.0,
-              "magnitude": 1.0,
-              "sqrMagnitude": 1.0
-            },
-            "magnitude": 180.0,
-            "sqrMagnitude": 32400.0
+            "z": 0.0
           },
           "NeckScale": {
             "x": 1.0,
             "y": 1.0,
-            "z": 1.0,
-            "normalized": {
-              "x": 0.577350259,
-              "y": 0.577350259,
-              "z": 0.577350259,
-              "magnitude": 1.0,
-              "sqrMagnitude": 0.99999994
-            },
-            "magnitude": 1.73205078,
-            "sqrMagnitude": 3.0
+            "z": 1.0
           },
           "HeadScale": {
             "x": 0.65,
             "y": 0.65,
-            "z": 0.65,
-            "normalized": {
-              "x": 0.577350259,
-              "y": 0.577350259,
-              "z": 0.577350259,
-              "magnitude": 1.0,
-              "sqrMagnitude": 0.99999994
-            },
-            "magnitude": 1.125833,
-            "sqrMagnitude": 1.26749992
+            "z": 0.65
           },
           "ChestScale": {
             "x": 1.0,
             "y": 1.0,
-            "z": 1.0,
-            "normalized": {
-              "x": 0.577350259,
-              "y": 0.577350259,
-              "z": 0.577350259,
-              "magnitude": 1.0,
-              "sqrMagnitude": 0.99999994
-            },
-            "magnitude": 1.73205078,
-            "sqrMagnitude": 3.0
+            "z": 1.0
           },
           "ArmScale": {
             "x": 1.0,
             "y": 1.0,
-            "z": 1.0,
-            "normalized": {
-              "x": 0.577350259,
-              "y": 0.577350259,
-              "z": 0.577350259,
-              "magnitude": 1.0,
-              "sqrMagnitude": 0.99999994
-            },
-            "magnitude": 1.73205078,
-            "sqrMagnitude": 3.0
+            "z": 1.0
           },
           "LegScale": {
             "x": 1.0,
             "y": 1.0,
-            "z": 1.0,
-            "normalized": {
-              "x": 0.577350259,
-              "y": 0.577350259,
-              "z": 0.577350259,
-              "magnitude": 1.0,
-              "sqrMagnitude": 0.99999994
-            },
-            "magnitude": 1.73205078,
-            "sqrMagnitude": 3.0
+            "z": 1.0
           },
           "SizeRange": {
             "x": 6.0,
-            "y": 6.0,
-            "normalized": {
-              "x": 0.7071068,
-              "y": 0.7071068,
-            "normalized": {
-              "x": 0.707106769,
-              "y": 0.707106769,
-              "magnitude": 1.0,
-              "sqrMagnitude": 0.99999994
-            },
-              "magnitude": 1.00000012,
-              "sqrMagnitude": 1.00000012
-            },
-            "magnitude": 8.485281,
-            "sqrMagnitude": 72.0
+            "y": 6.0
           }
         }
       ],
@@ -3323,31 +3210,31 @@
         {
           "Enabled": true,
           "AbilityPrefab": "Assets/AssetPrefabs/Characters/Enemies/Abilities/EAB_Birthing_Megamother.prefab",
-          "AbilityType": 1,
+          "AbilityType": "Melee",
           "Cooldown": 2.0
         },
         {
           "Enabled": true,
           "AbilityPrefab": "Assets/AssetPrefabs/Characters/Enemies/Abilities/EAB_DoorBreakerStriker.prefab",
-          "AbilityType": 8,
+          "AbilityType": "DoorBreaker",
           "Cooldown": 1.0
         },
         {
           "Enabled": true,
           "AbilityPrefab": "Assets/AssetPrefabs/Characters/Enemies/Abilities/EAB_StrikerBigTentacle.prefab",
-          "AbilityType": 1,
+          "AbilityType": "Melee",
           "Cooldown": 4.0
         },
         {
           "Enabled": true,
           "AbilityPrefab": "Assets/AssetPrefabs/Characters/Enemies/Abilities/EAB_ProjectileShooterBig_RapidFire.prefab",
-          "AbilityType": 2,
+          "AbilityType": "Ranged",
           "Cooldown": 8.0
         },
         {
           "Enabled": true,
           "AbilityPrefab": "Assets/AssetPrefabs/Characters/Enemies/Abilities/EAB_Birthing.prefab",
-          "AbilityType": 2,
+          "AbilityType": "Ranged",
           "Cooldown": 50.0
         }
       ],

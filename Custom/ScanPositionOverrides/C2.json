@@ -1,0 +1,41 @@
+{
+  "MainLevelLayout": 202,
+  "Puzzles": [
+    {
+      "Index": 12,
+      "Position": {
+        "x": -305.5566,
+        "y": 1.9875,
+        "z": 464.797
+      },
+      "HideSpline": false
+    },
+    {
+      "Index": 13,
+      "Position": {
+        "x": -335.4857,
+        "y": -2.9632,
+        "z": 458.7296
+      },
+      "HideSpline": false
+    },
+    {
+      "Index": 14,
+      "Position": {
+        "x": -319.8092,
+        "y": -1.0135,
+        "z": 439.8115
+      },
+      "HideSpline": false
+    },
+    {
+      "Index": 15,
+      "Position": {
+        "x": -319.5,
+        "y": 3.0118,
+        "z": 464.5
+      },
+      "HideSpline": false
+    }
+  ]
+}

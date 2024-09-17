@@ -3239,7 +3239,7 @@
         }
       ],
       "name": "MegaMother",
-      "internalEnabled": true,
+      "internalEnabled": false,
       "persistentID": 55
     },
     {
@@ -5137,7 +5137,7 @@
         }
       ],
       "name": "Squidward",
-      "internalEnabled": true,
+      "internalEnabled": false,
       "persistentID": 43
     },
     {
@@ -5638,7 +5638,7 @@
         }
       ],
       "name": "SquidBoss_Big",
-      "internalEnabled": true,
+      "internalEnabled": false,
       "persistentID": 44
     },
     {
@@ -6279,7 +6279,7 @@
         }
       ],
       "name": "SquidBoss_Big_Complex",
-      "internalEnabled": true,
+      "internalEnabled": false,
       "persistentID": 58
     },
     {
@@ -6591,7 +6591,7 @@
         }
       ],
       "name": "SquidBoss_VS",
-      "internalEnabled": true,
+      "internalEnabled": false,
       "persistentID": 61
     }
   ],

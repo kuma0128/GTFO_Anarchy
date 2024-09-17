@@ -1,60 +1,12 @@
 {
   "Headers": [
     {
-      "AboveBlockID": 495148404,
-      "LabelText": "Rundown001_Remake"
-    },
-    {
       "AboveBlockID": 3788602088,
       "LabelText": "Rundown 7"
     },
     {
       "AboveBlockID": 160,
       "LabelText": "Rundown 6"
-    },
-    {
-      "AboveBlockID": 143,
-      "LabelText": "Rundown 5.5"
-    },
-    {
-      "AboveBlockID": 4138983171,
-      "LabelText": "Rundown 5"
-    },
-    {
-      "AboveBlockID": 102,
-      "LabelText": "Rundown 4.5"
-    },
-    {
-      "AboveBlockID": 77,
-      "LabelText": "Rundown 004"
-    },
-    {
-      "AboveBlockID": 45,
-      "LabelText": "Rundown 003"
-    },
-    {
-      "AboveBlockID": 44,
-      "LabelText": "Rundown 002"
-    },
-    {
-      "AboveBlockID": 6,
-      "LabelText": "Rundown 001"
-    },
-    {
-      "AboveBlockID": 64,
-      "LabelText": "Rundown 00X Bug Hunters"
-    },
-    {
-      "AboveBlockID": 19,
-      "LabelText": "Test Levels"
-    },
-    {
-      "AboveBlockID": 4,
-      "LabelText": "Alpha"
-    },
-    {
-      "AboveBlockID": 4277062390,
-      "LabelText": "Rundown002_Remake"
     }
   ],
   "Blocks": [
@@ -94,12 +46,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -249,12 +195,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -404,12 +344,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -560,12 +494,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -728,12 +656,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 3,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -883,12 +805,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 3,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -1044,12 +960,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -1214,12 +1124,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 1,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -1408,12 +1312,6 @@
               }
             }
           ],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -1564,12 +1462,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -1714,12 +1606,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -1870,12 +1756,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -1984,12 +1864,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 3,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -2146,12 +2020,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -2321,12 +2189,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 3,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -2508,12 +2370,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 3,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -2695,12 +2551,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 3,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -2894,12 +2744,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 2,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -3094,12 +2938,6 @@
             "ChanceToChange": 0.0
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -3107,9 +2945,7 @@
             "ZonePlacementData": []
           },
           "ChainedPuzzleToEnter": 0,
-          "IsCheckpointDoor": false,
           "PlayScannerVoiceAudio": true,
-          "SkipAutomaticProgressionObjective": false,
           "SecurityGateToEnter": 0,
           "UseStaticBioscanPointsInZone": false,
           "TurnOffAlarmOnTerminal": false,
@@ -3257,12 +3093,6 @@
             "ChanceToChange": 0.0
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -3426,12 +3256,6 @@
             "ChanceToChange": 0.0
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -3601,12 +3425,6 @@
             "ChanceToChange": 0.1
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -3785,12 +3603,6 @@
             "ChanceToChange": 0.0
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -4070,7 +3882,9 @@
           "ForceBigPickupsAllocation": false,
           "ConsumableDistributionInZone": 0,
           "BigPickupDistributionInZone": 0,
-          "TerminalPlacements": [],
+          "TerminalPlacements": [
+            {}
+          ],
           "ForbidTerminalsInZone": true,
           "PowerGeneratorPlacements": [],
           "DisinfectionStationPlacements": [],
@@ -4815,12 +4629,6 @@
               }
             }
           ],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 3,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -5151,12 +4959,6 @@
             "ChanceToChange": 0.25
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -5202,6 +5004,7 @@
           "ConsumableDistributionInZone": 10,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": true,
           "PowerGeneratorPlacements": [],
@@ -5275,12 +5078,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -5346,6 +5143,7 @@
           "ConsumableDistributionInZone": 1,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -5411,12 +5209,6 @@
             "ChanceToChange": 0.0
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -5578,12 +5370,6 @@
             "ChanceToChange": 0.0
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -5746,12 +5532,6 @@
             "ChanceToChange": 0.0
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -5906,12 +5686,6 @@
               }
             }
           ],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 3,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -5977,6 +5751,7 @@
           "ConsumableDistributionInZone": 0,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -6425,12 +6200,6 @@
             "ChanceToChange": 0.0
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -6567,12 +6336,6 @@
             "ChanceToChange": 0.0
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -6722,12 +6485,6 @@
             "ChanceToChange": 0.0
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -6871,12 +6628,6 @@
             "ChanceToChange": 0.0
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 3,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -7353,6 +7104,7 @@
           "ConsumableDistributionInZone": 0,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -7418,12 +7170,6 @@
             "ChanceToChange": 0.0
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -7489,6 +7235,7 @@
           "ConsumableDistributionInZone": 1,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -7554,12 +7301,6 @@
             "ChanceToChange": 0.0
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -7619,6 +7360,7 @@
           "ConsumableDistributionInZone": 0,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -7901,12 +7643,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": 972,
@@ -8313,12 +8049,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -8483,12 +8213,6 @@
           },
           "EventsOnEnter": [
           ],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": 972,
@@ -8646,12 +8370,6 @@
             "ChanceToChange": 0.0
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 3,
             "CustomText": 972,
@@ -8710,7 +8428,9 @@
           "ForceBigPickupsAllocation": true,
           "ConsumableDistributionInZone": 222,
           "BigPickupDistributionInZone": 0,
-          "TerminalPlacements": [],
+          "TerminalPlacements": [
+            {}
+          ],
           "ForbidTerminalsInZone": true,
           "PowerGeneratorPlacements": [],
           "DisinfectionStationPlacements": [],
@@ -8775,12 +8495,6 @@
             "ChanceToChange": 0.0
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": 972,
@@ -10538,12 +10252,6 @@
               }
             }
           ],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 3,
             "CustomText": 972,
@@ -10603,6 +10311,7 @@
           "ConsumableDistributionInZone": 0,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -10675,12 +10384,6 @@
               }
             }
           ],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 3,
             "CustomText": 972,
@@ -10734,6 +10437,7 @@
           "ConsumableDistributionInZone": 0,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -10806,12 +10510,6 @@
               }
             }
           ],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 3,
             "CustomText": 972,
@@ -10871,6 +10569,7 @@
           "ConsumableDistributionInZone": 0,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -11053,6 +10752,7 @@
           "ConsumableDistributionInZone": 1,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -11127,12 +10827,6 @@
             "ChanceToChange": 0.0
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": 972,
@@ -11364,6 +11058,7 @@
           "ConsumableDistributionInZone": 0,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -11761,12 +11456,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": 972,
@@ -12506,6 +12195,7 @@
           "BigPickupDistributionInZone": 0,
           "SpecificPickupSpawningDatas": [],
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -12581,12 +12271,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": 972,
@@ -12632,6 +12316,7 @@
           "ConsumableDistributionInZone": 20,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -12922,6 +12607,7 @@
           "ConsumableDistributionInZone": 0,
           "BigPickupDistributionInZone": 9,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -14287,6 +13973,7 @@
           "ConsumableDistributionInZone": 0,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -14823,6 +14510,7 @@
           "ConsumableDistributionInZone": 1,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -15126,6 +14814,7 @@
           "ConsumableDistributionInZone": 0,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -15280,6 +14969,7 @@
           "BigPickupDistributionInZone": 0,
           "SpecificPickupSpawningDatas": [],
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -15490,6 +15180,7 @@
           "ConsumableDistributionInZone": 0,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -15562,12 +15253,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": 972,
@@ -15621,6 +15306,7 @@
           "ConsumableDistributionInZone": 46,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -15758,6 +15444,7 @@
           "ConsumableDistributionInZone": 0,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -15882,6 +15569,7 @@
           "ConsumableDistributionInZone": 0,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -15947,12 +15635,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": 972,
@@ -16006,6 +15688,7 @@
           "ConsumableDistributionInZone": 0,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": false,
           "PowerGeneratorPlacements": [],
@@ -16071,12 +15754,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": 972,
@@ -16242,12 +15919,6 @@
           },
           "EventsOnEnter": [
           ],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": 972,
@@ -16499,6 +16170,7 @@
           "ConsumableDistributionInZone": 62,
           "BigPickupDistributionInZone": 0,
           "TerminalPlacements": [
+            {}
           ],
           "ForbidTerminalsInZone": true,
           "PowerGeneratorPlacements": [],
@@ -16564,12 +16236,6 @@
             "ChanceToChange": 0.0
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 3,
             "CustomText": 972,
@@ -16614,7 +16280,9 @@
           "ForceBigPickupsAllocation": false,
           "ConsumableDistributionInZone": 0,
           "BigPickupDistributionInZone": 0,
-          "TerminalPlacements": [],
+          "TerminalPlacements": [
+            {}
+          ],
           "ForbidTerminalsInZone": true,
           "PowerGeneratorPlacements": [],
           "DisinfectionStationPlacements": [],
@@ -16679,12 +16347,6 @@
             "ChanceToChange": 0.0
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 3,
             "CustomText": 972,
@@ -16729,7 +16391,9 @@
           "ForceBigPickupsAllocation": false,
           "ConsumableDistributionInZone": 0,
           "BigPickupDistributionInZone": 0,
-          "TerminalPlacements": [],
+          "TerminalPlacements": [
+            {}
+          ],
           "ForbidTerminalsInZone": true,
           "PowerGeneratorPlacements": [],
           "DisinfectionStationPlacements": [],
@@ -16807,12 +16471,6 @@
             "ChanceToChange": 0.3
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": 972,
@@ -16963,12 +16621,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": 972,
@@ -17141,12 +16793,6 @@
               }
             }
           ],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": 972,
@@ -17331,12 +16977,6 @@
               }
             }
           ],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": 972,
@@ -17474,12 +17114,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": 972,
@@ -17525,7 +17159,9 @@
           "ForceBigPickupsAllocation": false,
           "ConsumableDistributionInZone": 62,
           "BigPickupDistributionInZone": 0,
-          "TerminalPlacements": [],
+          "TerminalPlacements": [
+            {}
+          ],
           "ForbidTerminalsInZone": true,
           "PowerGeneratorPlacements": [],
           "DisinfectionStationPlacements": [],
@@ -17589,12 +17225,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": 972,
@@ -17748,12 +17378,6 @@
             "ChanceToChange": 0.3
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": 972,
@@ -17912,12 +17536,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": 972,
@@ -18061,12 +17679,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": 972,
@@ -18225,12 +17837,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": 972,
@@ -18374,12 +17980,6 @@
             "ChanceToChange": 0.5
           },
           "EventsOnEnter": [],
-          "EventsOnPortalWarp": [],
-          "EventsOnApproachDoor": [],
-          "EventsOnUnlockDoor": [],
-          "EventsOnOpenDoor": [],
-          "EventsOnDoorScanStart": [],
-          "EventsOnDoorScanDone": [],
           "ProgressionPuzzleToEnter": {
             "PuzzleType": 0,
             "CustomText": 972,

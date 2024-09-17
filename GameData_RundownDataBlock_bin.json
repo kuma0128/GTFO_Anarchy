@@ -3,8 +3,6 @@
   ],
   "Blocks": [
     {
-      "NeverShowRundownTree": false,
-      "UseTierUnlockRequirements": false,
       "ReqToReachTierB": {
         "MainSectors": 0,
         "SecondarySectors": 0,
@@ -34,9 +32,7 @@
         "TextLog": "Development: waiwaichan",
         "TextLogPos": {
           "x": 0.0,
-          "y": 0.0,
-          "magnitude": 0.0,
-          "sqrMagnitude": 0.0
+          "y": 0.0
         },
         "Visuals": {
           "ColorBackground": {
@@ -98,16 +94,11 @@
         },
         "SurfaceIconPosition": {
           "x": 0.0,
-          "y": 0.0,
-          "magnitude": 0.0,
-          "sqrMagnitude": 0.0
+          "y": 0.0
         },
-        "SurfaceDescription": "[SUBJECT EVALUATION] ALL NEWLY AWOKEN PRISONERS SHOULD GO THROUGH <color=red>ANARCHY.</color=red>",
-        "ExternalExpTitle": 0
+        "SurfaceDescription": "[SUBJECT EVALUATION] ALL NEWLY AWOKEN PRISONERS SHOULD GO THROUGH <color=red>ANARCHY.</color=red>"
       },
-      "VanityItemLayerDropDataBlock": 0,
-      "TierA": [
-      ],
+      "TierA": [],
       "TierB": [
         {
           "Enabled": true,
@@ -158,10 +149,6 @@
             },
             "DustTurbulence": 1.0
           },
-          "VanityItemsDropData": {
-            "Groups": []
-          },
-          "UseGearPicker": false,
           "LevelLayoutData": 3250379969,
           "MainLayerData": {
             "ZonesWithBulkheadEntrance": [],
@@ -253,8 +240,6 @@
               "ArtifactZoneDistributions": []
             }
           },
-          "DimensionDatas": [],
-          "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,
             "InfectionLevelAtExpeditionStart": 0.6,
@@ -262,13 +247,10 @@
             "StandardAmmoAtExpeditionStart": 1.0,
             "SpecialAmmoAtExpeditionStart": 1.0,
             "ToolAmmoAtExpeditionStart": 1.0
-          },
-          "HasExternalStyle": false,
-          "HasStoryStyle": false
+          }
         },
         {
           "Enabled": true,
-          "ExcludeFromProgression": false,
           "Accessibility": 0,
           "UnlockedByExpedition": {
             "Tier": 1,
@@ -315,11 +297,6 @@
             },
             "DustTurbulence": 1.0
           },
-          "VanityItemsDropData": {
-            "Groups": [
-            ]
-          },
-          "UseGearPicker": false,
           "LevelLayoutData": 202,
           "MainLayerData": {
             "ZonesWithBulkheadEntrance": [],
@@ -410,11 +387,6 @@
               "DimensionIndex": 1,
               "DimensionData": 20,
               "Enabled": true
-            },
-            {
-              "DimensionIndex": 22,
-              "DimensionData": 14,
-              "Enabled": true
             }
           ],
           "SoundEventOnWarpToReality": 0,
@@ -425,15 +397,12 @@
             "StandardAmmoAtExpeditionStart": 1.0,
             "SpecialAmmoAtExpeditionStart": 1.0,
             "ToolAmmoAtExpeditionStart": 1.0
-          },
-          "HasExternalStyle": true,
-          "HasStoryStyle": true
+          }
         }
       ],
       "TierC": [
         {
           "Enabled": true,
-          "ExcludeFromProgression": false,
           "Accessibility": 0,
           "UnlockedByExpedition": {
             "Tier":2,
@@ -464,7 +433,7 @@
           },
           "Expedition": {
             "ComplexResourceData": 27,
-            "MLSLevelKit": 0,
+            "MLSLevelKit": 1,
             "LightSettings": 0,
             "FogSettings": 83,
             "EnemyPopulation": 1,
@@ -480,10 +449,6 @@
             },
             "DustTurbulence": 1.0
           },
-          "VanityItemsDropData": {
-            "Groups": []
-          },
-          "UseGearPicker": false,
           "LevelLayoutData": 167,
           "MainLayerData": {
             "ZonesWithBulkheadEntrance": [],
@@ -590,17 +555,10 @@
             "StandardAmmoAtExpeditionStart": 1.0,
             "SpecialAmmoAtExpeditionStart": 1.0,
             "ToolAmmoAtExpeditionStart": 1.0
-          },
-          "HasExternalStyle": false,
-          "HasStoryStyle": false
+          }
         },
         {
           "Enabled": true,
-          "IsSinglePlayer": false,
-          "SkipLobby": false,
-          "PutIconAboveTier": false,
-          "DisablePlayerVoicelines": false,
-          "ExcludeFromProgression": false,
           "Accessibility": 0,
           "UnlockedByExpedition": {
             "Tier": 1,
@@ -631,7 +589,7 @@
           },
           "Expedition": {
             "ComplexResourceData": 58,
-            "MLSLevelKit": 0,
+            "MLSLevelKit": 1,
             "LightSettings": 64,
             "FogSettings": 123,
             "EnemyPopulation": 1,
@@ -647,10 +605,6 @@
             },
             "DustTurbulence": 1.0
           },
-          "VanityItemsDropData": {
-            "Groups": []
-          },
-          "UseGearPicker": false,
           "LevelLayoutData": 3718356978,
           "MainLayerData": {
             "ZonesWithBulkheadEntrance": [
@@ -783,15 +737,10 @@
             "StandardAmmoAtExpeditionStart": 0.25,
             "SpecialAmmoAtExpeditionStart": 1.0,
             "ToolAmmoAtExpeditionStart": 1.0
-          },
-          "HasExternalStyle": false,
-          "HasStoryStyle": false
+          }
         },
         {
           "Enabled": true,
-          "IsSinglePlayer": false,
-          "SkipLobby": false,
-          "ExcludeFromProgression": false,
           "Accessibility": 1,
           "UnlockedByExpedition": {
             "Tier":2,
@@ -841,10 +790,6 @@
             },
             "DustTurbulence": 1.0
           },
-          "VanityItemsDropData": {
-            "Groups": []
-          },
-          "UseGearPicker": false,
           "LevelLayoutData": 171,
           "MainLayerData": {
             "ZonesWithBulkheadEntrance": [
@@ -1025,15 +970,12 @@
             "StandardAmmoAtExpeditionStart": 0.1,
             "SpecialAmmoAtExpeditionStart": 0.0,
             "ToolAmmoAtExpeditionStart": 0.0
-          },
-          "HasExternalStyle": false,
-          "HasStoryStyle": false
+          }
          }
       ],
       "TierD": [
         {
           "Enabled": true,
-          "ExcludeFromProgression": false,
           "Accessibility": 1,
           "UnlockedByExpedition": {
             "Tier": 2,
@@ -1079,10 +1021,6 @@
             },
             "DustTurbulence": 1.0
           },
-          "VanityItemsDropData": {
-            "Groups": []
-          },
-          "UseGearPicker": false,
           "LevelLayoutData": 106,
           "MainLayerData": {
             "ZonesWithBulkheadEntrance": [
@@ -1239,14 +1177,10 @@
             "StandardAmmoAtExpeditionStart": 1.0,
             "SpecialAmmoAtExpeditionStart": 1.0,
             "ToolAmmoAtExpeditionStart": 1.0
-          },
-          "HasExternalStyle": false,
-          "HasStoryStyle": false
+          }
         },
         {
           "Enabled": true,
-          "IsSinglePlayer": false,
-          "ExcludeFromProgression": false,
           "Accessibility": 1,
           "UnlockedByExpedition": {
             "Tier": 2,
@@ -1293,9 +1227,6 @@
             },
             "DustTurbulence": 1.0
           },
-          "VanityItemsDropData": {
-          },
-          "UseGearPicker": false,
           "LevelLayoutData": 1574517326,
           "MainLayerData": {
             "ZonesWithBulkheadEntrance": [],
@@ -1385,15 +1316,12 @@
             "StandardAmmoAtExpeditionStart": 1.0,
             "SpecialAmmoAtExpeditionStart": 1.0,
             "ToolAmmoAtExpeditionStart": 1.0
-          },
-          "HasExternalStyle": false,
-          "HasStoryStyle": false
+          }
         }
       ],
       "TierE": [
         {
           "Enabled": true,
-          "ExcludeFromProgression": false,
           "Accessibility": 1,
           "UnlockedByExpedition": {
             "Tier": 2,
@@ -1413,8 +1341,7 @@
             "ExpeditionDepth":3333,
             "EstimatedDuration": "Unknown",
             "ExpeditionDescription": "Prisoners <color=red>::ERR ###\r</color>\n",
-            "RoleplayedWardenIntel": "> This place is the one...\n<color=red>> Do you believe in God?</color>",
-            "DevInfo": ""
+            "RoleplayedWardenIntel": "> This place is the one...\n<color=red>> Do you believe in God?</color>"
           },
           "Seeds": {
             "BuildSeed": 333444333,
@@ -1440,10 +1367,6 @@
             },
             "DustTurbulence": 1.0
           },
-          "VanityItemsDropData": {
-            "Groups": []
-          },
-          "UseGearPicker": false,
           "LevelLayoutData": 1574517326,
           "MainLayerData": {
             "ZonesWithBulkheadEntrance": [],
@@ -1533,9 +1456,7 @@
             "StandardAmmoAtExpeditionStart": 1.0,
             "SpecialAmmoAtExpeditionStart": 1.0,
             "ToolAmmoAtExpeditionStart": 1.0
-          },
-          "HasExternalStyle": false,
-          "HasStoryStyle": false
+          }
         }
       ],
       "name": "Rundown Anarchy",

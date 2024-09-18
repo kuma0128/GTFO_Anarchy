@@ -1,0 +1,49 @@
+[
+    {
+        "Health": {
+            "HealthMax": 150.0,
+            "DamageUntilHitreact": 40.0,
+            "BodypartHealth": 15.0,
+            "WeakspotDamageMulti": 2.0,
+            "ArmorDamageMulti": 0.3,
+            "HitreactOnLimbDestruction": 4,
+            "TryForceHitreactOnLimbDestruction": true
+        },
+        "GlueTolerance": 19.0,
+        "GlueFadeOutTime": 9.0,
+        "CanBePushed": false,
+        "ForbidTwitchHit": false,
+        "AllowDamgeBonusFromBehind": true,
+        "UseTentacleTunnelCheck": true,
+        "UseVisibilityRaycastDuringTentacleAttack": false,
+        "TentacleAttackDamageRadiusIfNoTunnelCheck": 0.0,
+        "TentacleAttackDamage": 3.0,
+        "MeleeAttackDamage": 3.0,
+        "MeleeAttackDamageCheckRadius": 1.0,
+        "TagTime": 3.0,
+        "EnemyCollisionRadius": 0.75,
+        "EnemyCollisionPlayerMovementReduction": 0.5,
+        "EnemyCollisionMinimumMoveSpeedModifier": 0.3,
+        "ScoutTentaclesMoveOutMultiplier": 4.0,
+        "ScoutTentaclesMoveInTime": 3.0,
+        "ScoutTentaclesMoveInDetectedTime": 1.0,
+        "ScoutTentacleSourceExpansionOffset": 0.4,
+        "ScoutTentacleAngleMinMax": {
+            "x": -0.4,
+            "y": 0.0,
+            "normalized": {
+                "x": -1.0,
+                "y": 0.0,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.0
+            },
+            "magnitude": 0.4,
+            "sqrMagnitude": 0.160000011
+        },
+        "ScoutTentacleCount": 50,
+        "name": "ShadowRapid_notag",
+        "internalEnabled": true,
+        "persistentID": "ShadowRapid_notag",
+        "datablock": "EnemyBalancing"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "Enabled": true,
+        "FogColor": {
+          "a": 0.0,
+          "r": 0.9019608,
+          "g": 0.8745098,
+          "b": 0.819607854
+        },
+        "FogDensity": 0.0003,
+        "FogAmbience": 0.0001,
+        "DensityNoiseDirection": {
+          "x": -1.0,
+          "y": -0.5,
+          "z": -1.0,
+          "normalized": {
+            "x": -0.6666667,
+            "y": -0.333333343,
+            "z": -0.6666667,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 1.5,
+          "sqrMagnitude": 2.25
+        },
+        "DensityNoiseSpeed": 0.074,
+        "DensityNoiseScale": 0.08,
+        "DensityHeightAltitude": -5.0,
+        "DensityHeightRange": 1.0,
+        "DensityHeightMaxBoost": 0.02,
+        "Infection": 0.0,
+        "name": "POUNCER_ARENA_NO_INFECTION",
+        "internalEnabled": true,
+        "persistentID": "POUNCER_ARENA_NO_INFECTION",
+        "datablock": "FogSettings"
+    },
+    {
+        "Enabled": true,
+        "FogColor": {
+          "a": 0.03137255,
+          "r": 0.0,
+          "g": 1.0,
+          "b": 0.7137255
+        },
+        "FogDensity": 0.0006,
+        "FogAmbience": 0.0001,
+        "DensityNoiseDirection": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "DensityNoiseSpeed": 0.055,
+        "DensityNoiseScale": 0.045,
+        "DensityHeightAltitude": 1.0,
+        "DensityHeightRange": 0.4,
+        "DensityHeightMaxBoost": 0.035,
+        "Infection": 0.03,
+        "name": "POUNCER_ARENA_INFECTIOUS",
+        "internalEnabled": true,
+        "persistentID": "POUNCER_ARENA_INFECTIOUS",
+        "datablock": "FogSettings"
+      }
+]

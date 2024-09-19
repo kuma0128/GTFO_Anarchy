@@ -1,0 +1,200 @@
+[
+  {
+    "WaveRoleWeakling": 13,
+    "WaveRoleStandard": 13,
+    "WaveRoleSpecial": 42,
+    "WaveRoleMiniBoss": 42,
+    "WaveRoleBoss": 16,
+    "name": "STRIKERS_FLYER_MIX",
+    "internalEnabled": true,
+    "persistentID": "STRIKERS_FLYER_MIX",
+    "datablock": "SurvivalWavePopulation"
+  },
+  {
+    "WaveRoleWeakling": 30,
+    "WaveRoleStandard": 30,
+    "WaveRoleSpecial": 39,
+    "WaveRoleMiniBoss": 39,
+    "WaveRoleBoss": 39,
+    "name": "Bullrush_Only_Boss_Special",
+    "internalEnabled": true,
+    "persistentID": "Bullrush_Only_Boss_Special",
+    "datablock": "SurvivalWavePopulation"
+  },
+  {
+    "WaveRoleWeakling": 13,
+    "WaveRoleStandard": 13,
+    "WaveRoleSpecial": 53,
+    "WaveRoleMiniBoss": 53,
+    "WaveRoleBoss": 53,
+    "name": "Striker_major_Berserk_mixed",
+    "internalEnabled": true,
+    "persistentID": "Striker_major_Berserk_mixed",
+    "datablock": "SurvivalWavePopulation"
+  },
+  {
+    "WaveRoleWeakling": 53,
+    "WaveRoleStandard": 53,
+    "WaveRoleSpecial": 53,
+    "WaveRoleMiniBoss": 53,
+    "WaveRoleBoss": 53,
+    "name": "Berserk_only",
+    "internalEnabled": true,
+    "persistentID": "Berserk_only",
+    "datablock": "SurvivalWavePopulation"
+  },
+  {
+    "WaveRoleWeakling": 39,
+    "WaveRoleStandard": 39,
+    "WaveRoleSpecial": 33,
+    "WaveRoleMiniBoss": 33,
+    "WaveRoleBoss": 33,
+    "name": "Bullrush_Boss_Hybrid_Mix",
+    "internalEnabled": true,
+    "persistentID": "Bullrush_Boss_Hybrid_Mix",
+    "datablock": "SurvivalWavePopulation"
+  },
+  {
+    "WaveRoleWeakling": 47,
+    "WaveRoleStandard": 47,
+    "WaveRoleSpecial": 47,
+    "WaveRoleMiniBoss": 47,
+    "WaveRoleBoss": 47,
+    "name": "TANK_BOSS",
+    "internalEnabled": true,
+    "persistentID": "TANK_BOSS",
+    "datablock": "SurvivalWavePopulation"
+  },
+  {
+    "WaveRoleWeakling": 46,
+    "WaveRoleStandard": 46,
+    "WaveRoleSpecial": 46,
+    "WaveRoleMiniBoss": 46,
+    "WaveRoleBoss": 46,
+    "name": "POUNCER",
+    "internalEnabled": true,
+    "persistentID": "POUNCER",
+    "datablock": "SurvivalWavePopulation"
+  },
+  {
+    "WaveRoleWeakling": 30,
+    "WaveRoleStandard": 30,
+    "WaveRoleSpecial": 30,
+    "WaveRoleMiniBoss": 33,
+    "WaveRoleBoss": 33,
+    "name": "Bullrush_major_hybrid_mix",
+    "internalEnabled": true,
+    "persistentID": "Bullrush_major_hybrid_mix",
+    "datablock": "SurvivalWavePopulation"
+  },
+  {
+    "WaveRoleWeakling": 31,
+    "WaveRoleStandard": 31,
+    "WaveRoleSpecial": 11,
+    "WaveRoleMiniBoss": 33,
+    "WaveRoleBoss": 33,
+    "name": "Striker_major_Hybrid_mix",
+    "internalEnabled": true,
+    "persistentID": "Striker_major_Hybrid_mix",
+    "datablock": "SurvivalWavePopulation"
+  },
+  {
+    "WaveRoleWeakling": 42,
+    "WaveRoleStandard": 42,
+    "WaveRoleSpecial": 42,
+    "WaveRoleMiniBoss": 42,
+    "WaveRoleBoss": 42,
+    "name": "FLYER",
+    "internalEnabled": true,
+    "persistentID": "FLYER",
+    "datablock": "SurvivalWavePopulation"
+  },
+  {
+    "WaveRoleWeakling": 45,
+    "WaveRoleStandard": 45,
+    "WaveRoleSpecial": 45,
+    "WaveRoleMiniBoss": 45,
+    "WaveRoleBoss": 45,
+    "name": "FLYER_BIG",
+    "internalEnabled": true,
+    "persistentID": "FLYER_BIG",
+    "datablock": "SurvivalWavePopulation"
+  },
+  {
+    "WaveRoleWeakling": 33,
+    "WaveRoleStandard": 33,
+    "WaveRoleSpecial": 33,
+    "WaveRoleMiniBoss": 33,
+    "WaveRoleBoss": 33,
+    "name": "HYBRID",
+    "internalEnabled": true,
+    "persistentID": "HYBRID",
+    "datablock": "SurvivalWavePopulation"
+  },
+  {
+    "WaveRoleWeakling": 16,
+    "WaveRoleStandard": 16,
+    "WaveRoleSpecial": 16,
+    "WaveRoleMiniBoss": 16,
+    "WaveRoleBoss": 16,
+    "name": "STRIKER_BIG",
+    "internalEnabled": true,
+    "persistentID": "STRIKER_BIG",
+    "datablock": "SurvivalWavePopulation"
+  },
+  {
+    "WaveRoleWeakling": 30,
+    "WaveRoleStandard": 21,
+    "WaveRoleSpecial": 30,
+    "WaveRoleMiniBoss": 39,
+    "WaveRoleBoss": 35,
+    "name": "Shadow_Major_Bullrush_Mix",
+    "internalEnabled": true,
+    "persistentID": "Shadow_Major_Bullrush_Mix",
+    "datablock": "SurvivalWavePopulation"
+  },
+  {
+    "WaveRoleWeakling": 35,
+    "WaveRoleStandard": 35,
+    "WaveRoleSpecial": 35,
+    "WaveRoleMiniBoss": 35,
+    "WaveRoleBoss": 35,
+    "name": "SHADOWS_BIG",
+    "internalEnabled": true,
+    "persistentID": "SHADOWS_BIG",
+    "datablock": "SurvivalWavePopulation"
+  },
+  {
+    "WaveRoleWeakling": 11,
+    "WaveRoleStandard": 13,
+    "WaveRoleSpecial": 16,
+    "WaveRoleMiniBoss": 33,
+    "WaveRoleBoss": 39,
+    "name": "Modified Sp-Hybrid",
+    "internalEnabled": true,
+    "persistentID": "Modified Sp-Hybrid",
+    "datablock": "SurvivalWavePopulation"
+  },
+  {
+    "WaveRoleWeakling": 30,
+    "WaveRoleStandard": 30,
+    "WaveRoleSpecial": 30,
+    "WaveRoleMiniBoss": 29,
+    "WaveRoleBoss": 29,
+    "name": "Bullrush_Tank_mix",
+    "internalEnabled": true,
+    "persistentID": "Bullrush_Tank_mix",
+    "datablock": "SurvivalWavePopulation"
+  },
+  {
+    "WaveRoleWeakling": 53,
+    "WaveRoleStandard": 53,
+    "WaveRoleSpecial": 52,
+    "WaveRoleMiniBoss": 52,
+    "WaveRoleBoss": 52,
+    "name": "Berserk_Striker_Shooter",
+    "internalEnabled": true,
+    "persistentID": "Berserk_Striker_Shooter",
+    "datablock": "SurvivalWavePopulation"
+  }
+]

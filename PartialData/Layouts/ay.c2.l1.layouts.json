@@ -2115,8 +2115,8 @@
             "StaticSpawnDataContainers": []
         }
     ],
-    "name": "Anarchy_C2",
+    "name": "Anarchy_C2_L1",
     "internalEnabled": true,
-    "persistentID": 202,
+    "persistentID": "Anarchy_C2_L1",
     "datablock": "LevelLayout"
 }

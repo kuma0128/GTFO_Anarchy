@@ -1836,8 +1836,6 @@
         },
         {
             "LocalIndex": 9,
-            "AliasOverride": -1,
-            "OverrideAliasPrefix": false,
             "SubSeed": 65436,
             "MarkerSubSeed": 4791,
             "LightsSubSeed": 1252,
@@ -1846,16 +1844,8 @@
             "CustomGeomorph": "Assets/Prefabs/Geomorph/Tech/geo_datacenter_FA_I_01.prefab",
             "IgnoreRandomGeomorphRotation": false,
             "CoverageMinMax": {
-                "x": 25.0,
-                "y": 35.0,
-                "normalized": {
-                    "x": 0.5812382,
-                    "y": 0.813733459,
-                    "magnitude": 1.0,
-                    "sqrMagnitude": 1.0
-                },
-                "magnitude": 43.0116272,
-                "sqrMagnitude": 1850.0
+                "x": 40.0,
+                "y": 40.0
             },
             "BuildFromLocalIndex": 8,
             "StartPosition": 2,
@@ -1868,13 +1858,6 @@
                 "ChanceToChange": 0.0
             },
             "EventsOnEnter": [],
-            "EventsOnPortalWarp": [],
-            "EventsOnApproachDoor": [],
-            "EventsOnUnlockDoor": [],
-            "EventsOnOpenDoor": [],
-            "EventsOnDoorScanStart": [],
-            "EventsOnDoorScanDone": [],
-            "EventsOnTrigger": [],
             "ProgressionPuzzleToEnter": {
                 "PuzzleType": 0,
                 "CustomText": "<color=red>://ERROR: Door in emergency lockdown, unable to operate.</color>",
@@ -1906,7 +1889,7 @@
                     "GroupType": 0,
                     "Difficulty": 0,
                     "Distribution": 2,
-                    "DistributionValue": 1.0
+                    "DistributionValue": 0.8
                 },
                 {
                     "GroupType": 1,
@@ -2115,8 +2098,8 @@
             "StaticSpawnDataContainers": []
         }
     ],
-    "name": "Anarchy_C2",
+    "name": "Anarchy_C2_L1",
     "internalEnabled": true,
-    "persistentID": 202,
+    "persistentID": "Anarchy_C2_L1",
     "datablock": "LevelLayout"
 }

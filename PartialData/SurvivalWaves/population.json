@@ -170,9 +170,9 @@
     "WaveRoleSpecial": 16,
     "WaveRoleMiniBoss": 33,
     "WaveRoleBoss": 39,
-    "name": "Modified Sp-Hybrid",
+    "name": "Modified Sp-Hybrids",
     "internalEnabled": true,
-    "persistentID": "Modified Sp-Hybrid",
+    "persistentID": "Modified Sp-Hybrids",
     "datablock": "SurvivalWavePopulation"
   },
   {

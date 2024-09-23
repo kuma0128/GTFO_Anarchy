@@ -1325,8 +1325,8 @@
             "StaticSpawnDataContainers": []
         }
     ],
-    "name": "Anarchy_E2 Secondary R45_E_Reactor_startup_L2",
+    "name": "Anarchy_E2_L1",
     "internalEnabled": true,
-    "persistentID": 112,
+    "persistentID": "Anarchy_E2_L1",
     "datablock": "LevelLayout"
 }

@@ -1,5 +1,13 @@
 [
 	//AUTO-GENERATED PERSISTENT ID LIST
+	{ "GUID": "ANARCHY_C1_CRS", "ID": 65535 },
+	{ "GUID": "ANARCHY_C2_CRS", "ID": 65534 },
+	{ "GUID": "ANARCHY_D1_CRS", "ID": 65533 },
+	{ "GUID": "ANARCHY_D2_CRS", "ID": 65532 },
+	{ "GUID": "ANARCHY_D3_CRS", "ID": 65531 },
+	{ "GUID": "ANARCHY_E1_CRS", "ID": 65530 },
+	{ "GUID": "ANARCHY_E2_CRS", "ID": 65529 },
+	{ "GUID": "ANARCHY_ROOT_CRS", "ID": 65528 },
 	{ "GUID": "ShadowRapid_notag", "ID": 65535 },
 	{ "GUID": "Anarchy_C1_L1", "ID": 65535 },
 	{ "GUID": "Anarchy_C2_L1", "ID": 65534 },

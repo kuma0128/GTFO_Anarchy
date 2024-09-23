@@ -128,7 +128,7 @@
         "LightJobSeedOffset": 1616135
       },
       "Expedition": {
-        "ComplexResourceData": 31,
+        "ComplexResourceData": "ANARCHY_C1_CRS",
         "MLSLevelKit": 0,
         "LightSettings": 77,
         "FogSettings": 8,
@@ -277,7 +277,7 @@
         "LightJobSeedOffset": 0
       },
       "Expedition": {
-        "ComplexResourceData": 3,
+        "ComplexResourceData": "ANARCHY_C2_CRS",
         "MLSLevelKit": 1,
         "LightSettings": 0,
         "FogSettings": 108,
@@ -430,7 +430,7 @@
         "LightJobSeedOffset": 2222
       },
       "Expedition": {
-        "ComplexResourceData": 27,
+        "ComplexResourceData": "ANARCHY_D1_CRS",
         "MLSLevelKit": 1,
         "LightSettings": 0,
         "FogSettings": 83,
@@ -587,7 +587,7 @@
         "LightJobSeedOffset": 0
       },
       "Expedition": {
-        "ComplexResourceData": 58,
+        "ComplexResourceData": "ANARCHY_D2_CRS",
         "MLSLevelKit": 1,
         "LightSettings": 64,
         "FogSettings": 123,
@@ -774,7 +774,7 @@
         "LightJobSeedOffset": 0
       },
       "Expedition": {
-        "ComplexResourceData": 1,
+        "ComplexResourceData": "ANARCHY_D3_CRS",
         "MLSLevelKit": 0,
         "LightSettings": 21,
         "FogSettings": 60,
@@ -1008,7 +1008,7 @@
         "LightJobSeedOffset": 0
       },
       "Expedition": {
-        "ComplexResourceData": 1,
+        "ComplexResourceData": "ANARCHY_E1_CRS",
         "MLSLevelKit": 0,
         "LightSettings": 64,
         "FogSettings": 65,
@@ -1215,7 +1215,7 @@
         "LightJobSeedOffset": 1100
       },
       "Expedition": {
-        "ComplexResourceData": 37,
+        "ComplexResourceData": "ANARCHY_E2_CRS",
         "MLSLevelKit": 0,
         "LightSettings": 28,
         "FogSettings": 28,
@@ -1357,7 +1357,7 @@
         "LightJobSeedOffset": 1100
       },
       "Expedition": {
-        "ComplexResourceData": 37,
+        "ComplexResourceData": "ANARCHY_ROOT_CRS",
         "MLSLevelKit": 0,
         "LightSettings": 28,
         "FogSettings": 28,

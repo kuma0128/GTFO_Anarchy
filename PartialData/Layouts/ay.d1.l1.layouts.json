@@ -142,7 +142,7 @@
                 "Middle": 0.0,
                 "End": 0.0
             },
-            "WeaponAmmoMulti": 0.2,
+            "WeaponAmmoMulti": 0.4,
             "WeaponAmmoPlacement": {
                 "Start": 0.0,
                 "Middle": 0.0,
@@ -298,7 +298,7 @@
                 "Middle": 0.0,
                 "End": 0.0
             },
-            "WeaponAmmoMulti": 4.0,
+            "WeaponAmmoMulti": 4.4,
             "WeaponAmmoPlacement": {
                 "Start": 0.0,
                 "Middle": 0.0,

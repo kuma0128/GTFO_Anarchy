@@ -1,0 +1,14 @@
+{
+  "MainLevelLayout": "Anarchy_D1_L1",
+  "Puzzles": [
+    {
+      "Index": 56,
+      "Position": {
+        "x": 0.3676,
+        "y": 0.2444,
+        "z": 90.0528
+      },
+      "HideSpline": false
+    }
+  ]
+}

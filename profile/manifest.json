@@ -1,0 +1,28 @@
+{
+    "name": "Anarchy",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/kuma0128/GTFO_mod_anarchy",
+    "description": "Teamwork is your only hope.\nGet The F*** Out!",
+    "dependencies": [
+        "dakkhuza-MTFO-4.4.4",
+        "DarkEmperor-PreludeGeos-0.0.1",
+        "ProjectZaero-Data_Sphere_Flavor_Pack-1.0.0",
+        "Flowaria-LGTuner-0.99999.3",
+        "Extra-MyCoolPlugin3-999.999.9999",
+        "Flowaria-FlowGeos-0.7.84",
+        "Sam_D_B-SamGeos-1.0.5",
+        "Red_Leicester_Cheese-CheeseGeos-0.1.2",
+        "Extra-MyCoolPlugin3-999.999.9999",
+        "Inas07-EOSExt_SecuritySensor-1.1.2",
+        "Inas07-LocalProgression-1.1.10",
+        "GTFOModding-BetterMaps-1.0.1",
+        "Localia-PingEverything-3.0.0",
+        "Inas07-ExtraChainedPuzzleCustomization-1.6.7",
+        "hirnukuono-WardenIntelOhBehave-0.0.1",
+        "Untilted-CleanerRundownMenu-1.0.1",
+        "hirnukuono-AdvancedWardenObjective-1.2.4",
+        "Dinorush-AccurateCrosshair-1.4.1",
+        "Flowaria-MTFO_Extension_PartialData-1.4.3",
+        "Flowaria-BetterDoorBulletCollision-1.0.1"
+    ]
+}

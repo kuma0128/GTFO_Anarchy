@@ -1,5 +1,17 @@
 # CHANGELOG
 
+```0.4.27```
+
+- Refactored codes
+
+```0.4.26```
+
+- AY-D1
+  - Activated
+  - Changed some geos
+  - Nerfed some alarms
+  - Deleted glitch positions
+
 ```0.4.25```
 
 - AY-C1

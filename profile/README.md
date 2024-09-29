@@ -12,22 +12,14 @@ Special thanks to my team(Scotch, Jonino, Cross) and friends.
 
 ## VERSION
 
+```1.0.1```
+
+- Added some convinience plugins
+
 ```1.0.0```
 
-- Added BetterDoorBulletCollision plugin
+- Added a BetterDoorBulletCollision plugin
 - Due to being busy with personal matters, I will suspend development and release it as is. Regarding D3, if there is high demand, I will make it available.
-
-```0.4.27```
-
-- Refactored codes
-
-```0.4.26```
-
-- AY-D1
-  - Activated
-  - Changed some geos
-  - Nerfed some alarms
-  - Deleted glitch positions
 
 ## Rundown Trailer
 

@@ -1,7 +1,7 @@
 {
     "name": "Anarchy",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/kuma0128/GTFO_mod_anarchy",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/kuma0128/GTFO_Anarchy/releases/tag/anarchy-1.0.1",
     "description": "Teamwork is your only hope.\nGet The F*** Out!",
     "dependencies": [
         "dakkhuza-MTFO-4.4.4",
@@ -23,6 +23,11 @@
         "hirnukuono-AdvancedWardenObjective-1.2.4",
         "Dinorush-AccurateCrosshair-1.4.1",
         "Flowaria-MTFO_Extension_PartialData-1.4.3",
-        "Flowaria-BetterDoorBulletCollision-1.0.1"
+        "Flowaria-BetterDoorBulletCollision-1.0.1",
+        "tru0067-PierceBugFix-1.2.1",
+        "randomuserhi-DamageSync-0.0.4",
+        "randomuserhi-KillIndicatorFix-0.1.6",
+        "randomuserhi-AggroFix-0.0.2",
+        "randomuserhi-DMRReloadFix-0.0.5"
     ]
 }

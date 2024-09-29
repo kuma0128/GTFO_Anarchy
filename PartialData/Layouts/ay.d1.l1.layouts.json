@@ -3056,6 +3056,7 @@
             "StaticSpawnDataContainers": []
         }
     ],
+    "ZoneAliasStart": 433,
     "name": "Anarchy_D1_L1",
     "internalEnabled": true,
     "persistentID": "Anarchy_D1_L1",

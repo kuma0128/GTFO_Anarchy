@@ -14,7 +14,7 @@ Special thanks to my team(Scotch, Jonino, Cross) and friends.
 
 ```1.0.1```
 
-- Added some convinience plugins
+- Added some convenience plugins
 
 ```1.0.0```
 
